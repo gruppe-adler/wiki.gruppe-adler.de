@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-wiki",
+  "version": "0.0.1",
+  "description": "Gruppe Adler wiki built with vuepress",
+  "author": "DerZade for Gruppe Adler",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
