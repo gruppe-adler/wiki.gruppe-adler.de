@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.29"
+  },
+  "dependencies": {
+    "@vuepress/plugin-search": "^1.0.0-alpha.29"
   }
 }
