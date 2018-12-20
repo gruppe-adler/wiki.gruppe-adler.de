@@ -23,6 +23,30 @@
     }
 }
 
+.custom-block {
+    &.tip {
+        border-color: #66AA66 !important;
+    }
+
+    &.warning {
+        background-color: rgba(#D18D1F,0.3) !important;
+        border-color: #D18D1F !important;
+        color: darken(#D18D1F, 70%) !important;
+
+        .custom-block-title {
+            color: #D18D1F !important;
+        }
+    }
+
+    &.danger {
+        background-color rgba(#8F1167,0.3) !important;
+        border-color #8F1167 !important;
+        color: darken(#8F1167, 70%) !important;
+        .custom-block-title {
+            color: #8F1167 !important;
+        }
+    }
+}
 
 
 .theme-container.grad-landing-page {
