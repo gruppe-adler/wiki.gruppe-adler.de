@@ -1,3 +1,5 @@
+const extendMarkdown = require("./extendMarkdown.js");
+
 module.exports = {
     title: 'Gruppe Adler Wiki',
     description: 'Gruppe Adler Wiki - Hier findest du alles von Organisationssturkur bis zu Taktikgelaber.',
@@ -8,5 +10,8 @@ module.exports = {
         editLinks: true,
         docsDir: 'docs',
         editLinkText: 'Seite auf GitHub bearbeiten'
+    },
+    markdown: {
+        'extendMarkdown': extendMarkdown
     }
 }

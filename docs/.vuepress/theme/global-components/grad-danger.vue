@@ -1,5 +1,5 @@
 <template>
-    <grad-custom-container :heading="title || 'GEFAHR'" type="danger">
+    <grad-custom-container :title="title || 'GEFAHR'" type="danger">
         <slot />
     </grad-custom-container>
 </template>

@@ -1,34 +1,15 @@
+<template>
+    <div :class="['grad-custom-container', `grad-custom-container--${this.type}`]">
+        <p class="grad-custom-container__title">{{this.title || 'CONTAINER'}}</p>
+        <slot />
+    </div>
+
+</template>
+
 <script>
 export default {
     'name': 'grad-custom-container',
-    props: ['heading', 'type'],
-    render(createElement) {
-        return createElement(
-            'div',
-            {class: ['grad-custom-container', `grad-custom-container--${this.type}`]},
-            [
-                createElement(
-                    'p',
-                    {class: ['grad-custom-container__title']},
-                    [this.heading || 'CONTAINER']
-                ),
-                createElement(
-                    'div',
-                    {
-                        domProps: {
-                            innerHTML: this.renderedContent
-                        },
-                    },
-                    this.$slots.default
-                )
-                
-            ]
-        );
-    },
-    mounted() {
-    },
-    computed: {
-    }
+    props: ['title', 'type'],
 }
 </script>
 

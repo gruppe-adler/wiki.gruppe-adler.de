@@ -1,5 +1,5 @@
 <template>
-    <grad-custom-container :heading="title || 'TIPP'" type="tip">
+    <grad-custom-container :title="title || 'TIPP'" type="tip">
         <slot />
     </grad-custom-container>
 </template>
