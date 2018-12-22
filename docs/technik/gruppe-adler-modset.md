@@ -41,7 +41,7 @@ Ein neues Profil lässt sich unter `Profiles` → `Edit` → `New` erstellen.
 Nachdem das neue Profil erstellt wurde sollte Arma3Sync neu gestartet werden.
 :::
 
-![create_profile](./data/create-profile.jpg)
+![create_profile](/data/gruppe-adler-modset/create-profile.jpg)
 
 ### Grundlegende Einstellungen
 
@@ -56,7 +56,7 @@ Das Arma Installations Verzeichnis lässt sich folgendermaßen finden:
 Steam öffnen → Rechtsklick auf Arma 3 → _Eigenschaften_ → _Lokale Dateien_ → _Lokale Dateien durchsuchen_
 :::
 
-![launcher-options](./data/launcher-options.jpg)
+![launcher-options](/data/gruppe-adler-modset/launcher-options.jpg)
 
 Im Tab `Addon Options` muss nun noch ein Ordner eingestellt werden, in welchem nachher die Mods gespeichert werden. Dazu einfach rechts auf das blaue Kreuz klicken und den gewünschten Pfad auswählen.
 ::: grad-warn
@@ -65,7 +65,7 @@ Um Fehler zu vermeiden sollte als Verzeichnis nicht das Arma-Verzeichnis gewähl
 Falls die Mods dennoch im Arma-Verzeichnis liegen sollen, sollte mindestens ein Ordner _"Gruppe Adler Mods"_ im Arma-Verzeichnis erstellt und gewählt werden.
 :::
 
-![addon-options](./data/addon-options.jpg)
+![addon-options](/data/gruppe-adler-modset/addon-options.jpg)
 
 ### Anlegen des Repository
 Ein neues Repository lässt sich im `Repository` Tab anlegen.  
@@ -73,7 +73,7 @@ Hierzu - auf der rechten Seite - auf das blaue Kreuz klicken. Im neu geöffnetem
 <span class="grad--color-fuehrung">`http://gruppe-adler.de/arma3sync/.a3s/autoconfig`</span>  
 Danach auf `Import` drücken. Die Verbindung war erfolgreich wenn über dem Eingabefeld <span class="grad--color-gastspieler">_Connection success!_</span> steht.
 
-![new-repository](./data/new-repository.jpg)
+![new-repository](/data/gruppe-adler-modset/new-repository.jpg)
 
 ::: grad-tip
 A3S bietet im Tab `Repositories` für alle Repositories noch folgende hilfreiche Einstellungen:
@@ -88,12 +88,12 @@ Jedes mal wenn Mods geupdatet werden müssen folgende Schritte befolgt werden um
 ### Mit Repository verbinden
 In der Liste der Events **(untere Liste!)** das gewünschte Event auswählen und rechts neben der Liste auf den Knopf mit dem blauen Pfeil klicken.
 
-![connect-to-repository](./data/connect-to-repository.jpg)
+![connect-to-repository](/data/gruppe-adler-modset/connect-to-repository.jpg)
 
 Ein neuer Tab mit dem gewählten Event erscheint. Hier muss unter `Default destination folder` das Verzeichnis, welches unter [Grundlegende Einstellungen](#grundlegende-einstellungen) erstellt wurde, gewählt werden.  
 Mit dem Knopf mit dem grünen Haken kann die Aktualität der Mods überprüft werden. Dieser Prozess kann - gerade beim aller ersten Mal - einige Minuten dauern.
 
-![sync-mods](./data/sync-mods.jpg)
+![sync-mods](/data/gruppe-adler-modset/sync-mods.jpg)
 
 ### Mods aktualisieren
 Alle Mods, die mit einem gelben Warnzeichen versehen sind, müssen aktualisiert werden.  
@@ -107,7 +107,7 @@ Der Download wird mit der dem schwarzen Play Knopf gestartet.
 Um eine höchst mögliche Downloadgeschwindigkeit zu gewährleisten sollte die Anzahl der maximal aktiven Verbindungen auf den maximalen Wert gestellt werden `Settings` → `Maximum number of connections`
 :::
 
-![max-connections](./data/max-connections.jpg)
+![max-connections](/data/gruppe-adler-modset/max-connections.jpg)
 
 ### Anlegen einer Addon Group
 
@@ -118,7 +118,7 @@ Um eine Addon Group aus einem Modset zu erstellen auf den Knopf `Modsets` drück
 Sobald Mods zum Repository hinzukommen oder rausfliegen sollte auf jeden Fall die Addon Group neu erstellt werden. Dazu erst die alte Addon Group per Rechtsklick löschen und danach den Schritten unter [Anlegen einer Addon Group](#anlegen-einer-addon-group) folgen.
 :::
 
-![create-addon-group](./data/create-addon-group.jpg)
+![create-addon-group](/data/gruppe-adler-modset/create-addon-group.jpg)
 
 ### Testconnect auf Server
 
@@ -135,4 +135,4 @@ Um das Plugin zu installieren darf keine Instanz des Teamspeak 3 Clients laufen.
 
 Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _Task Force Radio Status_ vorhanden sein.
 
-![teamspeak](./data/teamspeak.jpg)
+![teamspeak](/data/gruppe-adler-modset/teamspeak.jpg)
