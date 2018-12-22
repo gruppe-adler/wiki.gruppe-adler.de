@@ -35,7 +35,7 @@ Für das Herunterladen wird Arma3Sync benötigt. Die aktuelle Version ist [hier 
 Es ist zwar nicht unbedingt notwenig, aber empfehlenswert für jedes neues Repository ein neues Profil zu erstellen um Fehler vorzubeugen.  
 
 Ein neues Profil lässt sich unter `Profiles` → `Edit` → `New` erstellen.  
-::: warning WARNUNG
+::: grad-warn
 Nachdem das neue Profil erstellt wurde sollte Arma3Sync neu gestartet werden.
 :::
 
@@ -49,7 +49,7 @@ Die Einstellungen die vorgenommen werden müssen sind:
 * `Profile` - Hier das Profil mit dem gewünschten Nickname auswählen
 * `Enable Battleye` - Da Battleye manchmal zu Problemen führt, da es Komponenten von Mods blockiert, kann es bei uns auf den Servern ausgeschaltet werden.
 * `ArmA III Executable Location (game/server)` - Hier den Pfad zur _arma3_x64.exe_ angeben. Diese lässt sich im Installations Verzeichnis zu finden.
-::: tip TIPP
+::: grad-tip
 Das Arma Installations Verzeichnis lässt sich folgendermaßen finden:  
 Steam öffnen → Rechtsklick auf Arma 3 → _Eigenschaften_ → _Lokale Dateien_ → _Lokale Dateien durchsuchen_
 :::
@@ -57,7 +57,7 @@ Steam öffnen → Rechtsklick auf Arma 3 → _Eigenschaften_ → _Lokale Dateien
 ![launcher-options](./data/launcher-options.jpg)
 
 Im Tab `Addon Options` muss nun noch ein Ordner eingestellt werden, in welchem nachher die Mods gespeichert werden. Dazu einfach rechts auf das blaue Kreuz klicken und den gewünschten Pfad auswählen.
-::: warning WARNUNG
+::: grad-warn
 Um Fehler zu vermeiden sollte als Verzeichnis nicht das Arma-Verzeichnis gewählt werden, da sonst Probleme mit Workshop-Mods aus Steam entstehen könnten, bei denen A3S nicht eindeutig bestimmen kann, welche Variante des Mods gepatcht bzw. geladen werden soll.
 
 Falls die Mods dennoch im Arma-Verzeichnis liegen sollen, sollte mindestens ein Ordner _"Gruppe Adler Mods"_ im Arma-Verzeichnis erstellt und gewählt werden.
@@ -73,7 +73,7 @@ Danach auf `Import` drücken. Die Verbindung war erfolgreich wenn über dem Eing
 
 ![new-repository](./data/new-repository.jpg)
 
-::: tip TIPP
+::: grad-tip
 A3S bietet im Tab `Repositories` für alle Repositories noch folgende hilfreiche Einstellungen:
 * **Notify:** A3S zeigt beim Starten an, wenn dieses Repo ein Update erhalten hat.
 * **Auto:** A3S aktualisiert das Repo automatisch, sobald ein Update verfügbar ist. (Hierzu muss A3S natürlich laufen)
@@ -101,7 +101,7 @@ Alle Mods, die mit einem gelben Warnzeichen versehen sind, müssen aktualisiert 
 
 Der Download wird mit der dem schwarzen Play Knopf gestartet.
 
-::: tip TIPP
+::: grad-tip
 Um eine höchst mögliche Downloadgeschwindigkeit zu gewährleisten sollte die Anzahl der maximal aktiven Verbindungen auf den maximalen Wert gestellt werden `Settings` → `Maximum number of connections`
 :::
 
@@ -112,7 +112,7 @@ Um eine höchst mögliche Downloadgeschwindigkeit zu gewährleisten sollte die A
 Als letzten Schritt muss eine sog. _Addon Group_ erstellt werden. Diese befinden sich im ersten Tab `Addons`. Mit Addon Groups lässt sich bestimmen welchen Mods mit Arma gestartet werden. Alle angehakten Mods werden mit gestartet.  
 Um eine Addon Group aus einem Modset zu erstellen auf den Knopf `Modsets` drücken. In dem erschienen Fenster das gewünschte Event auswählen und mit `OK` bestätigen.
 
-::: warning WARNUNG
+::: grad-warn
 Sobald Mods zum Repository hinzukommen oder rausfliegen sollte auf jeden Fall die Addon Group neu erstellt werden. Dazu erst die alte Addon Group per Rechtsklick löschen und danach den Schritten unter [Anlegen einer Addon Group](#anlegen-einer-addon-group) folgen.
 :::
 
@@ -127,7 +127,7 @@ Ein kurzer Testconnect auf den Server, um zu überprüfen ob alles korrekt läuf
 Die Gruppe Adler benutzt Task Force Arrowhead Radio (TFAR) um eine ausreichend gute Kommunikation zu gewährleisten.  
 TFAR benötigt ein Teamspeak (TS) Plugin um korrekt zu funktionieren, welches separat in TS installiert werden muss. Dazu ins Mod-Verzeichnis, welches unter [Grundlegende Einstellungen](#grundlegende-einstellungen) erstellt wurde wechseln. Im Unterverzeichnis `@tfar\teamspeak` befindet sich die Datei `task_force_radio.ts3_plugin`. Ein einfacher Doppelklick auf die Datei installiert das Plugin.
 
-::: tip TIPP
+::: grad-tip
 Um das Plugin zu installieren darf keine Instanz des Teamspeak 3 Clients laufen.
 :::
 
