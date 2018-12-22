@@ -1,7 +1,3 @@
 ---
-sidebar: false
-pageClass: grad-landing-page
-editLink: false
+layout: grad-landing-page
 ---
-
-<grad-landing-page/>
