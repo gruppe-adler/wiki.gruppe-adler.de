@@ -1,7 +1,9 @@
+---
+sidebarDepth: 0
+---
+
+
 # Gruppe Adler Modset
-
-[[toc]]
-
 ## Einleitung
 Die Gruppe Adler benutzt ein Repository (Repo) aus verschiedenen Mods um die Spielerfahrung auf unsere Bedürfnisse anzupassen.
 
