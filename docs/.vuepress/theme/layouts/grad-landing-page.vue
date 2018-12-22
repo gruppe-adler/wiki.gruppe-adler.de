@@ -1,11 +1,15 @@
 <template>
-  <div class="grad-landing-page">
-      <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
-      <div class="grad-landing-page__input-wrapper">
-        <img class="grad-landing-page__icon" src="https://forum.gruppe-adler.de/assets/uploads/system/site-logo.png" />
-        <SearchBox/>
-      </div>
-  </div>
+<div class="grad-landing-page">
+    <div class="grad-landing-page__input-wrapper">
+        <img class="grad-landing-page__icon" src="/adlerkopp.png" />
+        <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
+    </div>
+    <SearchBox/>
+    <div class="grad-landing-page__link-wrapper">
+        <a href="/index/">Index</a>
+        <a href="/index/">Wiki How To</a>
+    </div>
+</div>
 </template>
 
 <script>
@@ -16,23 +20,62 @@ export default {
 }
 </script>
 
-<style lang="css" scoped>
+<style src="@parent-theme/styles/theme.styl" lang="stylus"></style>
+<style lang="scss">
+
 .grad-landing-page {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+    height: 100vh;
 
-  align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__input-wrapper {
+        align-items: center;
+        display: flex;
+    }
+
+    &__link-wrapper {
+        display: flex;
+        margin-top: 20px;
+        a {
+            margin: 0px 20px;
+            color: #AAA;
+        }
+    }
+
+    &__icon {
+        height: 3rem;
+        margin-right: 0.5rem;
+    }
+
+    >*:last-child {
+        margin-bottom: 5rem;
+    }
+
+    .search-box {
+        margin-right: 0px;
+
+        input {
+            background-size: 2rem;
+            height: 4rem;
+            width: 40rem;
+            max-width: 95vw;
+            padding-left:4rem;
+            box-sizing: border-box;
+            background-position: 1.2rem 1rem;
+            font-size: 1.8rem;
+            border-color: #cfd4db;
+            left: auto;
+            right: auto;
+        }
+        .suggestions {
+            width: 40rem;
+            max-width: 95vw;
+            box-sizing: border-box;
+            top: 3rem;
+        }
+    }
 }
-
-.grad-landing-page__input-wrapper {
-  display: flex;
-}
-
-.grad-landing-page__icon {
-  height: 2rem;
-  margin-right: 0.5rem;
-}
-
-
 </style>
