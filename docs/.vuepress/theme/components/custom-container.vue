@@ -26,7 +26,7 @@ $color:#6CAACC !default;
     margin: 1rem 0;
 
     border-left-color: $color;
-    background-color: rgba($color, 0.3);
+    background-color: rgba($color, 0.15);
 
     &__title {
         color: $color;
@@ -38,7 +38,7 @@ $color:#6CAACC !default;
 
     &.grad-custom-container--warning {
         $color: #d18d1f;
-        background-color: rgba($color, 0.3);
+        background-color: rgba($color, 0.15);
         border-left-color: $color;
 
         .grad-custom-container__title {
@@ -48,7 +48,7 @@ $color:#6CAACC !default;
 
     &.grad-custom-container--danger {
         $color: #8F1167;
-        background-color: rgba($color, 0.3);
+        background-color: rgba($color, 0.15);
         border-left-color: $color;
 
         .grad-custom-container__title {
@@ -58,7 +58,7 @@ $color:#6CAACC !default;
 
     &.grad-custom-container--tip {
         $color: #66AA66;
-        background-color: rgba($color, 0.3);
+        background-color: rgba($color, 0.15);
         border-left-color: $color;
 
         .grad-custom-container__title {
