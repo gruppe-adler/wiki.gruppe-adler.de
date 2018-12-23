@@ -14,10 +14,10 @@ function createContainer (tag) {
         render (tokens, idx) {
             let token = tokens[idx];
             let title = token.info.trim().slice(tag.length).trim();
-            title = title == null ? '' : ` title="${title}"`;
+            title = ((title || '') == '') ? '' : `title="${title}"`;
 
             if (token.nesting === 1) {
-                return `<${tag}${title}>\n`
+                return `<${tag} ${title}>\n`
             } else {
                 return `</${tag}>\n`
             }

@@ -6,8 +6,8 @@
     </div>
     <SearchBox/>
     <div class="grad-landing-page__link-wrapper">
-        <a href="/wiki-index.html">Index</a>
-        <a href="/index/">Wiki How To</a>
+        <a href="wiki-index.html">Index</a>
+        <a href="technik/wiki-how-to.html">Wiki How To</a>
     </div>
 </div>
 </template>
