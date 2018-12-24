@@ -1,10 +1,13 @@
 <template>
 <div class="grad-landing-page">
-    <div class="grad-landing-page__input-wrapper">
+    <navbar />
+    <div class="grad-landing-page__heading-wrapper">
         <img class="grad-landing-page__icon" src="/adlerkopp.png" />
         <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
     </div>
-    <SearchBox/>
+    <div class="grad-landing-page__input-wrapper">
+        <SearchBox/>
+    </div>
     <div class="grad-landing-page__link-wrapper">
         <a href="wiki-index.html">Index</a>
         <a href="technik/wiki-how-to.html">Wiki How To</a>
@@ -14,9 +17,10 @@
 
 <script>
 import SearchBox from '@SearchBox'
+import navbar from '@parent-theme/components/navbar.vue'
 
 export default {
-  components: { SearchBox }
+  components: { SearchBox, navbar }
 }
 </script>
 
@@ -31,7 +35,7 @@ export default {
     align-items: center;
     justify-content: center;
 
-    &__input-wrapper {
+    &__heading-wrapper {
         align-items: center;
         display: flex;
     }
@@ -54,7 +58,7 @@ export default {
         margin-bottom: 5rem;
     }
 
-    .search-box {
+    &__input-wrapper .search-box {
         margin-right: 0px;
 
         input {
@@ -69,13 +73,22 @@ export default {
             border-color: #cfd4db;
             left: auto;
             right: auto;
+
+            &:focus {
+                border-color: #d18d1f;
+            }
         }
+
         .suggestions {
             width: 40rem;
             max-width: 95vw;
             box-sizing: border-box;
             top: 3rem;
         }
+    }
+
+    .navbar .search-box {
+        display: none;
     }
 }
 </style>
