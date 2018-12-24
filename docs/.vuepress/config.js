@@ -1,4 +1,5 @@
 const extendMarkdown = require("./extendMarkdown.js");
+const path = require('path');
 
 module.exports = {
     title: 'Gruppe Adler Wiki',
@@ -30,7 +31,7 @@ module.exports = {
                 label: 'English',
                 selectText: 'Languages',
                 editLinkText: 'Edit this page on GitHub',
-                lastUpdated: 'Last Updated',
+                lastUpdated: 'Last Updated' ,
             }
         }
     },
@@ -39,9 +40,9 @@ module.exports = {
     },
     configureWebpack: {
         resolve: {
-          alias: {
-            '@data': '/data/'
-          }
+            alias: {
+                '@assets': path.resolve(__dirname, '../assets/')
+            }
         }
-      }
+    }
 }
