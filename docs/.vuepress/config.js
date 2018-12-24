@@ -5,7 +5,7 @@ module.exports = {
     dest: './dist',
     locales: {
         '/de/': {
-            lang: 'zh-CN',
+            lang: 'de',
             description: 'Hier findest du alles von Organisationssturkur bis zu Taktikgelaber.'
         },
         '/en/': {
@@ -37,4 +37,11 @@ module.exports = {
     markdown: {
         'extendMarkdown': extendMarkdown
     },
+    configureWebpack: {
+        resolve: {
+          alias: {
+            '@data': '/data/'
+          }
+        }
+      }
 }
