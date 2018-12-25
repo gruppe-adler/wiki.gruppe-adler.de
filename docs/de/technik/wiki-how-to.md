@@ -46,8 +46,8 @@ pre.vue-container {
 
 ### Assets
 Alle Assets (Bilder, Code-Schnipsel, etc.) befinden sich im Verzeichnis `docs/assets`.  
-Für jedes Wiki-Seite befindet sich dort ein eigenes Verzeichnis.  
-Für die Seite `docs/de/technik/gruppe-adler-modset.md` existiert ein Verzeichnis `docs/assets/gruppe-adler-modsets` in dem sich alle Bilder für die Wiki-Seite befinden.  
+Für jede Wiki-Seite befindet sich dort ein eigenes Verzeichnis.  
+Zum Beispiel existiert für die Seite `docs/de/technik/gruppe-adler-modset.md` ein Verzeichnis `docs/assets/gruppe-adler-modsets` in dem sich alle Bilder für die Wiki-Seite befinden.  
 
 Innerhalb der Wiki-Seite kann auf diese Dateien mit dem Pfad **`~@assets/gruppe-adler-modset/`** zugegriffen werden, also wird das Bild `docs/assets/gruppe-adler-modsets/create-profile.jpg` folgendermaßen geladen:
 
@@ -162,15 +162,25 @@ _**fetter und kursiver Text**_
 ### Links
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
+Link zu externen Seiten
 [Gruppe Adler Forum](http://forum.gruppe-adler.de)  
 
-[Landing Page](/)
+Link zu interner Seiten
+[Modset](gruppe-adler-modset.html)
+
+Link zu Abschnitt auf gleicher Seite:
+[Aufbau der GitHub Repository](#aufbau-der-github-repository)
 ~~~
 ~~~ grad-md-preview__code
 ```markdown
+Link zu externen Seiten
 [Gruppe Adler Forum](http://forum.gruppe-adler.de)  
 
-[Landing Page](/)
+Link zu interner Seiten
+[Modset](gruppe-adler-modset.html)
+
+Link zu Abschnitt auf gleicher Seite:
+[Aufbau der GitHub Repository](#aufbau-der-github-repository)
 ```
 ~~~
 |||
@@ -193,11 +203,11 @@ DerZade sagte:
 #### Im Fließtext eingebetteter Code
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
-`Code`
+Hast du es schon einmal mit `setUnitLoadout` probiert?
 ~~~
 ~~~ grad-md-preview__code
 ```markdown
-`Code`
+Hast du es schon einmal mit `setUnitLoadout` probiert?
 ```
 ~~~
 |||
@@ -205,6 +215,7 @@ DerZade sagte:
 #### Code Block
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
+Das hier ist ein Paragraph.
 ```javascript
 console.log("Gruppe Adler Rulez!"):
 
@@ -212,9 +223,11 @@ module.exports = "test123";
 
 console.log("Hello");
 ```
+Das hier ist auch ein Paragraph.
 ~~~
 ~~~ grad-md-preview__code
 ````markdown
+Das hier ist ein Paragraph.
 ```javascript 
 console.log("Gruppe Adler Rulez!"):
 
@@ -222,6 +235,7 @@ module.exports = "test123";
 
 console.log("Hello");
 ```
+Das hier ist auch ein Paragraph.
 ````
 ~~~
 |||
@@ -291,7 +305,7 @@ HTML lässt sich ebenfalls direkt in die Markdown Datei schreiben. Dies gilt auc
 
 ## Markdown Sandbox
 Es gibt eine Markdown Sandbox. Hier kann man direkt seine Änderungen im Markdown sehen:
-[Markdown Sandbox](/sandbox.html)
+<!-- [Markdown Sandbox](/sandbox.html) -->
 `TODO`
 
 ## Eine Seite bearbeiten
@@ -302,3 +316,4 @@ Falls du keinen Zugriff auf das Repository habt, wende dich an einen Admin der [
 
 ## Eine Seite erstellen
 
+<!-- <<< @/docs/assets/wiki-how-to/headings.md -->

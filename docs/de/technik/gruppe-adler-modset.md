@@ -26,7 +26,7 @@ Unser Repository beinhalten insgesamt drei Events (oder auch im folgenden Modset
 ## Repository anlegen und konfigurieren
 
 ### Installation Arma3Sync
-Für das Herunterladen wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](http://www.armaholic.com/page.php?id=22199). Diese einfach herunterladen und installieren.
+Für das Herunterladen und Synchronisation der Mods wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](http://www.armaholic.com/page.php?id=22199). Diese einfach herunterladen und installieren.
 
 ### Anlegen eines neuen Profils
 Es ist zwar nicht unbedingt notwenig, aber empfehlenswert für jedes neues Repository ein neues Profil zu erstellen um Fehler vorzubeugen.  
@@ -43,9 +43,9 @@ Nachdem das neue Profil erstellt wurde sollte Arma3Sync neu gestartet werden.
 Im Tab `Launcher Options` sind die grundlegenden Einstellungen zu finden.
 Hier kann alles vom Arma 3 Installations Pfad bis zu Startup Parameter konfiguriert werden.
 Die Einstellungen die vorgenommen werden müssen sind:
-* `Profile` - Hier das Profil mit dem gewünschten Nickname auswählen
-* `Enable Battleye` - Da Battleye manchmal zu Problemen führt, da es Komponenten von Mods blockiert, kann es bei uns auf den Servern ausgeschaltet werden.
-* `ArmA III Executable Location (game/server)` - Hier den Pfad zur _arma3_x64.exe_ angeben. Diese lässt sich im Installations Verzeichnis zu finden.
+* `Profile` - Hier das Arma-Profil mit dem gewünschten Nickname auswählen
+* `Enable Battleye` - Da Battleye manchmal zu Problemen führt, da es teilweise Komponenten von Mods blockiert, kann es bei uns auf den Servern ausgeschaltet werden.
+* `ArmA III Executable Location (game/server)` - Hier den Pfad zur _arma3_x64.exe_ angeben. Diese lässt sich im Arma Installations Verzeichnis zu finden.
 ::: grad-tip
 Das Arma Installations Verzeichnis lässt sich folgendermaßen finden:  
 Steam öffnen → Rechtsklick auf Arma 3 → _Eigenschaften_ → _Lokale Dateien_ → _Lokale Dateien durchsuchen_

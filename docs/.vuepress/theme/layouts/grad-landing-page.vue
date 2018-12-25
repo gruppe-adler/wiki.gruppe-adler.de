@@ -1,6 +1,6 @@
 <template>
 <div class="grad-landing-page">
-    <navbar />
+    <Navbar />
     <div class="grad-landing-page__heading-wrapper">
         <img class="grad-landing-page__icon" src="/adlerkopp.png" />
         <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
@@ -17,10 +17,10 @@
 
 <script>
 import SearchBox from '@SearchBox'
-import navbar from '@parent-theme/components/navbar.vue'
+import Navbar from '@parent-theme/components/Navbar.vue'
 
 export default {
-  components: { SearchBox, navbar }
+    components: { SearchBox, Navbar }
 }
 </script>
 
