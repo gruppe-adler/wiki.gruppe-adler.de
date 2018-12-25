@@ -1,4 +1,8 @@
+const path = require('path');
+
 module.exports = {
-    enhanceAppFiles: require('./enhanceApp.js'),
+    enhanceAppFiles: [
+        path.resolve(__dirname, './register-components.js')
+    ],
     extendMarkdown: require("./extendMarkdown.js")
 }
