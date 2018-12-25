@@ -1,4 +1,3 @@
-const extendMarkdown = require("./extendMarkdown.js");
 const path = require('path');
 
 module.exports = {
@@ -34,9 +33,6 @@ module.exports = {
                 lastUpdated: 'Last Updated' ,
             }
         }
-    },
-    markdown: {
-        'extendMarkdown': extendMarkdown
     },
     configureWebpack: {
         resolve: {

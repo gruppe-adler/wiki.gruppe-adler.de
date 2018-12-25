@@ -1,13 +1,13 @@
 <template>
-    <grad-custom-container :title="title || 'GEFAHR'" type="danger">
+    <grad-custom-container :title="title || 'TIPP'" type="tip">
         <slot />
     </grad-custom-container>
 </template>
 
 <script>
-import customContainerVue from '../components/custom-container.vue';
+import customContainerVue from './custom-container.vue';
 export default {
-    name: 'grad-danger',
+    name: 'grad-tip',
     props: ['title'],
     components: {
         'grad-custom-container': customContainerVue
