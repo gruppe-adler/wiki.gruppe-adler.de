@@ -132,9 +132,8 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 
 ![teamspeak](~@assets/gruppe-adler-modset/teamspeak.jpg)
 
-
 <style>
-    img {
-        max-height: 300px;
-    }
+img {
+    max-height: 300px;
+}
 </style>

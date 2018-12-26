@@ -6,6 +6,7 @@ Die VuePress Dokumentation ([hier zu finden](https://vuepress.vuejs.org/guide)) 
 
 Der folgende Guide soll alles Nötige vermitteln um Seiten bearbeiten und erstellen zu können.
 
+
 ## Aufbau der GitHub Repository
 
 ### Verzeichnisse
@@ -34,17 +35,6 @@ docs
 │
 └── `en` _Hier befinden sich alle englischsprachigen Wiki-Seiten_
 :::
-
-<style>
-pre.vue-container > code code {
-    background-color: #d18d1f !important;
-}
-
-pre.vue-container {
-    border-color: #d18d1f;
-}
-</style>
-
 
 ### Assets
 Alle Assets (Bilder, Code-Schnipsel, etc.) befinden sich im Verzeichnis `docs/assets`.  
@@ -371,10 +361,10 @@ console.log("Yo");
 ### HTML in Markdown
 HTML lässt sich ebenfalls direkt in die Markdown Datei schreiben. Dies gilt auch für `<style>` und `<script>` Tags.
 
+
 ## Markdown Sandbox
-Es gibt eine Markdown Sandbox. Hier kann man direkt seine Änderungen im Markdown sehen:
-<!-- [Markdown Sandbox](/sandbox.html) -->
-`TODO`
+Es ist eine Markdown Sandbox in Arbeit, in der man Markdown mit allen Erweiterungen ausprobieren kann. Nerv einfach solange Zade bis sie endlich fertig ist. 
+
 
 ## Eine Seite bearbeiten
 Dieses Wiki liegt auf GitHub, dementsprechend kann man die einzelnen Seiten direkt auf GitHub bearbeiten. Dazu befindet sich am Ende jeder Seite ein Link um die dementsprechende Seite auf GitHub zu editieren:
@@ -382,6 +372,46 @@ Dieses Wiki liegt auf GitHub, dementsprechend kann man die einzelnen Seiten dire
 
 Falls du keinen Zugriff auf das Repository habt, wende dich an einen Admin der [Gruppe Adler Organisation auf GitHub](https://github.com/gruppe-adler/).
 
-## Eine Seite erstellen
 
-<!-- <<< @/docs/assets/wiki-how-to/headings.md -->
+## Eine Seite erstellen
+Neue Wiki Seiten lassen sich ebenfalls GitHub erstellen. 
+
+::: grad-danger HALT STOP!
+Aber nicht so schnell!  
+Bitte erst den Punkt [Eine Seite erstellen](#eine-seite-erstellen) zu Ende lesen bevor du mit Erstellen anfängst.
+:::
+
+![create-file](~@assets/wiki-how-to/create-file.jpg)
+
+Hier sind Links um eine Seite direkt in der jeweiligen Kategorie zu erstellen:  
+- [Seite erstellen: Missionen](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/missionen)  
+- [Seite erstellen: Mods](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/mods)  
+- [Seite erstellen: Organisatorisches](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/organisatorisches)  
+- [Seite erstellen: Taktik](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/taktik)  
+- [Seite erstellen: Technik](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/technik)  
+
+### Nomenklatur
+Einen kurzen aussagekräftigen Titel verweden, da unsere Suchfunktion primär die Titel durchsucht!  
+
+Neue Seiten sind bitte wie folgt zu benennen:
+- Alles in Kleinbuchstaben
+- Leerzeichen durch `-` ersetzten
+  
+**Beispiele:**  
+Gruppe Adler Modset → `gruppe-adler-modset`  
+Wiki How-To → `wiki-how-to`
+
+::: grad-tip
+Da es sich um eine markdown Datei handelt sollte die neue Datei natürlich mit der Dateierweiterung `.md` enden.
+:::
+
+### Titel
+Die erste Zeile einer neuen Seite sollte immer eine große Überschrift sein und den Titel der Seite enthalten.  
+z.B.: `# Wiki How-To`  
+Dieser Titel wird zum Beispiel für die Sidebar gebraucht. Alle übrigen Überschriften sollten maximal die Größe 2 (`##`) haben.
+
+<style>
+img {
+    max-height: 300px;
+}
+</style>
