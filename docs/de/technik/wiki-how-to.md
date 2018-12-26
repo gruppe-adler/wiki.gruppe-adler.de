@@ -2,7 +2,9 @@
 ## Einleitung
 Dieses Wiki baut auf [VuePress](https://vuepress.vuejs.org/) auf und liegt auf <a :href="'https://github.com/'+$site.themeConfig.repo" target="_blank" rel="noopener noreferrer">GitHub <OutboundLink/></a>.  
 
-Die VuePress Dokumentation ([hier zu finden](https://vuepress.vuejs.org/guide)) gilt also im Allgemeinen auch für dieses Wiki.
+Die VuePress Dokumentation ([hier zu finden](https://vuepress.vuejs.org/guide)) gilt also im Allgemeinen auch für dieses Wiki.  
+
+Der folgende Guide soll alles Nötige vermitteln um Seiten bearbeiten und erstellen zu können.
 
 ## Aufbau der GitHub Repository
 
@@ -55,7 +57,7 @@ Innerhalb der Wiki-Seite kann auf diese Dateien mit dem Pfad **`~@assets/gruppe-
 
 
 ## Markdown
-VuePress Wiki Seiten werden in Markdown geschrieben. Markdown sollte den Meisten schon von GitHub, unserem Forum oder Discord, welches eine ähnliche Syntax hat, bekannt sein.
+VuePress Wiki Seiten werden in Markdown geschrieben. Markdown sollte den Meisten schon von GitHub, unserem Forum oder Discord, welches eine ähnliche Syntax hat, bekannt sein. Im Anschluss aber nochmal alles wichtige:
 
 ### Zeilenumbrüche
 Um in Markdown einen Zeilenumbruch zu machen reicht eine neue Zeile allein nicht aus. Zusätzlich dazu muss am Ende der Zeile zwei Leerzeichen stehen.
@@ -143,6 +145,24 @@ _**fetter und kursiver Text**_
 1. Eins
 2. Zwei
 3. Drei
+```
+~~~
+|||
+
+#### Verschachtelte Listen
+||| grad-md-preview
+~~~ grad-md-preview__preview
+1. Eins
+    - Zweite
+    - Ebene
+2. Zwei
+~~~
+~~~ grad-md-preview__code
+```markdown
+1. Eins
+    - Zweite
+    - Ebene
+2. Zwei
 ```
 ~~~
 |||
@@ -240,17 +260,7 @@ Das hier ist auch ein Paragraph.
 ~~~
 |||
 
-### Markdown Erweiterungen
-VuePress unterstützt zusätzlich zum standardmäßigen Markdown von Haus aus mehrere Erweiterungen. Ein genauen Guide hierzu kann man [hier](https://vuepress.vuejs.org/guide/markdown.html) finden.  
-
-::: grad-warn
-Statt den VuePress _Custom Containers_ bitte unsere eigenen benutzen. (Siehe [Custom Containers](#custom-containers))  
-Diese haben standardmäßig deutsche Überschriften und entsprechen unserem Farbschema.
-:::
-
-Zusätzlich dazu, haben wir einige eigene Erweiterungen:
-
-#### Custom Container
+### Custom Container
 
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
@@ -263,7 +273,7 @@ Dies ist eine Warnung
 :::
 
 ::: grad-danger
-Dies ist Gefahr
+Jetzt wirds aber gefährlich
 :::
 ~~~
 ~~~ grad-md-preview__code
@@ -277,7 +287,7 @@ Dies ist eine Warnung
 :::
 
 ::: grad-danger
-Dies ist Gefahr
+Jetzt wirds aber gefährlich
 :::
 ```
 ~~~
@@ -297,6 +307,64 @@ Aufgepasst! Wir sind die besten :P
 Aufgepasst! Wir sind die besten :P
 :::
 ```
+~~~
+|||
+
+### Tabellen
+Tabellen funktioniert ähnlich wie auf GitHub. Ein genauen Guide dazu gibt es [hier](https://help.github.com/articles/organizing-information-with-tables/).
+
+||| grad-md-preview
+~~~ grad-md-preview__preview
+| Tabellen      | Sind          | Cool  |
+| ------------- |:-------------:| -----:|
+| Spalte 3 ist  | rechtsbündig  |  GRAD |
+| Spalte 2 ist  | zentriert     | rulez |
+| zebra stripes | are neat      |       |
+~~~
+~~~ grad-md-preview__code
+```markdown
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
+~~~
+|||
+
+### Emojis
+||| grad-md-preview
+~~~ grad-md-preview__preview
+:tada: :100:
+~~~
+~~~ grad-md-preview__code
+```markdown
+:tada: :100:
+```
+~~~
+|||
+
+### Hervorhebung von Zeilen in Code Blöcken
+||| grad-md-preview
+~~~ grad-md-preview__preview
+```javascript{1,4}
+// Hervorgehoben
+// Durch Zeilenzahlen in geschweiften Klammern
+// am Anfang der Code-Blocks
+// Diese Zeile ist auch hervorgehoben
+console.log("Yo");
+```
+~~~
+~~~ grad-md-preview__code
+````markdown
+```javascript{1,4}
+// Hervorgehoben
+// Durch Zeilenzahlen in geschweiften Klammern
+// am Anfang der Code-Blocks
+// Diese Zeile ist auch hervorgehoben
+console.log("Yo");
+```
+````
 ~~~
 |||
 

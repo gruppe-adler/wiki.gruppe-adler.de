@@ -131,3 +131,10 @@ Um das Plugin zu installieren darf keine Instanz des Teamspeak 3 Clients laufen.
 Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _Task Force Radio Status_ vorhanden sein.
 
 ![teamspeak](~@assets/gruppe-adler-modset/teamspeak.jpg)
+
+
+<style>
+    img {
+        max-height: 300px;
+    }
+</style>
