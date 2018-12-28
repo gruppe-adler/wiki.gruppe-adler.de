@@ -2,7 +2,7 @@
 <div class="grad-landing-page">
     <Navbar />
     <div class="grad-landing-page__heading-wrapper">
-        <img class="grad-landing-page__icon" src="/adlerkopp.png" />
+        <img class="grad-landing-page__icon" :src="$withBase('/adlerkopp.png')" />
         <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
     </div>
     <div class="grad-landing-page__input-wrapper">

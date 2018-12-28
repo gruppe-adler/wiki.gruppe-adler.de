@@ -4,6 +4,7 @@ var fs = require('fs');
 module.exports = {
     title: 'Gruppe Adler Wiki',
     dest: './dist',
+    base: '/vuepress-wiki/',
     locales: {
         '/de/': {
             lang: 'de',
