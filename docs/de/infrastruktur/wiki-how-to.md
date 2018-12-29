@@ -22,14 +22,14 @@ docs
 │           └── create-profile.jpg
 │
 ├── `de` _Hier befinden sich alle deutschsprachigen Wiki-Seiten_
-│     ├── missionen
-│     ├── mods
-│     ├── technik
+│     ├── bastelstube
+│     ├── infrastruktur
 │     │     ├── _[...]_
 │     │     ├── gruppe-adler-modset.md _Wiki-Seite "Gruppe Adler Modset"_
-│     │     └── README.md _Hauptseite für Kategorie "Technik"_
+│     │     └── README.md _Hauptseite für Kategorie "Infrastruktur"_
 │     │
 │     ├── organisatorisches
+│     ├── taktik
 │     ├── README.md
 │     └── wiki-index.md
 │
@@ -39,7 +39,7 @@ docs
 ### Assets
 Alle Assets (Bilder, Code-Schnipsel, etc.) befinden sich im Verzeichnis `docs/assets`.  
 Für jede Wiki-Seite befindet sich dort ein eigenes Verzeichnis.  
-Zum Beispiel existiert für die Seite `docs/de/technik/gruppe-adler-modset.md` ein Verzeichnis `docs/assets/gruppe-adler-modsets` in dem sich alle Bilder für die Wiki-Seite befinden.  
+Zum Beispiel existiert für die Seite `docs/de/infrastruktur/gruppe-adler-modset.md` ein Verzeichnis `docs/assets/gruppe-adler-modsets` in dem sich alle Bilder für die Wiki-Seite befinden.  
 
 Innerhalb der Wiki-Seite kann auf diese Dateien mit dem Pfad **`~@assets/gruppe-adler-modset/`** zugegriffen werden, also wird das Bild `docs/assets/gruppe-adler-modsets/create-profile.jpg` folgendermaßen geladen:
 
@@ -313,11 +313,11 @@ Tabellen funktioniert ähnlich wie auf GitHub. Ein genauen Guide dazu gibt es [h
 ~~~
 ~~~ grad-md-preview__code
 ```markdown
-| Tables        | Are           | Cool  |
+| Tabellen      | Sind          | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Spalte 3 ist  | rechtsbündig  |  GRAD |
+| Spalte 2 ist  | zentriert     | rulez |
+| zebra stripes | are neat      |       |
 ```
 ~~~
 |||
@@ -384,11 +384,10 @@ Bitte erst den Punkt [Eine Seite erstellen](#eine-seite-erstellen) zu Ende lesen
 ![create-file](~@assets/wiki-how-to/create-file.jpg)
 
 Hier sind Links um eine Seite direkt in der jeweiligen Kategorie zu erstellen:  
-- [Seite erstellen: Missionen](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/missionen)  
-- [Seite erstellen: Mods](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/mods)  
+- [Seite erstellen: Bastelstube](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/bastelstube)  
+- [Seite erstellen: Infrastruktur](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/infrastruktur)  
 - [Seite erstellen: Organisatorisches](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/organisatorisches)  
 - [Seite erstellen: Taktik](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/taktik)  
-- [Seite erstellen: Technik](https://github.com/gruppe-adler/vuepress-wiki/new/master/docs/de/technik)  
 
 ### Nomenklatur
 Einen kurzen aussagekräftigen Titel verweden, da unsere Suchfunktion primär die Titel durchsucht!  

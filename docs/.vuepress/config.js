@@ -27,18 +27,16 @@ module.exports = {
                 editLinkText: 'Diese Seite auf GitHub bearbeiten',
                 lastUpdated: 'Als letztes geupdatet',
                 nav: [
-                    { text: 'Missionen', link: '/de/missionen/' },
-                    { text: 'Mods', link: '/de/mods/' },
+                    { text: 'Bastelstube', link: '/de/bastelstube/' },
+                    { text: 'Infrastruktur', link: '/de/infrastruktur/' },
                     { text: 'Organisatorisches', link: '/de/organisatorisches/' },
-                    { text: 'Taktik', link: '/de/taktik/' },
-                    { text: 'Technik', link: '/de/technik/' }
+                    { text: 'Taktik', link: '/de/taktik/' }
                 ],
                 sidebar: {
-                    '/de/missionen/': getSidebarItems('Missionen', '/de/missionen'),
-                    '/de/mods/': getSidebarItems('Mods', '/de/mods'),
+                    '/de/bastelstube/': getSidebarItems('Bastelstube', '/de/bastelstube'),
+                    '/de/infrastruktur/': getSidebarItems('Infrastruktur', '/de/infrastruktur'),
                     '/de/organisatorisches/': getSidebarItems('Organisatorisches', '/de/organisatorisches'),
-                    '/de/taktik/': getSidebarItems('Taktik', '/de/taktik'),
-                    '/de/technik/': getSidebarItems('Technik', '/de/technik')
+                    '/de/taktik/': getSidebarItems('Taktik', '/de/taktik')
                   }
             },
             '/en/': {
