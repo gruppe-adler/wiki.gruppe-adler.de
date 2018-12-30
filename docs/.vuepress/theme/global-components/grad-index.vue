@@ -1,51 +1,69 @@
 <template>
     <div>
-        <div v-for="page in localeSites" :key="page.key" v-if="page.regularPath != '/'">
-            <h3><a :href="page.regularPath">{{page.title}}</a></h3>
-            <p v-for="header in filterHeaders(page.headers)" :key="header.key">
-                <span v-for="i in (header.level -1)" class="spacer" />
-                <a :href="page.regularPath+'#'+header.slug">{{header.title}}</a>
-            </p>
+        <div v-for="cat in categories" :key="cat.title">
+            <h2><a :href="cat.url">{{cat.title}}</a></h2>
+            <h4 v-for="site in cat.children" :key="site.url">
+                <a :href="site.url">{{site.title}}</a>
+            </h4>
         </div>
     </div>
 </template>
 
 <script>
-
-const setNestedKey = (obj, path, value) => {
-    if (path.length === 1) {
-        obj[path] = value
-        return
-    }
-
-    if (obj[path[0]] == null) {
-        obj[path[0]] = {};
-    }
-
-    return setNestedKey(obj[path[0]], path.slice(1), value)
-}
-
 export default {
     name: 'grad-index',
     data: () => ({
         includeLevel: 2,
+        categories: []
     }),
+    mounted() {
+        let sidebarConfig = this.$themeLocaleConfig.sidebar;
+
+        let categories = [];
+        for (var url in sidebarConfig) {
+            categories.push({
+                'url': url,
+                'title': sidebarConfig[url][0].title,
+                'children': this.normalizeChildren(sidebarConfig[url][0].children, url)
+            });
+        }
+
+        this.categories = categories;
+    },
     methods: {
         filterHeaders(headers) {
             if (headers == null) return [];
             return headers.filter(header => header.level <= this.includeLevel);
+        },
+        normalizeChildren(children, parenturl) {
+            return children.map(child => {
+                let url;
+                if (typeof child == "string") {
+
+                    if (child == "") return null;
+
+                    let fullurl = parenturl + child + ".html";
+                    let title = this.$site.pages.find(x => x.regularPath == fullurl).title;
+                    return {'url': fullurl, 'title': title};
+                }
+
+                if (Array.isArray(child)) {
+                    if (child[0] == "") return null;
+
+                    return {'url': parenturl + child[0] + ".html", 'title': child[1]};
+                }
+
+                return null;
+
+            }).filter(child => child != null);
         }
     },
     computed: {
-        localeSites() {
-            return this.$site.pages.filter(site => site.regularPath.match(new RegExp(`^${this.$localePath}`, 'i')));
-        }
     }
 }
 </script>
 <style lang="scss" scoped>
-.spacer {
+h4 {
     margin-left: 30px;
 }
-
 </style>
