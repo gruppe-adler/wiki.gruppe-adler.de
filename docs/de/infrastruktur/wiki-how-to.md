@@ -427,10 +427,6 @@ Die erste Zeile einer neuen Seite sollte immer eine große Überschrift sein und
 z.B.: `# Wiki How-To`  
 Dieser Titel wird zum Beispiel für die Sidebar gebraucht. Alle übrigen Überschriften sollten maximal die Größe 2 (`##`) haben.
 
-## Eine Kategorie erstellen
-
-//TODO
-
 <style>
 img {
     max-height: 300px;
