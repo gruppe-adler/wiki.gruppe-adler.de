@@ -15,6 +15,9 @@ module.exports = {
             description: 'Hier findest du alles von Organisationsstruktur, über Scripts, bis zu Taktikgelaber.'
         },
     },
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     theme: 'gruppe-adler-theme',
     themeConfig: {
         repo: 'gruppe-adler/vuepress-wiki',
