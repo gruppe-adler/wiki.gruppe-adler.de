@@ -8,11 +8,11 @@ module.exports = {
     locales: {
         '/de/': {
             lang: 'de',
-            description: 'Hier findest du alles von Organisationssturkur bis zu Taktikgelaber.'
+            description: 'Hier findest du alles von Organisationsstruktur, über Scripts, bis zu Taktikgelaber.'
         },
         '/en/': {
             lang: 'en-US',
-            description: 'Hier findest du alles von Organisationssturkur bis zu Taktikgelaber.'
+            description: 'Hier findest du alles von Organisationsstruktur, über Scripts, bis zu Taktikgelaber.'
         },
     },
     theme: 'gruppe-adler-theme',
