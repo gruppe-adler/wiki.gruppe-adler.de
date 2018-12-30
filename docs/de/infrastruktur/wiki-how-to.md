@@ -6,6 +6,24 @@ Die VuePress Dokumentation ([hier zu finden](https://vuepress.vuejs.org/guide)) 
 
 Der folgende Guide soll alles Nötige vermitteln um Seiten bearbeiten und erstellen zu können.
 
+## Travis
+Da dieses Wiki auf VuePress aufbaut müssen die Wiki-Seiten nach jeder Änderung neu generiert werden. **Das bedeutet Änderungen durch Commits sind nicht sofort im Wiki zu sehen.**  
+  
+Travis ist so eingerichtet, dass nach jedem Commit im `master` Branch, der Build und Deployment Prozess neu angestoßen wird. So sind Änderungen bereits nach ein bis zwei Minuten zu sehen.  
+
+Auf GitHub unter _commits_ ist zu sehen ob der Build für den aktuellen Commit fertiggestellt ist:  
+![github-commits](@assets/wiki-how-to/github-commits.jpg)
+::: grad-tip
+- _Gelber Punkt_ = Build Prozess noch in Arbeit
+- _Grüner Haken_ = Build und Deployment Prozess erfolgreich
+- _Rotes Kreuz_ = Fehler beim Build Prozess
+:::
+
+![travis-status](@assets/wiki-how-to/travis-status.jpg)
+
+::: grad-warn
+Falls das Wiki-Seite trotzdem erfolgreichem Build nicht aktualisiert sollte der Cache deaktiviert werden.
+:::
 
 ## Aufbau der GitHub Repository
 
