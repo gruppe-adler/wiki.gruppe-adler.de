@@ -1,9 +1,9 @@
 <template>
     <div>
         <div v-for="cat in categories" :key="cat.title">
-            <h2><a :href="cat.url">{{cat.title}}</a></h2>
+            <h2><a :href="$withBase(cat.url)">{{cat.title}}</a></h2>
             <h4 v-for="site in cat.children" :key="site.url">
-                <a :href="site.url">{{site.title}}</a>
+                <a :href="$withBase(site.url)">{{site.title}}</a>
             </h4>
         </div>
     </div>
@@ -57,8 +57,6 @@ export default {
 
             }).filter(child => child != null);
         }
-    },
-    computed: {
     }
 }
 </script>
