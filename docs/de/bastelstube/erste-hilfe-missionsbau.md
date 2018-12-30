@@ -3,6 +3,9 @@
 Die ganze :poop: klappt nicht?
 Hier findest Du Lösungen auf die häufigsten Probleme, die beim Missionsbau auftreten – geordnet nach Typ.
 
+::: grad-tip Disclaimer
+Es empfiehlt sich, die Anleitung von McDiod einmal komplett gelesen und einmal komplett verstanden zu haben. So eine gute [Dokumentation](https://github.com/gruppe-adler/co_template.vr/wiki) findet man sonst selten.  
+:::
 
 ## GRAD-Loadout
 ### _… greift nicht_
@@ -19,7 +22,7 @@ Hier findest Du Lösungen auf die häufigsten Probleme, die beim Missionsbau auf
 
 ### _… soll nicht greifen_
 
-:bulb: **in `USER/loadouts.hpp` darf keine Faction eingetragen sein (CO_Template)**  
+:bulb: **in `USER/loadouts.hpp` darf keine Faction eingetragen sein**  
   
 
 
@@ -43,8 +46,11 @@ Es gibt in Project Opfor Uniformen-Classname-Lücken (bspw. `LOP_Bla_1`, `LOP_Bl
 :bulb: siehe CBA Settings
 
 ## CBA Settings
-:bulb: CO_Template bringt alle nötigen Settings mit Advanced Medical   
-:bulb: CBA-Settings müssen – **sofern die Mission nicht im Template erstellt wurde** – manuell im CO Template gespeichert und in der neuen Missionsdatei geladen werden: 
+::: grad-warn Wenn die CBA-Settings nicht greifen, ist etwas grundsätzlich schief
+Denn diese sind im CO_Template enthalten und brauchen nicht angefasst werden.
+:::
+:bulb: CO_Template bringt alle nötigen Settings mit Advanced Medical  
+:bulb: **Sofern die Mission nicht im Template erstellt wurde** – manuell im CO_Template speichern und in der neuen Missionsdatei laden: 
 1. CO_Template laden, Addon Settings öffnen, Speichern
 2. Zielmission laden, Addon Settings öffnen, eben gespeichertes laden
 3. Kurz prüfen ob Advanced Medical eingestellt ist (Stichprobe)
