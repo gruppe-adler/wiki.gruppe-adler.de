@@ -1,5 +1,8 @@
 # Infrastruktur
 
+## Beschreibung
+Hier findest du alles zu unserer Infrastruktur. Server, Blechadler, Discord, Forum oder auch Wiki.
+
 [Gruppe Adler Modset](gruppe-adler-modset.html)
 
 ## Eine Neue Seite erstellen
