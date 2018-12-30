@@ -55,7 +55,22 @@ module.exports = {
             }
         }
     },
-    plugins: ['@vuepress/medium-zoom'] 
+    plugins: {
+        '@vuepress/medium-zoom': {},
+        '@vuepress/pwa': {
+            serviceWorker: true,
+            updatePopup: {
+                '/de/': {
+                    message: "Neuer Content ist verfügbar.",
+                    buttonText: "Aktualisieren"
+                },
+                '/en/': {
+                    message: "New content is available.",
+                    buttonText: "Refresh"
+                }
+            }
+        },
+    }
 }
 
 function getSidebarItems(name, relativePath, intro) {
