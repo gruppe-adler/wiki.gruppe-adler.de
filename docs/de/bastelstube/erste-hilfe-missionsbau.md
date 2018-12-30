@@ -1,13 +1,11 @@
-# Erste Hilfe Missionsbau
+# :ambulance: Erste Hilfe Missionsbau
 
-Die ganze &§$%%! klappt nicht?
+Die ganze :poop: klappt nicht?
 Hier findest Du Lösungen auf die häufigsten Probleme, die beim Missionsbau auftreten – geordnet nach Typ.
 
 
-
-
 ## GRAD-Loadout
-### … greift nicht
+### _… greift nicht_
 
 :bulb: **Syntaxfehler beim Deklarieren? (Scriptfehler anschalten bzw. RPT prüfen):**
 * Klammer zuviel/zu wenig
@@ -19,7 +17,7 @@ Hier findest Du Lösungen auf die häufigsten Probleme, die beim Missionsbau auf
 :bulb: **Keine Vanilla NATO/CSAT Fraktion benutzt beim Setzen?**
 
 
-### … soll nicht greifen
+### _… soll nicht greifen_
 
 :bulb: **in `USER/loadouts.hpp` darf keine Faction eingetragen sein (CO_Template)**  
   
@@ -34,10 +32,10 @@ Es gibt in Project Opfor Uniformen-Classname-Lücken (bspw. `LOP_Bla_1`, `LOP_Bl
 
 
 ## Respawn
-### … greift nicht
+### _… greift nicht_
 :bulb: Respawn Marker alle vorhanden? (müssen heißen: respawn_east, respawn_west, respawn_guerrila, respawn_civilian)
 
-### … soll nicht greifen
+### _… soll nicht greifen_
 :bulb: CBA Settings korrekt? ACE-medical: Prevent-Insta-Death sollte dort AN sein
 
 
