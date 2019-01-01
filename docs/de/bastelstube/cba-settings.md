@@ -21,7 +21,7 @@ Es gibt eine einfache Möglichkeit zu prüfen, welches Setting greift (Settingsm
 :::
 
 
-## Was wird denn nun vom Server immer und überall geforced?
+## Was wird vom Server geforced?
 "Richtig" forcen, d.h. `force force` ohne Möglichkeit seitens MISSION zu überschreiben machen wir nur bei sehr wenigen, nicht gameplayrelevanten Settings, Stand 05.08.2018:
 
 ```
