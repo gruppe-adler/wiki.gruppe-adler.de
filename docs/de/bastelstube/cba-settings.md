@@ -1,4 +1,4 @@
-# CBA Settings
+# :gear: CBA Settings
 
 ## Wo finde ich die aktuellen Settings
 :bulb: CO_Template/TvT_Template öffnen und unter ADDON OPTIONS schauen.
