@@ -26,9 +26,14 @@ Das Logo ist eine Parodie auf einen Bundesadler mit Kampfhelm, der gerade einen 
 Zusätzlich gibt es noch ein [Thumbnail](https://company-89075.frontify.com/api/screen/download/CIbanKhRSslvDohELS4KC0ayEdTo042HrvZUO9wiIjLetkJbXbawz3SCVIxxaFvlHniVwAfm3G0uouvgwibLDg) für Forenavatare und natürlich unsere [Squad.xml](https://company-89075.frontify.com/api/screen/download/M5D7ExtbnNWYGq5hfbd0mk5tEfQUJDRsWhdyxfwV97vECx74pjmXbrR8Nup9RM8RaK-pJjX3RULDoNG1EaA1Rw) in einfachem 1-Farbendruck, da der im Spiel dezenter ist und die Leuchtfarben nicht stören (z.B. Schnabel).
 
 ## Typographie
-Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:20px">Oswald.</span><br />
+Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span><br />
 
-Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size:20px">Source Sans Pro.</span>
+Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size:1.25em">Source Sans Pro.</span>
+
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+    @import url('https://fonts.googleapis.com/css?family=Oswald');
+</style>
 
 ## Videovorspann
 * MP4 (1920x1080): [Videodatei .MP4](http://wiki.gruppe-adler.de/images/Intro-1920x1080.mp4)
