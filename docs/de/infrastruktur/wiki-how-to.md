@@ -1,4 +1,4 @@
-# Wiki How-To
+# :question: Wiki How-To
 ## Einleitung
 Dieses Wiki baut auf [VuePress](https://vuepress.vuejs.org/) auf und liegt auf <a :href="'https://github.com/'+$site.themeConfig.repo" target="_blank" rel="noopener noreferrer">GitHub <OutboundLink/></a>.  
 
