@@ -1,4 +1,4 @@
-# Style Guide Design
+# :rainbow: Styleguide Design
 
 > Diese Seite beinhaltet eine Zusammenfassung des [Design Style Guides](https://app.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide) der Gruppe Adler. Diese Vorgaben dienen der Einheitlichkeit unseres Contents und sollten, wenn möglich, weitestgehend eingehalten werden, damit der Wiedererkennungswert unseres Contents gewährleistet ist.
 
