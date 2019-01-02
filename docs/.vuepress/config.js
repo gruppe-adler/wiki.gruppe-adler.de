@@ -89,7 +89,7 @@ function getSidebarItems(name, relativePath, intro) {
     }
 
     let sites = files.map(f => {
-        if (f == 'README.md') return ['', intro || 'Einleitung'];
+        if (f == 'README.md') return ['', intro || '❔ Einleitung'];
 
         return f.slice(0, -3); // remove .md extension 
     });
