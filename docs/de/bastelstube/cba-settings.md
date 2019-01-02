@@ -1,7 +1,7 @@
 # :gear: CBA Settings
 
 ## Wo finde ich die aktuellen Settings
-:bulb: CO_Template/TvT_Template öffnen und unter ADDON OPTIONS schauen.
+:bulb: [CO_Template](https://github.com/gruppe-adler/CO_Template.VR/releases)/[TvT_Template](https://github.com/gruppe-adler/TvT_Template.VR/releases) öffnen und unter **Settings** - **ADDON OPTIONS** schauen.
 
 ## Anpassen der Settings
 ::: grad-tip
