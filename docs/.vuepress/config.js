@@ -4,7 +4,7 @@ var fs = require('fs');
 module.exports = {
     title: 'Gruppe Adler Wiki',
     dest: './dist',
-    base: '/vuepress-wiki/',
+    base: '/wiki.gruppe-adler.de/',
     locales: {
         '/de/': {
             lang: 'de',
@@ -20,7 +20,7 @@ module.exports = {
     ],
     theme: 'gruppe-adler-theme',
     themeConfig: {
-        repo: 'gruppe-adler/vuepress-wiki',
+        repo: 'gruppe-adler/wiki.gruppe-adler.de',
         editLinks: true,
         docsDir: 'docs',
         locales: {
