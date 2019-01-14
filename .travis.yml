@@ -2,15 +2,14 @@ language: node_js
 node_js: 
   - "stable"
 script:
-- npm run build
+  - npm run build
 branches:
   only:
   - master
-  
+
 deploy:
-  provider: pages
+  provider: script
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  script: ./.travis-deploy.sh
   on:
     branch: master
-  local-dir: dist
