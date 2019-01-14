@@ -10,6 +10,6 @@ branches:
 deploy:
   provider: script
   skip-cleanup: true
-  script: sh $TRAVIS_BUILD_DIR/travis-deploy.sh
+  script: sh ./travis-deploy.sh
   on:
     branch: master
