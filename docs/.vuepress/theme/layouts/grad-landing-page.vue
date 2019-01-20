@@ -1,32 +1,152 @@
 <template>
-<div class="grad-landing-page">
-    <Navbar />
-    <div class="grad-landing-page__heading-wrapper">
-        <img class="grad-landing-page__icon" :src="$withBase('/adlerkopp.png')" />
-        <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
+<div
+    class="theme-container"
+    :class="pageClasses"
+    @touchstart="onTouchStart"
+    @touchend="onTouchEnd"
+>
+    <Navbar
+        v-if="shouldShowNavbar"
+        @toggle-sidebar="toggleSidebar"
+    />
+
+    <div
+        class="sidebar-mask"
+        @click="toggleSidebar(false)"
+    ></div>
+
+    <Sidebar
+        :items="sidebarItems"
+        @toggle-sidebar="toggleSidebar"
+    >
+        <slot
+            name="sidebar-top"
+            slot="top"
+        />
+        <slot
+            name="sidebar-bottom"
+            slot="bottom"
+        />
+    </Sidebar>
+    <div class="grad-landing-page">
+        <div class="grad-landing-page__heading-wrapper">
+            <img class="grad-landing-page__icon" :src="$withBase('/adlerkopp.png')" />
+            <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
+        </div>
+        <div class="grad-landing-page__input-wrapper">
+            <SearchBox/>
+        </div>
+        <div class="grad-landing-page__link-wrapper">
+            <a href="wiki-index.html">Index</a>
+            <a href="infrastruktur/wiki-how-to.html">Wiki How-To</a>
+        </div>
     </div>
-    <div class="grad-landing-page__input-wrapper">
-        <SearchBox/>
-    </div>
-    <div class="grad-landing-page__link-wrapper">
-        <a href="wiki-index.html">Index</a>
-        <a href="infrastruktur/wiki-how-to.html">Wiki How-To</a>
-    </div>
+    <Page :sidebar-items="sidebarItems" />
 </div>
 </template>
 
 <script>
-import SearchBox from '@SearchBox'
 import Navbar from '@parent-theme/components/Navbar.vue'
+import Page from '@parent-theme/components/Page.vue'
+import Sidebar from '@parent-theme/components/Sidebar.vue'
+import { resolveSidebarItems } from '@parent-theme/util'
+import SearchBox from '@SearchBox'
 
 export default {
-    components: { SearchBox, Navbar }
+    components: { Page, Sidebar, Navbar, SearchBox },
+
+    data () {
+        return {
+            isSidebarOpen: false
+        }
+    },
+
+    computed: {
+        shouldShowNavbar () {
+            const { themeConfig } = this.$site
+            const { frontmatter } = this.$page
+            if (
+                frontmatter.navbar === false ||
+                themeConfig.navbar === false) {
+                return false
+            }
+            return (
+                this.$title ||
+                themeConfig.logo ||
+                themeConfig.repo ||
+                themeConfig.nav ||
+                this.$themeLocaleConfig.nav
+            )
+        },
+
+        shouldShowSidebar () {
+            const { frontmatter } = this.$page
+            return (
+                !frontmatter.home &&
+                frontmatter.sidebar !== false &&
+                this.sidebarItems.length
+            )
+        },
+
+        sidebarItems () {
+            return resolveSidebarItems(
+                this.$page,
+                this.$page.regularPath,
+                this.$site,
+                this.$localePath
+            )
+        },
+
+        pageClasses () {
+            const userPageClass = this.$page.frontmatter.pageClass
+            return [
+                {
+                'no-navbar': !this.shouldShowNavbar,
+                'sidebar-open': this.isSidebarOpen,
+                'no-sidebar': !this.shouldShowSidebar
+                },
+                userPageClass
+            ]
+        }
+    },
+
+    mounted () {
+        this.$router.afterEach(() => {
+            this.isSidebarOpen = false
+        })
+    },
+
+    methods: {
+        toggleSidebar (to) {
+            this.isSidebarOpen = typeof to === 'boolean' ? to : !this.isSidebarOpen
+        },
+
+    // side swipe
+        onTouchStart (e) {
+            this.touchStart = {
+                x: e.changedTouches[0].clientX,
+                y: e.changedTouches[0].clientY
+            }
+        },
+
+        onTouchEnd (e) {
+            const dx = e.changedTouches[0].clientX - this.touchStart.x
+            const dy = e.changedTouches[0].clientY - this.touchStart.y
+            if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+                if (dx > 0 && this.touchStart.x <= 80) {
+                    this.toggleSidebar(true)
+                } else {
+                    this.toggleSidebar(false)
+                }
+            }
+        }
+    }
 }
 </script>
 
+<style src="prismjs/themes/prism-tomorrow.css"></style>
 <style src="@parent-theme/styles/theme.styl" lang="stylus"></style>
 <style lang="scss">
-
 .grad-landing-page {
     height: 100vh;
 
@@ -90,5 +210,8 @@ export default {
     .navbar .search-box {
         display: none;
     }
+}
+.page {
+    display: none !important;
 }
 </style>
