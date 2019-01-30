@@ -1,14 +1,41 @@
 <template>
-  <ParentLayout>
-  </ParentLayout>
+<div class="theme-container">
+    <div class="content">
+        <img :src="$withBase('/logo.png')" />
+        <div>
+            <h1>404</h1>
+            <blockquote>{{ getMsg() }}</blockquote>
+            <router-link to="/">Zurück zur Startseite.</router-link>
+        </div>
+    </div>
+</div>
 </template>
 
 <script>
-import ParentLayout from '@parent-theme/layouts/404.vue'
+const msgs = [
+    `Du hast dich verlaufen.`,
+    `Wie bist du denn hier her gekommen?`,
+    `Dies ist nicht die Seite die du sehen wolltest.`,
+    `Du bist auf dem falschen Pfad unterwegs.`
+]
 
 export default {
-  components: {
-    ParentLayout
-  }
+    methods: {
+        getMsg () {
+           return msgs[Math.floor(Math.random() * msgs.length)]
+        }
+    }
 }
 </script>
+
+<style src="@parent-theme/styles/theme.styl" lang="stylus"></style>
+<style lang="scss" scoped>
+.content {
+    display: flex;
+    align-items: center;
+
+    img {
+        max-height: 200px;
+    }
+}
+</style>
