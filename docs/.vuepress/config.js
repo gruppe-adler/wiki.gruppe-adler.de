@@ -62,6 +62,7 @@ module.exports = {
         '@vuepress/medium-zoom': {},
         '@vuepress/pwa': {
             serviceWorker: true,
+            popupCompnent: 'grad-pwa-update',
             updatePopup: {
                 '/de/': {
                     message: "Neuer Content ist verfügbar.",
