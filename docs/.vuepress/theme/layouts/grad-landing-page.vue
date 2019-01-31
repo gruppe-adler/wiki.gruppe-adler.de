@@ -133,4 +133,11 @@ export default {
         display: none;
     }
 }
+
+@media(min-width: 719px) {
+    .grad-landing-page .sidebar {
+        display: none;
+    }
+}
+
 </style>
