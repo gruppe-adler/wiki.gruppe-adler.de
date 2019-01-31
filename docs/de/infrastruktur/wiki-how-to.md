@@ -13,7 +13,7 @@ Travis ist so eingerichtet, dass nach jedem Commit im `master` Branch, der Build
 
 Auf GitHub unter _commits_ ist zu sehen ob der Build für den aktuellen Commit fertiggestellt ist:  
 ![github-commits](@assets/wiki-how-to/github-commits.jpg)
-::: grad-tip
+::: tip
 - _Gelber Punkt_ = Build Prozess noch in Arbeit
 - _Grüner Haken_ = Build und Deployment Prozess erfolgreich
 - _Rotes Kreuz_ = Fehler beim Build Prozess
@@ -21,7 +21,7 @@ Auf GitHub unter _commits_ ist zu sehen ob der Build für den aktuellen Commit f
 
 ![travis-status](@assets/wiki-how-to/travis-status.jpg)
 
-::: grad-warn
+::: warning
 Falls das Wiki-Seite trotzdem erfolgreichem Build nicht aktualisiert sollte der Cache deaktiviert werden.
 :::
 
@@ -272,29 +272,29 @@ Das hier ist auch ein Paragraph.
 
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
-::: grad-tip
+::: tip
 Dies ist ein Tipp
 :::
 
-::: grad-warn
+::: warning
 Dies ist eine Warnung
 :::
 
-::: grad-danger
+::: danger
 Jetzt wirds aber gefährlich
 :::
 ~~~
 ~~~ grad-md-preview__code
 ```markdown
-::: grad-tip
+::: tip
 Dies ist ein Tipp
 :::
 
-::: grad-warn
+::: warning
 Dies ist eine Warnung
 :::
 
-::: grad-danger
+::: danger
 Jetzt wirds aber gefährlich
 :::
 ```
@@ -305,13 +305,13 @@ Es lässt sich ebenfalls eine eigene Überschrift festlegen:
 
 ||| grad-md-preview
 ~~~ grad-md-preview__preview
-::: grad-warn Gruppe Adler rulez
+::: warning Gruppe Adler rulez
 Aufgepasst! Wir sind die besten :P
 :::
 ~~~
 ~~~ grad-md-preview__code
 ```markdown
-::: grad-warn Gruppe Adler rulez
+::: warning Gruppe Adler rulez
 Aufgepasst! Wir sind die besten :P
 :::
 ```
@@ -394,7 +394,7 @@ Falls du keinen Zugriff auf das Repository habt, wende dich an einen Admin der [
 ## Eine Seite erstellen
 Neue Wiki Seiten lassen sich ebenfalls GitHub erstellen. 
 
-::: grad-danger HALT STOP!
+::: danger HALT STOP!
 Aber nicht so schnell!  
 Bitte erst den Punkt [Eine Seite erstellen](#eine-seite-erstellen) zu Ende lesen bevor du mit Erstellen anfängst.
 :::
@@ -418,7 +418,7 @@ Neue Seiten sind bitte wie folgt zu benennen:
 Gruppe Adler Modset → `gruppe-adler-modset`  
 Wiki How-To → `wiki-how-to`
 
-::: grad-tip
+::: tip
 Da es sich um eine markdown Datei handelt sollte die neue Datei natürlich mit der Dateierweiterung `.md` enden.
 :::
 

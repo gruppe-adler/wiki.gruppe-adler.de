@@ -3,7 +3,7 @@
 Die ganze :poop: klappt nicht?
 Hier findest Du Lösungen auf die häufigsten Probleme, die beim Missionsbau auftreten – geordnet nach Typ.
 
-::: grad-tip Disclaimer
+::: tip Disclaimer
 Es empfiehlt sich, die Anleitung von McDiod einmal komplett gelesen und einmal komplett verstanden zu haben. So eine gute [Dokumentation](https://github.com/gruppe-adler/co_template.vr/wiki) findet man sonst selten.  
 :::
 
@@ -27,7 +27,7 @@ Es empfiehlt sich, die Anleitung von McDiod einmal komplett gelesen und einmal k
 
 
 ## Nackte Einheiten
-::: grad-danger Kein GRAD-Loadout Bug
+::: danger Kein GRAD-Loadout Bug
 Nackte Einheiten entstehen seit einigen ARMA-Versionen beim Ownerwechsel von Zeus-Client auf Dedicated Server/Headless. Workaround dafür 🔜 im Template, dann keine weitere Aktion nötig.
 :::
 #### :bulb: Ggf. Uniformen-Classnames im Loadout checken. 
@@ -46,7 +46,7 @@ Es gibt in Project Opfor Uniformen-Classname-Lücken (bspw. `LOP_Bla_1`, `LOP_Bl
 :bulb: siehe CBA Settings
 
 ## CBA Settings
-::: grad-warn Wenn die CBA-Settings nicht greifen, ist etwas grundsätzlich schief
+::: warning Wenn die CBA-Settings nicht greifen, ist etwas grundsätzlich schief
 Denn diese sind im CO_Template enthalten und brauchen nicht angefasst werden.
 :::
 :bulb: CO_Template bringt alle nötigen Settings mit Advanced Medical  
@@ -56,6 +56,6 @@ Denn diese sind im CO_Template enthalten und brauchen nicht angefasst werden.
 3. Kurz prüfen ob Advanced Medical eingestellt ist (Stichprobe)
 
 ## Ganz generell
-::: grad-warn Testen bleibt das A und O
+::: warning Testen bleibt das A und O
 Wer seine Mission nicht auf dem Dedicated Server (!) testet, der hat auch keine Chance Probleme rechtzeitig zu entdecken.
 :::

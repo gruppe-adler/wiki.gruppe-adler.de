@@ -7,7 +7,7 @@
 <script>
 import customContainerVue from './custom-container.vue';
 export default {
-    name: 'grad-warn',
+    name: 'grad-warning',
     props: ['title'],
     components: {
         'grad-custom-container': customContainerVue

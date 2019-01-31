@@ -1,9 +1,14 @@
 const container = require('markdown-it-container');
 
 module.exports = md => {
-    md.use(...createContainer('grad-tip'));
-    md.use(...createContainer('grad-warn'));
-    md.use(...createContainer('grad-danger'));
+    md.use(...createContainer('tip'));
+    md.use(...createContainer('warning'));
+    md.use(...createContainer('danger'));
+    md.use(container, 'vue', {
+        render: (tokens, idx) => tokens[idx].nesting === 1
+            ? `<pre class="vue-container"><code>`
+            : `</code></pre>`
+    })
 }
 
 function createContainer (tag) {
@@ -17,9 +22,9 @@ function createContainer (tag) {
                 title = ((title || '') == '') ? '' : `title="${title}"`;
 
                 if (token.nesting === 1) {
-                    return `<${tag} ${title}>\n`
+                    return `<grad-${tag} ${title}>\n`
                 } else {
-                    return `</${tag}>\n`
+                    return `</grad-${tag}>\n`
                 }
             }
         }

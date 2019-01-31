@@ -5,5 +5,5 @@ module.exports = {
     enhanceAppFiles: [
         path.resolve(__dirname, './register-components.js')
     ],
-    extendMarkdown: require("./extendMarkdown.js")
+    chainMarkdown: require("./chainMarkdown.js"),
 }
