@@ -1,6 +1,25 @@
 <template>
-<div class="grad-landing-page">
-    <Navbar />
+<div :class="['theme-container', 'grad-landing-page', isSidebarOpen ? 'sidebar-open' : '']">
+    <Navbar 
+        @toggle-sidebar="toggleSidebar"
+    />
+    <div
+        class="sidebar-mask"
+        @click="toggleSidebar(false)"
+    ></div>
+    <Sidebar
+        :items="sidebarItems"
+        @toggle-sidebar="toggleSidebar"
+    >
+      <slot
+        name="sidebar-top"
+        slot="top"
+      />
+      <slot
+        name="sidebar-bottom"
+        slot="bottom"
+      />
+    </Sidebar>
     <div class="grad-landing-page__heading-wrapper">
         <img class="grad-landing-page__icon" :src="$withBase('/adlerkopp.png')" />
         <h1 class="grad-landing-page__heading">Gruppe Adler Wiki</h1>
@@ -18,9 +37,32 @@
 <script>
 import SearchBox from '@SearchBox'
 import Navbar from '@parent-theme/components/Navbar.vue'
+import Sidebar from '@parent-theme/components/Sidebar.vue'
+import { resolveSidebarItems } from '@parent-theme/util'
 
 export default {
-    components: { SearchBox, Navbar }
+    components: { SearchBox, Navbar, Sidebar },
+    
+    data () {
+        return {
+            isSidebarOpen: false
+        }
+    },
+    methods: {
+        toggleSidebar (to) {
+            this.isSidebarOpen = typeof to === 'boolean' ? to : !this.isSidebarOpen
+        },
+    },
+    computed: {
+        sidebarItems () {
+            return resolveSidebarItems(
+                this.$page,
+                this.$page.regularPath,
+                this.$site,
+                this.$localePath
+            )
+        },
+    }
 }
 </script>
 
