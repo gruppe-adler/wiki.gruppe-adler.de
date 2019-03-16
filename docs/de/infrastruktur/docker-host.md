@@ -29,14 +29,14 @@ Alle Docker Compose Konfigurationsdateien lassen sich unter `/etc/docker-configs
 ::: vue
 `/etc/docker-configs`
 ├── `homepage` _Hier befindet sich alles zur Homepage_
-│  
-├── `blechadler` _Hier befinden sich alles zum Blechadler_  
-│     ├── docker-compose.yml _Docker Compose Konfiguration für Blechadler_  
-│     └── volumes _Enthält soft links zu allen docker volumes für Blechadler_  
-│           ├── _[...]_  
-│           └── config _Link zu **config** volume_  
-│  
-└── _[...]_  
+│
+├── `blechadler` _Hier befinden sich alles zum Blechadler_
+│     ├── docker-compose.yml _Docker Compose Konfiguration für Blechadler_
+│     └── volumes _Enthält soft links zu allen docker volumes für Blechadler_
+│           ├── _[...]_
+│           └── config _Link zu **config** volume_
+│
+└── _[...]_
 :::
 
 
