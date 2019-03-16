@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Zeichnung1.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.40458in" height="3.92867in"
+		viewBox="0 0 317.13 282.864" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#d18d1f;stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st3 {fill:#ffffff;font-family:Calibri;font-size:0.833336em}
+		.st4 {fill:#66aa66;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#ffffff;font-family:Calibri;font-size:0.499992em}
+		.st6 {fill:#ffffff;font-family:Calibri;font-size:0.75em}
+		.st7 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#5b9bd5;font-family:Calibri;font-size:1.00001em}
+		.st9 {fill:#6caacc;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {marker-end:url(#mrkr4-110);stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {fill:#a5a5a5;fill-opacity:1;stroke:#a5a5a5;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st13 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st14 {fill:#5b9bd5;font-family:Calibri;font-size:0.499992em}
+		.st15 {font-size:1em}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-110" class="st11" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<v:layer v:name="Azure" v:index="1"/>
+		<v:layer v:name="Container" v:index="2"/>
+		<v:layer v:name="Webcontainer" v:index="3"/>
+		<g id="group44-1" transform="translate(254.943,445.431) rotate(180)" v:mID="44" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:format="" v:sortKey="Equipment"
+						v:invis="false" v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="Location" v:lbl="Ort" v:type="0" v:format="" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1031"/>
+				<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:format="" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1031"/>
+				<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:format="" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1031"/>
+				<v:cp v:nameU="Department" v:lbl="Abteilung" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
+						v:langID="1031" v:val="VT4(Konnektivität)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
+						v:langID="1031" v:val="VT4(Ethernetkabel)"/>
+				<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1031"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1031"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(12):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>Ethernet</title>
+			<desc>nginx-proxy-network</desc>
+			<g id="group45-2" v:mID="45" v:groupContext="group">
+				<title>Tabelle.45</title>
+				<g id="shape45-3" v:mID="45" v:groupContext="groupContent">
+					<path d="M31.54 274.36 L31.54 274.36 L108.43 274.36" class="st1"/>
+					<path d="M11.34 237.51 L11.34 274.36 L108.43 274.36" class="st1"/>
+					<path d="M111.03 319.71 L111.03 274.36 L108.43 274.36" class="st1"/>
+					<path d="M130.39 237.51 L130.39 274.36 L108.43 274.36" class="st1"/>
+					<path d="M209.76 237.51 L209.76 274.36 L108.43 274.36" class="st1"/>
+					<path d="M47.31 274.36 L47.31 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M68.03 237.51 L68.03 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+					<path d="M162.64 274.36 L108.43 274.36" class="st1"/>
+					<path d="M54.21 274.36 L108.43 274.36" class="st1"/>
+				</g>
+			</g>
+			<g id="shape46-69" v:mID="46" v:groupContext="shape">
+				<title>Tabelle.46</title>
+				<v:userDefs>
+					<v:ud v:nameU="EllipseSize" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+				</v:userDefs>
+				<path d="M35.09 274.36 A3.54331 3.54331 -180 1 0 28 274.36 A3.54331 3.54331 -180 1 0 35.09 274.36 ZM14.88 237.51
+							 A3.54331 3.54331 -180 1 0 7.8 237.51 A3.54331 3.54331 -180 1 0 14.88 237.51 ZM114.57 319.71 A3.54331
+							 3.54331 -180 1 0 107.48 319.71 A3.54331 3.54331 -180 1 0 114.57 319.71 ZM133.94 237.51 A3.54331 3.54331
+							 -180 1 0 126.85 237.51 A3.54331 3.54331 -180 1 0 133.94 237.51 ZM213.31 237.51 A3.54331 3.54331 -180
+							 1 0 206.22 237.51 A3.54331 3.54331 -180 1 0 213.31 237.51 ZM50.86 274.36 A3.54331 3.54331 -180 1 0 43.77
+							 274.36 A3.54331 3.54331 -180 1 0 50.86 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36
+							 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM71.57 237.51 A3.54331 3.54331 -180 1 0 64.49 237.51 A3.54331
+							 3.54331 -180 1 0 71.57 237.51 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331
+							 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1
+							 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18
+							 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36
+							 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76
+							 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36
+							 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331
+							 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331
+							 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180
+							 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09
+							 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36
+							 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331
+							 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331
+							 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180
+							 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76
+							 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36
+							 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18
+							 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36
+							 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331
+							 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331
+							 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1
+							 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67
+							 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36
+							 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331
+							 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331
+							 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1
+							 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18
+							 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36
+							 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76
+							 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36
+							 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331
+							 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331
+							 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180
+							 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09
+							 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36
+							 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331
+							 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331
+							 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180
+							 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76
+							 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36
+							 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18
+							 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36
+							 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331
+							 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331
+							 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1
+							 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67
+							 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36
+							 A3.54331 3.54331 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331
+							 3.54331 -180 1 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331
+							 -180 1 0 166.18 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1
+							 0 57.76 274.36 ZM166.18 274.36 A3.54331 3.54331 -180 1 0 159.09 274.36 A3.54331 3.54331 -180 1 0 166.18
+							 274.36 ZM57.76 274.36 A3.54331 3.54331 -180 1 0 50.67 274.36 A3.54331 3.54331 -180 1 0 57.76 274.36
+							 Z" class="st2"/>
+			</g>
+			<g id="shape47-71" v:mID="47" v:groupContext="shape">
+				<title>Tabelle.47</title>
+				<rect x="0" y="265.856" width="216.85" height="17.0079" class="st2"/>
+			</g>
+			<g id="shape44-73" v:mID="44" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="108.425" cy="273.793" width="95.14" height="20.0036" transform="rotate(180)"/>
+				<text x="-150.86" y="-270.79" transform="rotate(180)" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nginx-proxy-network</text>			</g>
+		</g>
+		<g id="group137-75" transform="translate(117.108,-157.148)" v:mID="137" v:groupContext="group" v:layerMember="1">
+			<title>Virtueller Computer-Container.137</title>
+			<desc>nginx-proxy</desc>
+			<g id="shape138-76" v:mID="138" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.138</title>
+				<desc>VM</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="43.6105" cy="278.237" width="26.93" height="9.25468"/>
+				<rect x="0" y="251.683" width="53.8583" height="31.1811" class="st4"/>
+				<text x="39.34" y="280.04" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VM</text>			</g>
+			<g id="shape137-79" v:mID="137" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.9291" cy="267.274" width="53.04" height="18.8036"/>
+				<text x="5.43" y="269.97" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nginx-proxy</text>			</g>
+		</g>
+		<g id="group126-81" transform="translate(216.675,-43.7618)" v:mID="126" v:groupContext="group" v:layerMember="1">
+			<title>Virtueller Computer-Container.126</title>
+			<desc>api</desc>
+			<g id="shape127-82" v:mID="127" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.127</title>
+				<desc>VM</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="43.6105" cy="278.237" width="26.93" height="9.25468"/>
+				<rect x="0" y="251.683" width="53.8583" height="31.1811" class="st4"/>
+				<text x="39.34" y="280.04" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VM</text>			</g>
+			<g id="shape126-85" v:mID="126" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.9291" cy="267.274" width="21.15" height="18.8036"/>
+				<text x="21.38" y="269.97" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>api</text>			</g>
+		</g>
+		<g id="group131-87" transform="translate(18.25,-43.7618)" v:mID="131" v:groupContext="group" v:layerMember="1">
+			<title>Virtueller Computer-Container.131</title>
+			<desc>homepage</desc>
+			<g id="shape132-88" v:mID="132" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.132</title>
+				<desc>VM</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="43.6105" cy="278.237" width="26.93" height="9.25468"/>
+				<rect x="0" y="251.683" width="53.8583" height="31.1811" class="st4"/>
+				<text x="39.34" y="280.04" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VM</text>			</g>
+			<g id="shape131-91" v:mID="131" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.9291" cy="267.274" width="48.94" height="18.8036"/>
+				<text x="7.48" y="269.97" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>homepage</text>			</g>
+		</g>
+		<g id="group129-93" transform="translate(97.6201,-43.7618)" v:mID="129" v:groupContext="group" v:layerMember="1">
+			<title>Virtueller Computer-Container.129</title>
+			<desc>forum</desc>
+			<g id="shape130-94" v:mID="130" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.130</title>
+				<desc>VM</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="43.6105" cy="278.237" width="26.93" height="9.25468"/>
+				<rect x="0" y="251.683" width="53.8583" height="31.1811" class="st4"/>
+				<text x="39.34" y="280.04" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VM</text>			</g>
+			<g id="shape129-97" v:mID="129" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.9291" cy="267.274" width="32.59" height="18.8036"/>
+				<text x="15.65" y="269.97" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>forum</text>			</g>
+		</g>
+		<g id="shape54-99" v:mID="54" v:groupContext="shape" transform="translate(164.234,-46.5964)">
+			<title>Tabelle.54</title>
+			<desc>...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="268.691" width="45.36" height="28.3465"/>
+			<rect x="0" y="254.518" width="45.3543" height="28.3465" class="st7"/>
+			<text x="18.13" y="272.29" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>...</text>		</g>
+		<g id="group95-102" transform="translate(108.959,-193.998)" v:mID="95" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Ort)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Cloud)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>Cloud</title>
+			<g id="shape96-103" v:mID="96" v:groupContext="shape" transform="translate(0,-15.1187)">
+				<title>Tabelle.96</title>
+				<path d="M61.14 253.3 C60.76 249.95 57.72 247.34 53.98 247.34 C52.91 247.34 51.91 247.56 51.01 247.93 C49.25 244.65
+							 45.6 242.24 38.77 242.43 C29.89 242.68 19.38 246.68 17.26 253.77 C14.73 254.25 13.1 255.63 12.13 257.45
+							 C11.74 257.41 11.34 257.39 10.93 257.39 C5.08 257.39 0.59 261.66 0.33 266.91 C0 273.71 5.08 276.43 10.93
+							 276.43 C11.76 276.43 12.57 276.34 13.35 276.17 C14.57 276.96 16.15 277.45 17.89 277.45 C19.49 277.45
+							 20.97 277.03 22.14 276.34 C24.39 280.17 29.02 282.86 34.36 282.55 C39.97 282.22 43.34 281.03 45.33 279.18
+							 C45.46 279.16 45.57 279.16 45.7 279.15 C51.98 278.34 54.74 276.72 55.63 274.04 C55.79 274.04 55.96 274.05
+							 56.13 274.05 C64.27 274.05 70.87 271.67 70.87 263.34 C70.87 258.71 66.8 254.8 61.14 253.3 Z"
+						class="st9"/>
+			</g>
+		</g>
+		<g id="shape98-105" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(137.305,-209.508)">
+			<title>Dynamischer Verbinder.98</title>
+			<desc>Port 80/443</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="293.454" width="48.81" height="17.6036"/>
+			<path d="M7.09 282.86 L7.09 298" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-12.4096" y="288.654" width="38.9927" height="9.59985" class="st12"/>
+			<text x="-12.41" y="295.85" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Port 80/443</text>		</g>
+		<g id="group133-113" transform="translate(215.258,-157.148)" v:mID="133" v:groupContext="group" v:layerMember="1">
+			<title>Virtueller Computer-Container.133</title>
+			<desc>nginx-proxy-le</desc>
+			<g id="shape134-114" v:mID="134" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.134</title>
+				<desc>VM</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="43.6105" cy="278.237" width="26.93" height="9.25468"/>
+				<rect x="0" y="251.683" width="53.8583" height="31.1811" class="st4"/>
+				<text x="39.34" y="280.04" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VM</text>			</g>
+			<g id="shape133-117" v:mID="133" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.9291" cy="267.274" width="62.34" height="18.8036"/>
+				<text x="0.78" y="269.97" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nginx-proxy-le</text>			</g>
+		</g>
+		<g id="shape140-119" v:mID="140" v:groupContext="shape" v:layerMember="0" transform="translate(215.258,-165.652)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 275.78 L-44.29 275.78" class="st1"/>
+		</g>
+		<g id="shape141-122" v:mID="141" v:groupContext="shape" transform="translate(188.329,-18.25)">
+			<title>Tabelle.141</title>
+			<desc>VIRTUAL_HOST: api.gruppe-adler.de LETSENCRYPT_HOST: api.grupp...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.2756" cy="267.274" width="110.56" height="31.1811"/>
+			<rect x="0" y="251.683" width="110.551" height="31.1811" class="st7"/>
+			<text x="11.01" y="265.47" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>VIRTUAL_HOST: api.gruppe-adler.de<v:newlineChar/><tspan
+						x="4.81" dy="1.2em" class="st15">LETSENCRYPT_HOST: api.gruppe</tspan>-adler.de</text>		</g>
+	</g>
+</svg>
