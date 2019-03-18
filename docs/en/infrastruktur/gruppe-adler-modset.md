@@ -1,4 +1,9 @@
 # :file_folder: Gruppe Adler Modset
+
+::: tip DISCLAIMER
+This page is mostly translated with google translator.
+:::
+
 ## Introduction
 Gruppe Adler uses a Repository (Repo) consisting of different Mods to customize the game experience to our needs.
 
