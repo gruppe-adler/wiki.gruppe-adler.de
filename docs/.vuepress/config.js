@@ -40,14 +40,25 @@ module.exports = {
                     '/de/infrastruktur/': getSidebarItems('Infrastruktur', '/de/infrastruktur'),
                     '/de/organisatorisches/': getSidebarItems('Organisatorisches', '/de/organisatorisches'),
                     '/de/taktik/': getSidebarItems('Taktik', '/de/taktik')
-                  }
+                }
             },
             '/en/': {
                 label: 'English',
                 selectText: 'Languages',
                 editLinkText: 'Edit this page on GitHub',
                 lastUpdated: 'Last Updated' ,
-                nav: []
+                nav: [
+                    // { text: 'Bastelstube', link: '/en/bastelstube/' },
+                    { text: 'Infrastructure', link: '/en/infrastruktur/' },
+                    // { text: 'Organisatorisches', link: '/en/organisatorisches/' },
+                    // { text: 'Taktik', link: '/en/taktik/' }
+                ],
+                sidebar: {
+                    // '/en/bastelstube/': getSidebarItems('Bastelstube', '/en/bastelstube', '❔ Introduction'),
+                    '/en/infrastruktur/': getSidebarItems('Infrastructure', '/en/infrastruktur', '❔ Introduction'),
+                    // '/en/organisatorisches/': getSidebarItems('Organisatorisches', '/en/organisatorisches', '❔ Introduction'),
+                    // '/en/taktik/': getSidebarItems('Taktik', '/en/taktik', '❔ Introduction')
+                }
             }
         },
     },
