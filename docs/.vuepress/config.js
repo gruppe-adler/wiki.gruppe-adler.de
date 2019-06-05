@@ -18,7 +18,6 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
-    theme: 'gruppe-adler-theme',
     themeConfig: {
         repo: 'gruppe-adler/wiki.gruppe-adler.de',
         editLinks: true,

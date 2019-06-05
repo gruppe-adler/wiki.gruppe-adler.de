@@ -28,7 +28,7 @@ export default {
 }
 </script>
 
-<style src="@parent-theme/styles/theme.styl" lang="stylus"></style>
+<style src="@parent-theme/styles/index.styl" lang="stylus"></style>
 <style lang="scss" scoped>
 .content {
     display: flex;
