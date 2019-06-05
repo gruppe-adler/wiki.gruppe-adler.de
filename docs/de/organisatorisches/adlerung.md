@@ -1,4 +1,4 @@
-# 🦅 Aufhnahme neuer Adler (Adlerung)
+# 🦅 Aufnahme neuer Adler (Adlerung)
 
 Sobald ein Gast- oder Stammspieler sich entscheidet Adler werden zu wollen, wird er für das Anwärterforum freigeschaltet.  
 Ab dem Zeitpunkt, an dem  dort seine Bewerbung eingeht, beginnt seine sechswöchige Anwärterzeit. In diesem Zeitraum stimmen die Adler über seine Aufnahme ab.  
@@ -12,7 +12,7 @@ Falls sich für den Anwärter entschieden wird, wird dieser am folgenden Hauptsp
 * _Alle Stimmen_: Alle **Ja**, **Nein** und **Neutral** Stimmen
 
 ### Unterschied zw. Enthaltung und Neutral
-Eine Neutral Stimme bedeutet, dass ein Adler den Anwäter einschätzen kann, also mit ihm Erfahrungen gesammelt hat und es ihm nur egal ist, ob der Anwärter Adler wird.  
+Eine Neutral Stimme bedeutet, dass ein Adler den Anwärter einschätzen kann, also mit ihm Erfahrungen gesammelt hat und es ihm nur egal ist, ob der Anwärter Adler wird.  
 Eine Enthaltung bedeutet, dass der Adler den Anwärter **nicht** einschätzen kann. Dies kann zum Beispiel bei Adler, die eher Inaktiv sind auftreten. Einhaltungen werden in keiner Rechnung berücksichtigt, dass sich eine potentielle generelle Inaktivität in der Gruppe Adler nicht negativ auf den Anwärter auswirken kann.
 
 ## Stimmabgabe

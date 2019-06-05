@@ -30,7 +30,7 @@ Anwärter ist die Vorstufe zum Adler. Also jeder der Adler werden möchte.
 2. Du meldest dich bei der Führung um als Anwärter freigeschaltet zu werden
 3. Du schreibst im Anwärterbereich im Forum eine "Bewerbung" in der du ein wenig über dich preisgibst. Wir wollen ja schließlich wissen wer sich uns anschließen will 😉
 4. Sobald deine Bewerbung verfasst ist beginnt deine Anwärterzeit von 6 Wochen
-5. In deiner Anwärterzeit stimmen die Adler über deine Aufnahme ab (siehe [Aufhnahme neuer Adler (Adlerung)](adlerung.html))
+5. In deiner Anwärterzeit stimmen die Adler über deine Aufnahme ab (siehe [Aufnahme neuer Adler (Adlerung)](adlerung.html))
 
 
 ## <span style="color: #D18D1F">Adler</span>
