@@ -6,7 +6,7 @@ Für die Aktualisierung verwenden wir Arma3Sync (A3S)
 
 ## Übersicht
 
-Die Gruppe Adler benutzt im wesentlichen folgende Mods:
+Die Gruppe Adler benutzt im Wesentlichen folgende Mods:
 
 * Advanced Combat Environment 3 (ACE3)
 * Community Upgrade Project Terrains (CUP)
@@ -19,14 +19,14 @@ Eine vollständige und detaillierte Übersicht mit allen Mods einschließlich Ve
 
 Unser Repository beinhalten insgesamt drei Events (oder auch im folgenden Modsets genannt). Abhängig davon, bei welchen Spieltagen teilgenommen werden soll, werden nicht alle Mods benötigt.
 
-* **Gruppe Adler Main**: Dieses Modset enthält alle Mods die für normalen Spieltage gebraucht werden.
+* **Gruppe Adler Main**: Dieses Modset enthält alle Mods, welche für normale Spieltage gebraucht werden.
 * **Gruppe Adler Event**: Dieses Modset ist eine Teilmenge des _Gruppe Adler Main_, enthält aber nur die absolut nötigsten Mods. Wir benutzen dieses Modsets wenn Partnerclans bei uns zu Gast sind.
 * **Gruppe Adler Optionals**: Hier findest du alle optionalen Addons die du mitladen darfst, aber nicht musst. Hierbei handelt es sich ausschließlich um Addons die nur lokale Auswirkungen haben (Sound, Userinterface etc.)
 
 ## Repository anlegen und konfigurieren
 
 ### Installation Arma3Sync
-Für das Herunterladen und Synchronisation der Mods wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](http://www.armaholic.com/page.php?id=22199). Diese einfach herunterladen und installieren.
+Für das Herunterladen und die Synchronisation der Mods wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](http://www.armaholic.com/page.php?id=22199). Diese einfach herunterladen und installieren.
 
 ### Anlegen eines neuen Profils
 Es ist zwar nicht unbedingt notwenig, aber empfehlenswert für jedes neues Repository ein neues Profil zu erstellen um Fehler vorzubeugen.  
@@ -96,7 +96,7 @@ Alle Mods, die mit einem gelben Warnzeichen versehen sind, müssen aktualisiert 
 * **Blau** - Mod wird gelöscht  
 * **Schwarz (mit gelben Warnzeichen)** - Mod wird aktualisiert
 
-Der Download wird mit der dem schwarzen Play Knopf gestartet.
+Der Download wird mit dem schwarzen Play Knopf gestartet.
 
 ::: tip
 Um eine höchst mögliche Downloadgeschwindigkeit zu gewährleisten sollte die Anzahl der maximal aktiven Verbindungen auf den maximalen Wert gestellt werden `Settings` → `Maximum number of connections`

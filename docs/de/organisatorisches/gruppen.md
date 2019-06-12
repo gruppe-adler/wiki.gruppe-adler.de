@@ -15,11 +15,11 @@ Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler 
 
 ## Stammspieler
 
-Stammspieler sind eigentlich gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu externen Events, bei welchen wir noch Unterstützung brauchen, eingeladen werden.  
+Stammspieler sind gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu externen Events, bei welchen wir noch Unterstützung brauchen, eingeladen werden.  
 Bei längere Inaktivität kann der Stammspieler Status einem Spieler entzogen werden.
 
 ### Stammspieler werden
-Ein Gastspieler wird zum Stammspieler. wenn er von einem Adler als solcher vorgeschlagen wird und drei weitere Adler zustimmen.  
+Ein Gastspieler wird zum Stammspieler, wenn er von einem Adler als solcher vorgeschlagen wird und drei weitere Adler zustimmen.  
 Stammspieler wird nur, wer sich auch benehmen kann, da diese uns evtl. auch auf externen Events vertreten. 
 
 ## Anwärter
@@ -41,5 +41,5 @@ Du bist einer von uns. Du hast ein offizielles Mitspracherecht und Zugang zu all
 Dem Namen entgegen steht die Führung der Gruppe Adler nicht wirklich über den anderen Adlern oder hat mehr Stimmrecht als andere Adler. Die Führung ist auch nur Adler.  
 Dennoch muss es unserer Meinung nach irgendeine Form von Führung geben, denn ähnlich wie in Arma, funktionieren größere Gruppen ohne irgendeine Art von Führung schlecht und sind meistens recht chaotisch. 
 
-Deswegen sind die Hauptaufgaben der Führung Interessenausgleich zw. Meinungen, Moderation & Diplomatie. Hierzu gehört natürlich auch manchmal Entscheidungen über Diskussionen, die sonst zu keinen Ergebnissen führen, zu treffen. Im Allgemeinen probiert sich die Führung aber so gut wie möglich aus Entscheidungsfindungen raus zu halten.   
+Deswegen sind die Hauptaufgaben der Führung Interessenausgleich zwischen Meinungen, Moderation & Diplomatie. Hierzu gehört natürlich auch manchmal Entscheidungen über Diskussionen, die sonst zu keinen Ergebnissen führen, zu treffen. Im Allgemeinen probiert sich die Führung aber so gut wie möglich aus Entscheidungsfindungen raus zu halten.   
 Des weiteren hat die Führung eine organisatorische Rolle, die Aufgaben wie Stimm-Auswertungen, Organisation und Protokollführung der Mitgliederversammlungen u.v.m. beinhaltet. 

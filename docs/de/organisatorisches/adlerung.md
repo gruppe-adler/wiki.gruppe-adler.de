@@ -13,8 +13,8 @@ Falls sich für den Anwärter entschieden wird, wird dieser am folgenden Hauptsp
 
 ### Unterschied zw. Enthaltung und Neutral
 Eine Neutral Stimme bedeutet, dass ein Adler den Anwärter einschätzen kann, also mit ihm Erfahrungen gesammelt hat und es ihm nur egal ist, ob der Anwärter Adler wird.  
-Eine Enthaltung bedeutet, dass der Adler den Anwärter **nicht** einschätzen kann. Dies kann zum Beispiel bei Adler, die eher Inaktiv sind auftreten. Einhaltungen werden in keiner Rechnung berücksichtigt, dass sich eine potenzielle generelle Inaktivität in der Gruppe Adler nicht negativ auf den Anwärter auswirken kann.
+Eine Enthaltung bedeutet, dass der Adler den Anwärter **nicht** einschätzen kann. Dies kann zum Beispiel bei Adlern, die eher inaktiv sind auftreten. Enthaltungen werden in keiner Rechnung berücksichtigt, damit sich eine generelle Inaktivität in der Gruppe Adler nicht negativ auf den Anwärter auswirken kann.
 
 ## Stimmabgabe
 Von der Führung wird am Anfang der Anwärterzeit eine Abstimmung erstellt, bei der während des gesamten Anwärter Zeitraums jeder Adler seine Stimme abgeben kann.  
-Stimmen müssen niemanden gegenüber begründet werden. 
+Stimmen müssen niemandem gegenüber begründet werden. 

@@ -10,8 +10,8 @@ Zugriff auf die VM erfolgt per ssh. Falls du kein Zugriff hast wende dich bitte 
 Alle Applikationen (ein oder mehrere zusammenhörigen Container) sind grundsätzlich unabhängig von einander aufgebaut. Hierbei gibt es aber einige Ausnahmen:  
 
 ### Reverse Proxy
-Da mehrere Applikationen von außen auf Port 80 _(http)_ / 443 _(https)_ erreichbar sein sollen, muss ein reverse proxy zum Einsatz kommen. Hierfür kommt [nginx-proxy](https://github.com/jwilder/nginx-proxy) und [nginx-proxy-le](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) (für das automatische lösen von Let's Encrypt Zertifikaten) zum Einsatz.  
-Alle Container die nun auf per http(s) erreichbar sein sollen, müssen nur noch zwei Anforderungen erfüllen: 
+Da mehrere Applikationen von außen auf Port 80 _(http)_ / 443 _(https)_ erreichbar sein sollen, muss ein reverse proxy zum Einsatz kommen. Hierfür kommt [nginx-proxy](https://github.com/jwilder/nginx-proxy) und [nginx-proxy-le](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) (für das automatische Lösen von Let's Encrypt Zertifikaten) zum Einsatz.  
+Alle Container die nun auch per http(s) erreichbar sein sollen, müssen nur noch zwei Anforderungen erfüllen: 
 1. Dem `nginx-proxy` Docker Netzwerk hinzugefügt sein.
 2. Folgende Environment Variablen gesetzt haben (Hierbei natürlich `foo` durch korrekten Wert ersetzen):
     - `VIRTUAL_HOST=foo.gruppe-adler.de,www.foo.gruppe-adler.de`
