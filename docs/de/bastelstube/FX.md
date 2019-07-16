@@ -6,7 +6,24 @@ Effekt ist lokal. Funktion muss also auf allen Clients ausgeführt werden.
 :::
 
 ### Syntax
-`[position,timeout,effectSize,expansion,colorRed,colorGreen,colorBlue,colorAlpha,particleSize,particleDensity,particleLifetime,particleSpeed,particleLifting,windEffect] call GRAD_fnc_createSmoke;`
+```
+[
+    position,  
+    timeout,  
+    effectSize,  
+    expansion,  
+    colorRed,  
+    colorGreen,  
+    colorBlue,  
+    colorAlpha,  
+    particleSize,  
+    particleDensity,  
+    particleLifetime,  
+    particleSpeed,  
+    particleLifting,  
+    windEffect  
+] call GRAD_fnc_createSmoke;
+```
 
 ### Beispiel
 `[getpos player,0,1.5] call GRAD_fnc_createSmoke`
