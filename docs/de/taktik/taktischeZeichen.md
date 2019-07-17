@@ -1,4 +1,4 @@
-# Taktische Zeichen
+# ➗ Taktische Zeichen
 
 Taktische Zeichen, auch Nato Symbole, Nato Zeichen, o.ä. sind Piktogramme, die zur schnellen Identifizierung von militärischen Einheiten dienen. In der Realität sind Fahrzeuge z.B. häufig mit dem Taktischen Zeichen der zugehörigen Einheit gekennzeichnet. 
 
