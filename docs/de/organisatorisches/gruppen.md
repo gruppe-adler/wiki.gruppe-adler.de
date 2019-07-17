@@ -1,4 +1,4 @@
-# ⬛ Gruppen
+# 🎗️ Gruppen
 
 Die Spieler der Gruppe Adler lassen sich in fünf Gruppen einordnen: <span style="color: #66AA66">Gastspieler</span>, <span style="color: #66AA66">Stammspieler</span>, <span style="color: #6CAACC">Anwärter</span>, <span style="color: #D18D1F">Adler</span> und <span style="color: #8F1167">Führung</span>
 
