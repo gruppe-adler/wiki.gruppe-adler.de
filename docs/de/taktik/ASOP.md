@@ -46,7 +46,7 @@ Diese Einheiten werden üblicherweise der höchsten taktischen Ebene zugeordnet,
 Dieser Abschnitt widmet sich den verschiedenen Befehlen die wir häufig benutzen und daher als “Standard” gelten.
 
 :::tip
-Teilt eure Befehle in zwei Teile. Im ersten kündigt ihr an was ihr gleich befehlen wollt, im zweiten Teil gebt ihr den Befehl. Der Vorteil davon ist, dass euer ganzes Team darauf vorbereitet ist und gleichzeitig agieren kann. Bsp: “Achtung wir brauchen eine Rauchwand Richtung Ost. Rauchgranaten vorbereiten.”... 5 sek Pause … “Rauchgranaten werfen Richtung Ost. Ausführen!”
+Teilt eure Befehle in zwei Teile. Im ersten kündigt ihr an was ihr gleich befehlen wollt, im zweiten Teil gebt ihr den Befehl. Der Vorteil davon ist, dass euer ganzes Team darauf vorbereitet ist und gleichzeitig agieren kann. Bsp: `Achtung wir brauchen eine Rauchwand Richtung Ost. Rauchgranaten vorbereiten.`... 5 sek Pause … `Rauchgranaten werfen Richtung Ost. Ausführen!`
 :::
 ### 2.1	Marschgeschwindigkeit
 Befehle werden erst beschrieben und dann mit `ausführen <Geschwindigkeit>` ausgelöst.
@@ -92,35 +92,78 @@ Je nach Gelände und Situation gibt es dabei einen sweet spot, den man durch Üb
 
 Praktisch sollte man sich am ShackTac Hud orientieren. Minimalabstand ist der innerste Ring, Maximalabstand der äußere. Alles dazwischen ist Situationsabhängig ok.
 ### 3.3	Linie
-![container-structure](~@assets/asop/Formations3.png) 
 ![container-structure](~@assets/asop/1600px-Taktisch_linie.jpg) 
-#### 3.3.1	Anwendungsfälle
-Diese Formation eignet sich für frontale Angriffe. Sie bringt die meiste Feuerkraft nach vorne auf den Gegner. Die Schwächen sind die Flanken. Gegen Angriffe von der Seite ist man praktisch ungeschützt und es ist sehr schwer darauf zu reagieren.
-#### 3.3.2	Deckungsbereiche
-Die Deckungsbereiche zeigen alle nach vorne. Wenn nötig kann die 1 oder die 3 Teildeckung nach hinten geben. Praktikabel ist das allerdings nicht. Diese Formation sollte primär gewählt werden, um einen Überfall durchzuführen oder im Verbund mit anderen Trupps, die die Flanken sichern.
+
+
+
+
+**Geeignet für frontale Angriffe**  
+_ggf. von anderen Kräften die Flanken decken lassen_
+
+:::tip Eigenschaften 
+✅ Bringt die meiste Feuerkraft nach vorne auf den Gegner  
+🚫 Gegen Angriffe von der Seite ungeschützt  
+🚫 Schwer auf Seitenangriffe zu reagieren  
+:::
+<img align='right' height='240px' src='~@assets/asop/line.png' style='margin-left:20px; '>
+
+#### 3.3.1	Deckungsbereiche
+1. Front
+2. Front, ggf. Teildeckung hinten
+3. Front, ggf. Teildeckung hinten
+4. Front  
+
 ### 3.4	Keil
-![container-structure](~@assets/asop/Formations2.png) 
 ![container-structure](~@assets/asop/1600px-Taktisch_keil.jpg) 
-#### 3.4.1	Anwendungsfälle
-Diese Formation ist der Allrounder und sollte immer eingenommen werden wenn es möglich ist. Die Formation bietet gute Deckungsmöglichkeiten und Reaktionspotential in alle Richtungen. Die Flügel können ggf. einzeln kommandiert und bewegt werden um Feuergefechte zu verschieben oder den Gegner zu flankieren.
-#### 3.4.2	Deckungsbereiche
-Alle decken nach vorne und leicht nach außen. Dadurch lassen sich 240° nach vorne problemlos abdecken. Zusätzlich kann die 3 oder die 4 bei Bedarf nach hinten decken.
+
+
+
+
+**Guter Allrounder**  
+
+:::tip Eigenschaften
+
+✅ Gute Deckungsmöglichkeiten und Reaktionspotential in alle Richtungen  
+✅ Die Flügel können ggf. einzeln kommandiert und bewegt werden, um Feuergefechte zu verschieben oder den Gegner zu flankieren 
+:::
+<img align='right' height='240px' src='~@assets/asop/wedge.png' style='margin-left:20px; '>
+
+#### 3.4.1	Deckungsbereiche
+1. leicht außen
+2. Front
+3. Front, ggf. hinten
+4. leicht außen, ggf. hinten
+
 ### 3.5	Kolonne
-![container-structure](~@assets/asop/Formations.png) 
 ![container-structure](~@assets/asop/1600px-Taktisch_kolonne.jpg) 
-#### 3.5.1	Anwendungsfälle
-Bewegung durch sicheres Gebiet
-Patroullie auf einer schmalen Straße mit unwegsamen Gelände zu den Seiten (Abstände vergrößern).
-Diese Formation ist extrem anfällig gegen Angriffe von vorne und hinten. Wie bei der Linie fehlt die Flexibilität um auf derartige Situationen schnell zu reagieren. Auch sind alle Mitglieder in einer Reihe dem Feindfeuer ausgeliefert.
-#### 3.5.2	Deckungsbereiche
-Die 1 ist für die Frontsicherung zuständig, die 4 für den Rückraum. Die 2 und 3 teilen sich nach links und rechts auf (die 2 entscheidet sich spontan, die 3 nimmt die freie Seite). Dadurch entsteht eine Rundumdeckung.
+
+
+
+
+**Bewegung durch sicheres Gebiet und Stadt** 
+
+:::tip Eigenschaften 
+✅ Patrouille auf schmaler Straße/Stadt   
+✅ Geringes frontales Bewegungsprofil, gut für Geländegräben  
+🚫 Extrem anfällig gegen Angriffe von vorne und hinten  
+🚫 Fehlende Flexibilität um schnell zu reagieren  
+:::
+<img align='right' height='240px' src='~@assets/asop/column.png' style='margin-left:20px; '>
+
+#### 3.5.1	Deckungsbereiche
+1. Front
+2. Beliebige Seite
+3. Entgegengesetzt 2
+4. Rückraum
+
+***
 ### 3.6	Wechseln zwischen den Formationen
-Die folgenden Diagramme geben einen guten Überblick über die Dynamik beim Wechsel von Formationen. Angefangen bei einer Marschkolonne, die in einen Keil und von dort in eine Linie wechselt:  
-![container-structure](~@assets/asop/Kolonne.png)  
-![container-structure](~@assets/asop/Kolonne_keil.png)  
-![container-structure](~@assets/asop/Keil_linie.png)  
-Dabei sind diese Bewegungen dynamisch und fliessend. Sie sollten weniger als Ballet und mehr als natürliche Bewegungsformen angenommen werden. Perfektion der Bewegungen ist nicht so wichtig wie das Endergebnis im Sinne der Zielsetzung (Wirkungsrichtung, Deckungsbereiche). Siehe die folgende Variante, um einen Keil in eine Linie zu formen:
-![container-structure](~@assets/asop/Keil_linie2.png) 
+
+
+<img align='right'  height='240px' src='~@assets/asop/formationen.gif' style='margin-right: :20px; '>
+
+Die Animation gibt einen guten Überblick über die Dynamik beim Wechsel von Formationen. Angefangen bei einer Reihe, die in einen Keil und von dort in eine Linie wechselt. Dabei sind diese Bewegungen dynamisch und fliessend. Sie sollten weniger als Ballet und mehr als natürliche Bewegungsformen angenommen werden. Perfektion der Bewegungen ist nicht so wichtig wie das Endergebnis im Sinne der Zielsetzung (Wirkungsrichtung, Deckungsbereiche).  
+***  
 ### 3.7	Videoguide
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3sJJrVAAqW0
 " target="_blank"><img src="http://img.youtube.com/vi/3sJJrVAAqW0/0.jpg" 
