@@ -339,9 +339,41 @@ Essentielle Informationen sind alle Informationen, die zur erfolgreichen Durchf�
 
 ### 7.2	Zusätzliche Informationen
 Zusätzliche (optionale) Informationen sind alle Informationen, die nicht zwingend notwendig sind, allerdings den Gesamtauftrag erleichtern, bzw. die Empfänger in die Lage versetzt, sich ein Gesamtbild zu machen, ohne dass es für sie konkrete Relevanz hat.
-:::danger todo
-einfügen tabellen
-:::
+
+#### Zugführung
+
+| ↪ Gruppen                 	|
+|---------------------------	|
+| Aufträge anderer Gruppen  	|
+| Vermutete Feindpositionen 	|
+| Logistik                  	|
+| Zusätzliche Intel         	|
+| Zeitplan (wenn vorhanden) 	|
+
+#### Gruppenführung
+
+| ↪ Zug                  	| ↪ Andere Gruppen 	| ↪ Trupps                  	|
+|------------------------	|------------------	|---------------------------	|
+| Positionsmeldungen     	| Absichten/Pläne  	| Allgemeine Lage           	|
+| Sonstige Beobachtungen 	|                  	| Was machen wir gerade?    	|
+|                        	|                  	| Aktueller Auftrag         	|
+|                        	|                  	| Aktuelle Situation        	|
+|                        	|                  	| Aufruf Munition zu sparen 	|
+
+#### Truppführung
+
+| ↪ Gruppe               	| ↪ Andere Trupps            	|
+|------------------------	|----------------------------	|
+| Positionsmeldungen     	| Munition/Ausrüstung teilen 	|
+| Sonstige Beobachtungen 	|                            	|
+
+#### Einzelschütze
+
+| ↪ Trupp                	|
+|------------------------	|
+| Positionsmeldungen     	|
+| Sonstige Beobachtungen 	|
+
 ## 8	Arbeiten mit der Karte
 Das Arbeiten mit der Karte erleichtert die Gesamtführung der Truppen. Dabei ist es hilfreich, sauber zu markieren und gegebenenfalls veraltete Markierungen wieder zu entfernen, damit die Karte übersichtlich bleibt und ein aktuelles Lagebild möglich ist.
 
