@@ -1,4 +1,4 @@
-# Gastspielerverfahren
+# 🤝 Gastspielerverfahren
 
 :::warning
 Diese Wikiseite ist lediglich eine Schnellreferenz. Bei Diskrepanzen sind immer die von der Führung im Forum geposteten Inhalte richtig. Dieser Artikel soll als Überblick über das komplette Verfahren für die Ernennung neuer Gastspieler dienen.
