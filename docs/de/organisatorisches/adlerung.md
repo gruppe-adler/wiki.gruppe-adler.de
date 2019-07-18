@@ -18,3 +18,20 @@ Eine Enthaltung bedeutet, dass der Adler den Anwärter **nicht** einschätzen ka
 ## Stimmabgabe
 Von der Führung wird am Anfang der Anwärterzeit eine Abstimmung erstellt, bei der während des gesamten Anwärter Zeitraums jeder Adler seine Stimme abgeben kann.  
 Stimmen müssen niemandem gegenüber begründet werden. 
+
+
+## Zeremonie
+Neue Adler werden im allgemeinen an Hauptspieltagen eingeführt. Dazu gibt's in der VA-Mission ein Tor, durch das zur Adler-Arena geschritten wird. Der neue Adler wird auf der Bühne proklamiert, und dann darf jeder einmal zu ihm hinrennen und per ACE interact auf die Schulter klopfen.
+
+:::warning Technische Checkliste
+
+* Diskussionsthread in den Führungsbereich verschieben (@Führung)
+* Gastspieler-Channel löschen & neu erstellen (@Führung)
+***
+* Forumsrechte (@Führung, Fussel, XiviD)
+* TS-Rechte (@Führung, @Synch)
+* Discord-Gruppe (@Führung)
+***
+* @gruppe-adler.de-Emailadresse anlegen (nomisum)
+
+:::
