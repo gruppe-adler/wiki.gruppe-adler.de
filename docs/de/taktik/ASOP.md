@@ -281,9 +281,62 @@ Bei der Kommunikation zwischen den Truppenteilen bzw. vertikal von der Führung 
 Je nach Führungsposition unterscheiden diese sich zum Teil erheblich. Deshalb hier eine kurze Übersicht, die allerdings nicht abschliessend ist und von der im Einzelfall je nach Bedarf abgewichen werden muss.
 ### 7.1	Essentielle Informationen
 Essentielle Informationen sind alle Informationen, die zur erfolgreichen Durchführung des Auftrages zwingend vorliegen müssen.
-:::danger todo
-einfügen tabellen
-:::
+
+#### Zugführung
+
+| ↪ Gruppen                                        	|
+|--------------------------------------------------	|
+| Auftrag                                          	|
+| Position befreundeter Einheiten                  	|
+| Bekannte Gefahrenquellen die die Gruppe bedrohen 	|
+| Bekannte Feindpositionen                         	|
+| Verletztensammelstellen                          	|
+| Feuerstatus                                      	|
+| Kommandoübernahme                                	|
+
+
+#### Gruppenführung
+| ↪ Zug                                	| ↪ Gruppen                                       	| ↪ Trupps                                     	|
+|--------------------------------------	|-------------------------------------------------	|----------------------------------------------	|
+| Änderungen der Auftragsstatus        	| Eigenbeschuss durch andere Gruppen              	| Aufträge                                     	|
+| Ursache für Auftragsprobleme         	| Akute Bedrohungen anderer Einheiten durch Feind 	| Bekannte Feindsichtungen                     	|
+| Feindmeldungen                       	|                                                 	| Erwartete Feindkontakte                      	|
+| Ausfälle                             	|                                                 	| Feuerstatus                                  	|
+| Munitionsstand                       	|                                                 	| Formation/Geschwindigkeit                    	|
+| Besondere Vorkommnisse/Beobachtungen 	|                                                 	| AT/MG Feuererlaubnis (spezielle Anweisungen) 	|
+| Kommandoübername                     	|                                                 	| Kommandoübername                             	|
+
+#### Truppführung
+
+| ↪ Zug                         	| ↪ Gruppen                            	| ↪ Trupps                                        	| ↪ Einzelschütze                              	|
+|-------------------------------	|--------------------------------------	|-------------------------------------------------	|----------------------------------------------	|
+| Änderungen der Auftragsstatus 	| Eigenbeschuss durch andere Trupps    	| Aufträge                                        	| Bekannte Feindsichtungen                     	|
+|                               	| Ursache für Auftragsprobleme         	| Akute Bedrohungen anderer Einheiten durch Feind 	| Erwartete Feindkontakte                      	|
+|                               	| Feindmeldungen                       	| Angriffskoordination                            	| Feuerstatus                                  	|
+|                               	| Ausfälle                             	|                                                 	| Formation/Geschwindigkeit                    	|
+|                               	| Munitionsstand                       	|                                                 	| AT/MG Feuererlaubnis (spezielle Anweisungen) 	|
+|                               	| Besondere Vorkommnisse/Beobachtungen 	|                                                 	| Kommandoübername                             	|
+|                               	| Kommandoübername                     	|                                                 	| Genaue Position einzelner (MG/AT)            	|
+|                               	| Anfordern von Sanitäter              	|                                                 	| Zieleinweisung/Deckungsbereiche              	|
+|                               	| Fehlschüsse                          	|                                                 	| AT/Gren/UGL Einsatz                          	|
+|                               	|                                      	|                                                 	| Feuermodus/-aggressivität                    	|
+|                               	|                                      	|                                                 	| Kommandoübernahme                            	|
+
+#### Einzelschütze
+
+| ↪ Trupps                             	| ↪ Einzelschütze                                                  	|
+|--------------------------------------	|------------------------------------------------------------------	|
+| Änderungen der Auftragsstatus        	| Feindsichtungen                                                  	|
+| Ursache für Auftragsprobleme         	| Granaten                                                         	|
+| Feindmeldungen                       	| Akute Bedrohungen                                                	|
+| Ausfälle                             	| Koordination ("Kreuze", "Letzter Mann", "Ich decke Westen" usw.) 	|
+| Munitionsstand                       	|                                                                  	|
+| Besondere Vorkommnisse/Beobachtungen 	|                                                                  	|
+| Kommandoübername                     	|                                                                  	|
+| Anfordern von Sanitäter              	|                                                                  	|
+| Fehlschüsse                          	|                                                                  	|
+
+
 ### 7.2	Zusätzliche Informationen
 Zusätzliche (optionale) Informationen sind alle Informationen, die nicht zwingend notwendig sind, allerdings den Gesamtauftrag erleichtern, bzw. die Empfänger in die Lage versetzt, sich ein Gesamtbild zu machen, ohne dass es für sie konkrete Relevanz hat.
 :::danger todo
