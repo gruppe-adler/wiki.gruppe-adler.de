@@ -7,10 +7,10 @@ Der Infanteriezug setzt sich grundsätzlich aus folgenden Teileinheiten zusammen
 * Zugtrupp
 * 2-3 Gruppen (x2-3 Trupps)
 ### 1.1 Trupptypen
-|                             	|                   	|                           	|                     	|                        	|
+|                             	|       1            	|              2             	|       3              	|                  4      	|
 |-----------------------------	|-------------------	|---------------------------	|---------------------	|------------------------	|
 | **Zugtrupp**                    	| Zugführer         	| (Ass. Zugführer)          	| Zugarzt             	| (Drohnenpilot)         	|
-| **Gruppentrupp**                	| Gruppenführer     	| (Ass. Gruppenführer)      	| Gruppensanitäter    	| (Gruppenscharfschütze) 	|
+| **Gruppentrupp**                	| Gruppenführer     	| (Ass. Gruppenführer)      	| Gruppensanitäter    	| (Gruppen-scharfschütze) 	|
 | **Infanterietrupp (Grenadier)** 	| Truppführer (ULG) 	| Grenadier (ULG)           	| Schütze             	| Schütze                	|
 | **Infanterietrupp (LMG)**       	| Truppführer (ULG) 	| Schütze LMG (z.B. M249)   	| Schütze (Ass. LMG)  	| Schütze                	|
 | **Infanterietrupp (AT)**        	| Truppführer (ULG) 	| Schütze (z.B. AT-4)       	| Schütze (z.B. AT-4) 	| Schütze                	|

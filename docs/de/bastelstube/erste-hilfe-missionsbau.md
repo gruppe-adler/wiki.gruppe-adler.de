@@ -28,7 +28,7 @@ Es empfiehlt sich, die Anleitung von McDiod einmal komplett gelesen und einmal k
 
 ## Nackte Einheiten
 ::: danger Kein GRAD-Loadout Bug
-Nackte Einheiten entstehen seit einigen ARMA-Versionen beim Ownerwechsel von Zeus-Client auf Dedicated Server/Headless. Workaround dafür 🔜 im Template, dann keine weitere Aktion nötig.
+Nackte Einheiten entstehen seit einigen ARMA-Versionen beim Ownerwechsel von Zeus-Client auf Dedicated Server/Headless. Sollte mit Workaround im Template gefixt worden sein.
 :::
 #### :bulb: Ggf. Uniformen-Classnames im Loadout checken. 
 Es gibt in Project Opfor Uniformen-Classname-Lücken (bspw. `LOP_Bla_1`, `LOP_Bla_3` aber kein `LOP_Bla_2`)
@@ -43,7 +43,11 @@ Es gibt in Project Opfor Uniformen-Classname-Lücken (bspw. `LOP_Bla_1`, `LOP_Bl
 
 
 ## Medicsettings
-:bulb: siehe CBA Settings
+### _Einheit kann nicht sterben, soll aber_
+* Prevent-Insta-Death ausmachen
+* Revive ausmachen (!)
+
+:bulb: Einstellungen siehe CBA Settings
 
 ## CBA Settings
 ::: warning Wenn die CBA-Settings nicht greifen, ist etwas grundsätzlich schief
