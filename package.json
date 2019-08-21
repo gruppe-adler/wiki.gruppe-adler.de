@@ -5,7 +5,7 @@
     "url": "https://github.com/gruppe-adler/wiki.gruppe-adler.de.git"
   },
   "version": "0.0.1",
-  "description": "Gruppe Adler wiki built with vuepress",
+  "description": "Gruppe Adler Wiki built with vuepress",
   "author": "DerZade for Gruppe Adler",
   "license": "ISC",
   "scripts": {
