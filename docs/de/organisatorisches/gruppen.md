@@ -15,7 +15,7 @@ Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler 
 
 ## Stammspieler
 
-Stammspieler sind gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu externen Events, bei welchen wir noch Unterstützung brauchen, eingeladen werden.  
+Stammspieler sind gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu **externen Events**, bei welchen wir noch Unterstützung brauchen, eingeladen werden. Außerdem können Sie eigenständig Missionen im öffentlichen Forum einstellen. 
 Bei längere Inaktivität kann der Stammspieler Status einem Spieler entzogen werden.
 
 ### Stammspieler werden
