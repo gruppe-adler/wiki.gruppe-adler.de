@@ -9,10 +9,10 @@ jobs:
     - name: 'Checkout  the source code from GitHub'
       uses: actions/checkout@master
     - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@master
+      uses: JamesIves/github-pages-deploy-action@2.0.1
       env:
         ACCESS_TOKEN: ${{ secrets.BLECHADLER_PAT }}
         BASE_BRANCH: master # The branch the action should deploy from.
         BRANCH: gh-pages # The branch the action should deploy to.
         FOLDER: dist # The folder the action should deploy.
-        BUILD_SCRIPT: npm install && npm run-script build # The build script the action should run prior to deploying.
+        BUILD_SCRIPT: npm ci && npm run-script build # The build script the action should run prior to deploying.
