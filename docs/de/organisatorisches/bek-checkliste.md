@@ -14,7 +14,7 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 
 ### Spielweise
 ☑️ Kein Siezen oder Ränge auf dem Schlachtfeld  
-️️️️️️☑️ ️[Hier](https://www.youtube.com/playlist?list=PLxm99du9UpHvREYCIS1rl6UJyvlMaGup9) is eine komplette Mission um ein Gefühl für unseren Stil zu bekommen
+️️️️️️☑️ ️[Hier](https://www.youtube.com/playlist?list=PLxm99du9UpHvREYCIS1rl6UJyvlMaGup9) is eine komplette Mission um ein Gefühl für unseren Stil zu bekommen  
 ️️️☑️ ️Medicsystem: TvT Simples System; COOP Advanced System
 
 ### Modset
