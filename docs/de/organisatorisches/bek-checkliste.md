@@ -15,6 +15,7 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ### Spielweise
 ☑️ Kein Siezen oder Ränge auf dem Schlachtfeld  
 ️️️️️️☑️ ️[Hier](https://www.youtube.com/playlist?list=PLxm99du9UpHvREYCIS1rl6UJyvlMaGup9) is eine komplette Mission um ein Gefühl für unseren Stil zu bekommen
+️️️☑️ ️Medicsystem: TvT Simples System; COOP Advanced System
 
 ### Modset
 ☑️ Anleitung zum Modset findet sich [hier](../infrastruktur/gruppe-adler-modset.html)  
@@ -26,8 +27,10 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ➡️ Per PN in Forum oder Discord melden, dass Mods fertig geladen sind  
 ➡️ Techcheck
 
-## Techcheck
-tba
+## Techcheck / Im Spiel
+☑️ Admin-Messages  
+☑️ _Gruppe Adler_ Eintrag auf der Karte für alle Gruppe Adler Mod Features
 
 ## Nach dem Techcheck
-tba
+☑️ Wo finde ich Einsätze? (Öffentliches Forum -> Unsere Einsätze; Grüne Markierung für noch ausstehende Einsätze)  
+☑️ Anmeldung und Slotting einmal zeigen  
