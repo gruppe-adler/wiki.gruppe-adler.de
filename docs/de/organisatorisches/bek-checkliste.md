@@ -29,6 +29,8 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 
 ## Techcheck / Im Spiel
 ☑️ Admin-Messages  
+☑️ Gruppe Management per U-Menü  
+☑️ Funkcheck nach DUI-Hud (oben nach unten)  
 ☑️ _Gruppe Adler_ Eintrag auf der Karte für alle Gruppe Adler Mod Features
 
 ## Nach dem Techcheck
