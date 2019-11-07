@@ -28,6 +28,8 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ➡️ Techcheck
 
 ## Techcheck / Im Spiel
+Punkte die neben dem offensichtlichen wie Grundlagen in ACE und TFAR angesprochen werden sollten.  
+  
 ☑️ Admin-Messages  
 ☑️ Gruppe Management per U-Menü  
 ☑️ Funkcheck nach DUI-HUD (oben nach unten)  
