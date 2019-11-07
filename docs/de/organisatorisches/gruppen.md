@@ -30,12 +30,14 @@ Stammspieler wird nur, wer sich auch benehmen kann, da diese uns evtl. auch auf 
 ## Anwärter
 Anwärter ist die Vorstufe zum Adler. Also jeder der Adler werden möchte.
 
-### Anwärter werden 
-1. Du musst mindestens 8 Wochen bei uns mitspielen 
-2. Du meldest Dich bei der Führung, um als Anwärter freigeschaltet zu werden
-3. Du schreibst im Anwärterbereich im Forum eine "Bewerbung" in der du ein wenig über dich preisgibst. Wir wollen ja schließlich wissen wer sich uns anschließen will 😉
-4. Sobald deine Bewerbung verfasst ist, beginnt deine Anwärterzeit von 6 Wochen
-5. In deiner Anwärterzeit stimmen die Adler über deine Aufnahme ab (siehe [Aufnahme neuer Adler (Adlerung)](adlerung.html))
+### Minimale Vorraussetzungen
+* Du musst mindestens 8 Wochen bei uns mitspielen
+
+### Anwärter werden  
+1. Du meldest Dich bei der Führung, um als Anwärter freigeschaltet zu werden
+2. Du schreibst im Anwärterbereich im Forum eine "Bewerbung" in der du ein wenig über dich preisgibst. Wir wollen ja schließlich wissen wer sich uns anschließen will 😉
+3. Sobald deine Bewerbung verfasst ist, beginnt deine Anwärterzeit von 6 Wochen
+4. In deiner Anwärterzeit stimmen die Adler über deine Aufnahme ab (siehe [Aufnahme neuer Adler (Adlerung)](adlerung.html))
 
 
 ## Adler
