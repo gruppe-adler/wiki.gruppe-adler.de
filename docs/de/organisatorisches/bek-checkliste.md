@@ -31,7 +31,7 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ☑️ Admin-Messages  
 ☑️ Gruppe Management per U-Menü  
 ☑️ Funkcheck nach DUI-HUD (oben nach unten)  
-☑️ _Gruppe Adler_ Eintrag auf der Karte für alle Gruppe Adler Mod Features
+☑️ _Gruppe Adler_ Eintrag auf der Karte für alle Gruppe Adler Mod Features  
 ☑️ Adler-Base ist eigentlich immer Online und kann für Modset-Tests verwendet werden  
 
 ## Nach dem Techcheck
