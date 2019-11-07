@@ -39,7 +39,7 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ☑️ Anmeldung und Slotting einmal zeigen  
 
 ## Nachbereitung
-☑️ GS Status im Forum vergeben
-☑️ GS Status im Discord vergeben
-☑️ Begrüßung im Vorstellungsthread
-☑️ Meiungsthread erstellen
+☑️ GS Status im Forum vergeben  
+☑️ GS Status im Discord vergeben  
+☑️ Begrüßung im Vorstellungsthread  
+☑️ Meiungsthread erstellen  
