@@ -10,7 +10,7 @@ Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler 
 
 ### Minimale Vorraussetzungen
 * Größtenteils vollständige Vorstellung im Forum
-* Mindestens 18 Jahre alt. (In Ausnahmefällen können auch 17 Jahre ausreichen)
+* Mindestens 18 Jahre alt (In Ausnahmefällen können auch 17 Jahre ausreichen)
 * Mindestens 100 Stunden Spielzeit in ArmA 3
 
 ### Gastspieler werden
