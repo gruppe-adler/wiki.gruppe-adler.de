@@ -8,6 +8,11 @@ Als Spieler muss man nicht alle diese Gruppen durchlaufen. Wir haben durchaus St
 
 Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler Status verliert man eigentlich nie. Es kann aber durchaus nach langer Inaktivität ein erneuter Techcheck gefordert werden. 
 
+### Minimale Vorraussetzungen
+* Größtenteils vollständige Vorstellung im Forum
+* Mindestens 18 Jahre alt. (In Ausnahmefällen können auch 17 Jahre ausreichen)
+* Mindestens 100 Stunden Spielzeit in ArmA 3
+
 ### Gastspieler werden
 1. Im Forum vorstellen
 2. TS-Gespräch führen
