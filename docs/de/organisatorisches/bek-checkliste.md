@@ -6,6 +6,7 @@ Hier findet sich die Checkliste, des **B**egrüßungs **E**insatz **K**ommandos 
 Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 
 ### Allgemeines
+☑️ Spitzname festlegen (Leicht ausprechbar; In Forum, Spiel und TS gleich) 
 ☑️ Wann spielen wir? (Montags und teilweise Freitags)  
 ☑️ Was spielen wir? (Montags TvT / COOP Abwechselnd ...so gut es halt geht)  
 ☑️ Spielbeginn eig. immer 20:00 (Außer etwas anderes steht im Forum)  
@@ -41,7 +42,7 @@ Punkte die neben dem offensichtlichen wie Grundlagen in ACE und TFAR angesproche
 ☑️ Anmeldung und Slotting einmal zeigen  
 
 ## Nachbereitung
-☑️ GS Status im Forum vergeben  
-☑️ GS Status im Discord vergeben  
-☑️ Begrüßung im Vorstellungsthread  
-☑️ Meiungsthread erstellen  
+➡️ GS Status im Forum vergeben  
+➡️ GS Status im Discord vergeben  
+➡️ Begrüßung im Vorstellungsthread  
+➡️ Meiungsthread erstellen  
