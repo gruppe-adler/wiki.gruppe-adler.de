@@ -37,3 +37,9 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ## Nach dem Techcheck
 ☑️ Wo finde ich Einsätze? (Öffentliches Forum -> Unsere Einsätze; Grüne Markierung für noch ausstehende Einsätze)  
 ☑️ Anmeldung und Slotting einmal zeigen  
+
+## Nachbereitung
+☑️ GS Status im Forum vergeben
+☑️ GS Status im Discord vergeben
+☑️ Begrüßung im Vorstellungsthread
+☑️ Meiungsthread erstellen
