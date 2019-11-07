@@ -8,11 +8,13 @@ jobs:
     steps:
     - name: 'Checkout  the source code from GitHub'
       uses: actions/checkout@master
-    - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@2.0.1
+    - name: Install dependencies
+      run: npm ci
+    - name: Build
+      run: npm build
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.5.0
       env:
-        ACCESS_TOKEN: ${{ secrets.BLECHADLER_PAT }}
-        BASE_BRANCH: master # The branch the action should deploy from.
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: dist # The folder the action should deploy.
-        BUILD_SCRIPT: npm ci && npm run-script build # The build script the action should run prior to deploying.
+        ACTIONS_DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./dist
