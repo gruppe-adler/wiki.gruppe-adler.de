@@ -13,15 +13,15 @@ Die Gruppe Adler benutzt im Wesentlichen folgende Mods:
 * Red Hammer Studios Mods (RHS)
 * Task Force Arrowhead Radio (TFAR)
 
-Eine vollständige und detaillierte Übersicht mit allen Mods einschließlich Versionsnummern und Quellenlinks ist im Forum zu finden: [Gruppe Adler Mod-Paket Forenlink](https://forum.gruppe-adler.de/topic/361)
+[Vollständige Übersicht aller Mods mit Versionsnummer und Quellenlink](https://gruppe-adler.github.io/wiki.gruppe-adler.de/de/infrastruktur/gruppe-adler-modset.html#Modliste)
 
 ## Aufteilung des Repository
 
 Unser Repository beinhalten insgesamt drei Events (oder auch im folgenden Modsets genannt). Abhängig davon, bei welchen Spieltagen teilgenommen werden soll, werden nicht alle Mods benötigt.
 
 * **Gruppe Adler Main**: Dieses Modset enthält alle Mods, welche für normale Spieltage gebraucht werden.
-* **Gruppe Adler Event**: Dieses Modset ist eine Teilmenge des _Gruppe Adler Main_, enthält aber nur die absolut nötigsten Mods. Wir benutzen dieses Modsets wenn Partnerclans bei uns zu Gast sind.
-* **Gruppe Adler Optionals**: Hier findest du alle optionalen Addons die du mitladen darfst, aber nicht musst. Hierbei handelt es sich ausschließlich um Addons die nur lokale Auswirkungen haben (Sound, Userinterface etc.)
+* **Gruppe Adler Joint Ops: Dieses Modset ist eine Teilmenge des _Gruppe Adler Main_, enthält aber nur die absolut nötigsten Mods. Wir benutzen dieses Modsets wenn Partnerclans bei uns zu Gast sind.
+* **Gruppe Adler Optionals**: Hier findest du alle optionalen Addons die du mitladen darfst, aber nicht musst. Hierbei handelt es sich ausschließlich um Addons die nur lokale Auswirkungen haben (Sound, Userinterface etc.). Bitte Hinweise in der Tabelle ganz unten beachten!
 
 ## Repository anlegen und konfigurieren
 
@@ -141,20 +141,14 @@ Für Nichtbesitzer des CDLC gibt es einen kostenlosen [**Compat-Mod** ]( https:/
 Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld: 
 `"-mod=s:\...\arma 3\arma3sync_MyMods\@GM;"`
 **Die Anführungszeichen sind wichtig!**
-:::
+
+
 ![gm.PNG](https://i.imgur.com/SmAD9es.png) 
-:::
 
 Für Besitzer des **DLC** :
 GM im Reiter "DLC" unter _Addons_ in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
 
-## Event-Gruppen
 
-::: tip
-
-Für die Events muss entweder **Main** (default) oder **Joint Ops** (wenn im Einsatz angegeben) angehakt werden. **Optionals** können einzeln nach Belieben angehakt werden. (Bitte Hinweise in unten stehender Tabelle beachten)
-
-:::
 
 ##  Modliste
 
