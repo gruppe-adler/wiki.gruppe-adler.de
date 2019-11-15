@@ -13,14 +13,14 @@ Die Gruppe Adler benutzt im Wesentlichen folgende Mods:
 * Red Hammer Studios Mods (RHS)
 * Task Force Arrowhead Radio (TFAR)
 
-[Vollständige Übersicht aller Mods mit Versionsnummer und Quellenlink](https://gruppe-adler.github.io/wiki.gruppe-adler.de/de/infrastruktur/gruppe-adler-modset.html#Modliste)
+[Vollständige Übersicht aller Mods mit Versionsnummer und Quellenlink](#modliste)
 
 ## Aufteilung des Repository
 
 Unser Repository beinhalten insgesamt drei Events (oder auch im folgenden Modsets genannt). Abhängig davon, bei welchen Spieltagen teilgenommen werden soll, werden nicht alle Mods benötigt.
 
 * **Gruppe Adler Main**: Dieses Modset enthält alle Mods, welche für normale Spieltage gebraucht werden.
-* **Gruppe Adler Joint Ops: Dieses Modset ist eine Teilmenge des _Gruppe Adler Main_, enthält aber nur die absolut nötigsten Mods. Wir benutzen dieses Modsets wenn Partnerclans bei uns zu Gast sind.
+* **Gruppe Adler Joint Ops**: Dieses Modset ist eine Teilmenge des _Gruppe Adler Main_, enthält aber nur die absolut nötigsten Mods. Wir benutzen dieses Modsets wenn Partnerclans bei uns zu Gast sind.
 * **Gruppe Adler Optionals**: Hier findest du alle optionalen Addons die du mitladen darfst, aber nicht musst. Hierbei handelt es sich ausschließlich um Addons die nur lokale Auswirkungen haben (Sound, Userinterface etc.). Bitte [Hinweise in der Tabelle](#optionals) ganz unten beachten!
 
 ## Repository anlegen und konfigurieren
