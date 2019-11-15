@@ -189,7 +189,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
-| [grad_trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9          |           |
+| [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9          |           |
 | [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.13.6         |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
