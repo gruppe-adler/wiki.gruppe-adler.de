@@ -1,4 +1,6 @@
-# Main Repo
+#  [🗃](https://emojipedia.org/card-file-box/) Repo
+
+## Main/Joint Op
 
 | Name                                                         | Version        | Anmerkung |
 | ------------------------------------------------------------ | -------------- | --------- |
@@ -15,7 +17,7 @@
 | [CUP Terrains Core](https://steamcommunity.com/workshop/filedetails/?id=583496184) | 1.13.0         |           |
 | [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.13.0         |           |
 | [cup_wheeledvehicles_suv ]()                                 | 1.0            |           |
-| [Dismount where you look](https://steamcommunity.com/sharedfiles/filedetails/?id=1841553455) | x.xx           |           |
+| [Dismount where you look](https://steamcommunity.com/sharedfiles/filedetails/?id=1841553455) | 1.03           |           |
 | [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.5.6          |           |
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
@@ -24,7 +26,7 @@
 | [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.13.6         |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
-| [GlobMob Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1749842400) | x.xx           |           |
+| [GlobMob Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1749842400) | 1.02           |           |
 | [JBAD Buildings](https://steamcommunity.com/workshop/filedetails/?id=520618345) | 0.7.0917       |           |
 | [Lythium Map ](https://steamcommunity.com/sharedfiles/filedetails/?id=909547724) | 1.09           |           |
 | [MBG Buildings 3](https://steamcommunity.com/workshop/filedetails/?id=962932583) | 1.0            |           |
@@ -47,19 +49,19 @@
 | [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.30           |           |
 | [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.5.0          |           |
 
-# Optionals
+## Optionals
 
-| Name                                                         | Version | Anmerkung |
-| ------------------------------------------------------------ | ------- | --------- |
-| [Blastcore edited standalone](http://steamcommunity.com/sharedfiles/filedetails/?id=767380317) | 1.7     |           |
-| [DynaSound2](http://www.armaholic.com/page.php?id=29810)     | 2.21.01 |           |
-| [Enhanced Arma3 Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=809527168) | 1.2     |           |
-| [GRAD MinUI ](https://github.com/DerZade/grad_minui/releases) | v0.6.3  |           |
-| [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664) | 0.9     |           |
-| [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) | 1.23    |           |
-| [Head Range Plus - TrackIR Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=630737877) | x.xx    |           |
-| [Immerse ](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | x.xx    |           |
-| [Suppress](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | 2.04    |           |
-| [Tao Folding Map ](http://forums.bistudio.com/showthread.php?148517-Tao-Folding-Map) | 2.70    |           |
-| [UISounds 2 ](https://steamcommunity.com/sharedfiles/filedetails/?id=790393813) | 2.0     |           |
+| Name                                                         | Version | Anmerkung                                                    |
+| ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
+| [Blastcore edited standalone](http://steamcommunity.com/sharedfiles/filedetails/?id=767380317) | 1.7     | [⚠️](https://emojipedia.org/warning-sign/) ggf. Performance-intensiv, verändert FX |
+| [DynaSound2](http://www.armaholic.com/page.php?id=29810)     | 2.21.01 | Verändert Sounds, teilweise Reichweite der Sounds            |
+| [Enhanced Arma3 Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=809527168) | 1.2     | Zeigt Armor-Werte im Inventar                                |
+| [GRAD MinUI ](https://github.com/DerZade/grad_minui/releases) | v0.6.3  | [⚠️](https://emojipedia.org/warning-sign/) Entfernt große Teile des UI |
+| [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664) | 0.9     | [⚠️](https://emojipedia.org/warning-sign/) Performance-intensiv, verändert FX, **verändert Video Settings vom Spiel** |
+| [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) | 1.23    | Verändert Sounds, teilweise Reichweite der Sounds, Echos     |
+| [Head Range Plus - TrackIR Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=630737877) | v2.9.1  | Erlaubt größeren Spielraum für FreeLook                      |
+| [Immerse ](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | V 2.04  | Verändert FX, u.a. Camshake, Twitches bei Schüssen/Explosionen |
+| [Suppress](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | 2.04    | Verändert FX, erlaubt Unterdrückung                          |
+| [Tao Folding Map ](http://forums.bistudio.com/showthread.php?148517-Tao-Folding-Map) | 2.70    | Fügt eine halbbildschirmgroße Karte hinzu                    |
+| [UISounds 2 ](https://steamcommunity.com/sharedfiles/filedetails/?id=790393813) | 2.0     | Fügt Inventar u.a. Sounds hinzu                              |
 
