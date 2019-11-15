@@ -148,7 +148,15 @@ Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld:
 Für Besitzer des **DLC** :
 GM im Reiter "DLC" unter _Addons_ in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
 
-##  [🗃](https://emojipedia.org/card-file-box/) Repos
+## Event-Gruppen
+
+::: tip
+
+Für die Events muss entweder **Main** (default) oder **Joint Ops** (wenn im Einsatz angegeben) angehakt werden. **Optionals** können einzeln nach Belieben angehakt werden. (Bitte Hinweise in unten stehender Tabelle beachten)
+
+:::
+
+##  Modliste
 
 ### Main/Joint Op
 
