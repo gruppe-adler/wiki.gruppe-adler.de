@@ -9,7 +9,7 @@ Die Gruppe Adler benutzt ein Repository (Repo) aus verschiedenen Mods um die Spi
 Die Gruppe Adler benutzt im Wesentlichen folgende Mods:
 
 * Advanced Combat Environment 3 (ACE3)
-* Community Upgrade Project Terrains (CUP)
+* Community Upgrade Project Terrains (CUP TP)
 * Red Hammer Studios Mods (RHS)
 * Task Force Arrowhead Radio (TFAR)
 
