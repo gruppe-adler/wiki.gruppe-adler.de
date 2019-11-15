@@ -135,9 +135,7 @@ Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld:
 `"-mod=s:\...\arma 3\arma3sync_MyMods\@GM;"`
 **Die Anführungszeichen sind wichtig!**
 
-
-
-![gm.PNG](https://i.imgur.com/SmAD9es.png) 
+![gm.PNG](~@assets/gm.jpg)  
 
 :::
 
