@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "8357ad189b7bfc7391feedd5470e384b"
+    "revision": "68cbc8487342dd6c7f23fa9f31a09d02"
   },
   {
     "url": "adlerkopp.png",
     "revision": "6fad4764c67af0eda687997ad7dec48a"
   },
   {
-    "url": "assets/css/0.styles.a5212c44.css",
-    "revision": "bb219da7ea0fe746657df63f281b7e0b"
+    "url": "assets/css/0.styles.533a18bd.css",
+    "revision": "bbadbfb974eb6bea9996a52f6db6c5b4"
   },
   {
     "url": "assets/img/1600px-Taktisch_keil.463c6094.jpg",
@@ -94,6 +94,10 @@ self.__precacheManifest = [
     "revision": "5aebe9e1a4cfac7e7dddff62fac5f931"
   },
   {
+    "url": "assets/img/gm.b0c83edb.jpg",
+    "revision": "b0c83edba1490b390172654a3b315b31"
+  },
+  {
     "url": "assets/img/launcher-options.627fd852.jpg",
     "revision": "627fd852e8f25daafedeec9b78faf866"
   },
@@ -150,288 +154,288 @@ self.__precacheManifest = [
     "revision": "13a38d2aced397c2dc3bb370415ea8ad"
   },
   {
-    "url": "assets/js/1.7d918530.js",
-    "revision": "4cfbf8c6ff66e4f1f0e363a99aa05ccc"
+    "url": "assets/js/1.9d972ef3.js",
+    "revision": "bc6f1e9b7bc165c3f627cc12d4fcccb5"
   },
   {
-    "url": "assets/js/10.36dafffc.js",
-    "revision": "5e1b3442370203add8bb2dd5879deb97"
+    "url": "assets/js/10.c2b6af22.js",
+    "revision": "52139ea8a6689005e4a98fde98eac69f"
   },
   {
-    "url": "assets/js/11.e560fca4.js",
-    "revision": "1de1a4563b9e20a3d4cffa2fa2851d61"
+    "url": "assets/js/11.9edb86aa.js",
+    "revision": "c1d1c7932edc9df7be45e8d782ab597e"
   },
   {
-    "url": "assets/js/12.29a29821.js",
-    "revision": "f9945d43b0eec4b19b84e012f72e88dd"
+    "url": "assets/js/12.ac5ae795.js",
+    "revision": "1d929b96c4cbe04a31e00e90cac00714"
   },
   {
-    "url": "assets/js/13.53941c64.js",
-    "revision": "1840533974140a9224e0a5c95b8dfa28"
+    "url": "assets/js/13.b3135fcd.js",
+    "revision": "f7c65393b063da2cccd6ede360658ae2"
   },
   {
-    "url": "assets/js/14.714afa61.js",
-    "revision": "c304d4038e1e65388e6b4dc55bebb128"
+    "url": "assets/js/14.263ac074.js",
+    "revision": "6dd7f18a3776fd366e1fd5609e7e1a52"
   },
   {
-    "url": "assets/js/15.130c511c.js",
-    "revision": "05f77fefc8eebebb999b94a4f0e6253b"
+    "url": "assets/js/15.81eb5036.js",
+    "revision": "4e5fc315fb34db986af982143ccb5a17"
   },
   {
-    "url": "assets/js/16.dd931dff.js",
-    "revision": "f0ae542eb95a95c0024b574e94803633"
+    "url": "assets/js/16.6f60e81d.js",
+    "revision": "6d1519c95a2ff049b70869700fca337e"
   },
   {
-    "url": "assets/js/17.140eda8b.js",
-    "revision": "e394f8a343750042c47eeea56945f891"
+    "url": "assets/js/17.5f8de383.js",
+    "revision": "7783d8339370d799701f45c227eebf83"
   },
   {
-    "url": "assets/js/18.47601238.js",
-    "revision": "9b26dbff8aec340c7a6e3108c13ef9ea"
+    "url": "assets/js/18.76b88c7a.js",
+    "revision": "2b6c2606037e0d3f954f9b6886bef091"
   },
   {
-    "url": "assets/js/19.83d03351.js",
-    "revision": "222e7279c1a15ebc56f3ddfa8129cd58"
+    "url": "assets/js/19.5b08a2e7.js",
+    "revision": "639dd0e9ff5f7607f49cbac829d5dd46"
   },
   {
-    "url": "assets/js/20.6fd65ba5.js",
-    "revision": "aca504a04666f0cd3414ff8661e64d7b"
+    "url": "assets/js/20.f97a0a55.js",
+    "revision": "bc27df494fb163152bb4d5b487bf37d7"
   },
   {
-    "url": "assets/js/21.5e3ec1fc.js",
-    "revision": "507df31b883f2fceec75ba99ede4c2b0"
+    "url": "assets/js/21.f51f996d.js",
+    "revision": "5742ae532675cb1a1bc7247110b92585"
   },
   {
-    "url": "assets/js/22.6c603547.js",
-    "revision": "820bd2327d9049992d7708bd110b78fa"
+    "url": "assets/js/22.0c7b5b5a.js",
+    "revision": "d1c6b6e14076cbe91d444f7edae9efac"
   },
   {
-    "url": "assets/js/23.55920c93.js",
-    "revision": "06512bd593fd8beea0cee8918060ac97"
+    "url": "assets/js/23.b0c126e7.js",
+    "revision": "2d6c8634f4216eae38b56af5a2636ae8"
   },
   {
-    "url": "assets/js/24.52eeb7d2.js",
-    "revision": "57c41c085c6275da3e5a37dfeb8861f7"
+    "url": "assets/js/24.906c9461.js",
+    "revision": "4e48b1c892b5e46721becd4cce79e533"
   },
   {
-    "url": "assets/js/25.97c25d9a.js",
-    "revision": "b8bb4bbf36ee5a2cf99f4e8d0acadca2"
+    "url": "assets/js/25.3c621885.js",
+    "revision": "9195482f824b913d91ef82c031b73218"
   },
   {
-    "url": "assets/js/26.033f274b.js",
-    "revision": "f75a1e2ee728495d322142acef048f37"
+    "url": "assets/js/26.457dc371.js",
+    "revision": "bfc8b0863a0e75e5d9cc895820431393"
   },
   {
-    "url": "assets/js/27.bf44bb13.js",
-    "revision": "0397eea58c3789796478d3c308e9e36b"
+    "url": "assets/js/27.068de67a.js",
+    "revision": "bfcd00c3fb47bfb0ab580a785675a560"
   },
   {
-    "url": "assets/js/28.dea29f13.js",
-    "revision": "c3adbe0ccce380f91ad620579c5d73a9"
+    "url": "assets/js/28.6c82d400.js",
+    "revision": "dcfaef5abeb36cb34bd4596b3da855e3"
   },
   {
-    "url": "assets/js/29.0a3cdd04.js",
-    "revision": "6d2009394eb92bc9d11207dfde765ad0"
+    "url": "assets/js/29.02c0bae2.js",
+    "revision": "115c6b9572697f6ad5352c483268cc75"
   },
   {
-    "url": "assets/js/3.97a69c0e.js",
-    "revision": "790dd88cd1d6f30a3f7bf493279436ee"
+    "url": "assets/js/3.a4eac80e.js",
+    "revision": "7c9ec67674899b78fad1fd744905c255"
   },
   {
-    "url": "assets/js/30.acecf3f9.js",
-    "revision": "3c00131007c0f8e0ee8321e2d855af01"
+    "url": "assets/js/30.2ac60913.js",
+    "revision": "a10f154d6e4ee60ac17f00dc4656f68e"
   },
   {
-    "url": "assets/js/31.ba52f8af.js",
-    "revision": "cfbbbc955f9744936f485aee684718af"
+    "url": "assets/js/31.7f0678bf.js",
+    "revision": "80e0e5012365442f0a105be8bed3eb85"
   },
   {
-    "url": "assets/js/32.78651ff4.js",
-    "revision": "ebfc774b4e4130a76df8c778f8724446"
+    "url": "assets/js/32.d8b72707.js",
+    "revision": "b4ee9b61d4dc00c5dce5193b1530a63a"
   },
   {
-    "url": "assets/js/33.22e23502.js",
-    "revision": "31b9ff97eda8e04a329ff00185d6e9c3"
+    "url": "assets/js/33.b040befa.js",
+    "revision": "461bd7b5a6d8ed0ea1dd1a125a8b50b2"
   },
   {
-    "url": "assets/js/34.7c6f138e.js",
-    "revision": "2bc2a58519971f7b095c03e469aaaed5"
+    "url": "assets/js/34.e07a6130.js",
+    "revision": "51b9b227808d99cd2bc40fe114192ea1"
   },
   {
-    "url": "assets/js/35.73136d3c.js",
-    "revision": "cacae6d1e6d2b4b781e447f2a7b40451"
+    "url": "assets/js/35.da6314e2.js",
+    "revision": "d601ed14f66f87a653261e5ce645e610"
   },
   {
-    "url": "assets/js/36.707672a6.js",
-    "revision": "41bfdf947327c634188dc192f1a04acf"
+    "url": "assets/js/36.7615156a.js",
+    "revision": "35f708f58b2003f26f71e9f46c027950"
   },
   {
-    "url": "assets/js/37.1ae3ef5e.js",
-    "revision": "0c19b0ba178ac265b9ff4cf4f16fa6e8"
+    "url": "assets/js/37.b4c4d3b4.js",
+    "revision": "0e653715fca766cfa1bea1662bb3c100"
   },
   {
-    "url": "assets/js/38.f4b6247f.js",
-    "revision": "66a2ebf8cdf782f0990c203717cd7c70"
+    "url": "assets/js/38.4cf1b100.js",
+    "revision": "5610f62ead66edf0cc8ee4771b5f5f48"
   },
   {
-    "url": "assets/js/39.c2e2b2e6.js",
-    "revision": "89461492cc18af61341ed13659fec1dc"
+    "url": "assets/js/39.bdfb1bf2.js",
+    "revision": "d2add0779a3e3b0ab8520de60fcfc6ad"
   },
   {
-    "url": "assets/js/4.e704607a.js",
-    "revision": "848c1ed12e57da3cbd383cedd2eff9c6"
+    "url": "assets/js/4.01aab508.js",
+    "revision": "10325d3cfd3f3ab833d2ce14acc133a1"
   },
   {
-    "url": "assets/js/40.1253fdb5.js",
-    "revision": "f92fe90e1272ccb68688b62303add5ed"
+    "url": "assets/js/40.a4ccb56a.js",
+    "revision": "7427bc87d5fa7350a3c89de279766ae2"
   },
   {
-    "url": "assets/js/41.18e9fd37.js",
+    "url": "assets/js/41.4325e117.js",
     "revision": "ed9d99c6831147c2a8bbe1d676041889"
   },
   {
-    "url": "assets/js/5.7eec0b1b.js",
-    "revision": "1210919f2966eef2b3fc4f32f1c00fe6"
+    "url": "assets/js/5.2341a75d.js",
+    "revision": "09d61673c8e359a05f759a0be1c6b5ea"
   },
   {
-    "url": "assets/js/6.a5cf8452.js",
-    "revision": "d2b9a413ed6ceabccee2feed0f0c41a9"
+    "url": "assets/js/6.5a2ecefb.js",
+    "revision": "0dfd616513f2def8a7b757452737d806"
   },
   {
-    "url": "assets/js/7.e461f35d.js",
-    "revision": "187d057da3963d0f4543c45ef3fbda11"
+    "url": "assets/js/7.20237fda.js",
+    "revision": "af266bf5b00140b7f68639e39852cc88"
   },
   {
-    "url": "assets/js/8.792b5c1e.js",
-    "revision": "bacea8417febfa85168b07ae4a2d8a32"
+    "url": "assets/js/8.3c20f471.js",
+    "revision": "7268e1a553216730e8e069a396cd7c2c"
   },
   {
-    "url": "assets/js/9.f10ec660.js",
-    "revision": "433bb810ea5b9367aeece794f03140e1"
+    "url": "assets/js/9.5d3a8e3a.js",
+    "revision": "fcf2ef4d248d7c3df3b33dbac2070e65"
   },
   {
-    "url": "assets/js/app.0db08171.js",
-    "revision": "69621a8ca3d84269dfd1c30f3682a46a"
+    "url": "assets/js/app.c0d33a8f.js",
+    "revision": "97e0b60371b47232a0860c3f4ed9aa86"
   },
   {
     "url": "de/bastelstube/ace3medical.html",
-    "revision": "33f2d756baeb6b0c5d977c3dcbb4b5aa"
+    "revision": "024624a431d41199654b8dfad631eb4b"
   },
   {
     "url": "de/bastelstube/cba-settings.html",
-    "revision": "71f223e28b524de770529dcc03fec937"
+    "revision": "9ba6d8d9610d62cde55b9df666e985a4"
   },
   {
     "url": "de/bastelstube/erste-hilfe-missionsbau.html",
-    "revision": "fc3bb151f362a30fba9803fc53124aea"
+    "revision": "797ad31fd344caf509ed9660165dce8f"
   },
   {
     "url": "de/bastelstube/FX.html",
-    "revision": "a771ef2befcca93279bdd71e0e87c7f0"
+    "revision": "8061a92999ffe7e30a96ef707308bb5b"
   },
   {
     "url": "de/bastelstube/gruppe-adler-mod.html",
-    "revision": "85883f4f665eadabd62fffcf90bc5b3b"
+    "revision": "50df6b81e33095ca2bd89b1121c996b4"
   },
   {
     "url": "de/bastelstube/index.html",
-    "revision": "a8d550b2444617773c64fb7710314190"
+    "revision": "5f8c2e6e5140c5f56aaf5439bcbf284f"
   },
   {
     "url": "de/bastelstube/scriptmodule.html",
-    "revision": "68ac505825db3c4d0dee61db0412c1cb"
+    "revision": "90de6faed94e3079fe329457a3962656"
   },
   {
     "url": "de/bastelstube/slotting-tool.html",
-    "revision": "650a7429e0f088c72b4d483831912bb9"
+    "revision": "7a54113df61ca8162e647f5688b9e566"
   },
   {
     "url": "de/bastelstube/symlinks.html",
-    "revision": "16eeb7842521b6f95bd622494fd82c0a"
+    "revision": "999a24ed29375de85da02b322184eda4"
   },
   {
     "url": "de/index.html",
-    "revision": "4bde7ed12e71888d181c98a480ed5ae2"
+    "revision": "b7d4d3e27ea891e2cf3b40147ff8a696"
   },
   {
     "url": "de/infrastruktur/docker-host.html",
-    "revision": "5cff3a78e662b0ee23326cd8dbcf5402"
+    "revision": "93c7f727e8eb9be7f830cc4ce7cba6e8"
   },
   {
     "url": "de/infrastruktur/gruppe-adler-modset.html",
-    "revision": "72bec6ac9907497dbfd48fdd0e07317f"
+    "revision": "e8047daf8f4c229b37608938141088ad"
   },
   {
     "url": "de/infrastruktur/index.html",
-    "revision": "7f99edb426839911f1374e8d4593f3e7"
+    "revision": "6df19a52c846418ed71dc8e249245d61"
   },
   {
     "url": "de/infrastruktur/styleguide-design.html",
-    "revision": "b0e5200dea5c7b6d09ab274943e98c0b"
+    "revision": "23488b37aa4bd159ef56a9f5674e8ea2"
   },
   {
     "url": "de/infrastruktur/uebersicht.html",
-    "revision": "9614c2602eea8c82e622bc9a00e81e62"
+    "revision": "c427cb9607dac7bb28048b7fb5a5a918"
   },
   {
     "url": "de/infrastruktur/wiki-how-to.html",
-    "revision": "4eb2bb164be9d5d8c8b1cc033edb2bb0"
+    "revision": "0c2399b118e526985bfac87882b76d78"
   },
   {
     "url": "de/organisatorisches/adlerung.html",
-    "revision": "d11419411cdc6cae3f5f30d0f295d8d5"
+    "revision": "20f52f5056421786853581d926cc88b8"
   },
   {
     "url": "de/organisatorisches/bek-checkliste.html",
-    "revision": "5f937f4243f68bb75455814c8c95084c"
+    "revision": "abb48757ad1c38cded45ed6847481de1"
   },
   {
     "url": "de/organisatorisches/gruppen.html",
-    "revision": "cd13a9926e1c92e1318cede83730287c"
+    "revision": "c16b2e8ae905028bf7cbd0a838ed4182"
   },
   {
     "url": "de/organisatorisches/index.html",
-    "revision": "fcd13a7be4c0dac79022bf783bfd3083"
+    "revision": "54f4b68c83a01d0a6684fc55930aae41"
   },
   {
     "url": "de/taktik/ASOP.html",
-    "revision": "75d9b98e0bfa7c680b634982e72bdb4a"
+    "revision": "e6d86967f8a40817f553caec88984c08"
   },
   {
     "url": "de/taktik/ateffectiveness.html",
-    "revision": "e1054909e7f361ec4323b3a2108a0c3d"
+    "revision": "4dd0e22ac08bf8d059b31612c2f047dc"
   },
   {
     "url": "de/taktik/index.html",
-    "revision": "2f35235d3c8f6c26b939e1a9d682142b"
+    "revision": "071db2905c1c9e54bb2726657f59db93"
   },
   {
     "url": "de/taktik/taktischeZeichen.html",
-    "revision": "955017a92f2fb55d08bb44eb3e2f8197"
+    "revision": "4775fe40af98f508fa86337a453c8ef0"
   },
   {
     "url": "de/wiki-index.html",
-    "revision": "3d5091512b4bae24e8be0bce185e243e"
+    "revision": "e5bc392ae5d166fb4266f643040d4b7a"
   },
   {
     "url": "en/index.html",
-    "revision": "1852c4e32521ce55974008deebf59833"
+    "revision": "8103936f8da40a7ee8bb48b6a00f7d39"
   },
   {
     "url": "en/infrastruktur/gruppe-adler-modset.html",
-    "revision": "3b4baa65c2b9a853ab4713ffb1b1162b"
+    "revision": "9aa6969ad93b0c84a3cc6b9f9dba9baa"
   },
   {
     "url": "en/infrastruktur/index.html",
-    "revision": "26d640ceac53f3127c84a39605f6112a"
+    "revision": "63ddfbfcda4c852e760567eca0805b81"
   },
   {
     "url": "en/wiki-index.html",
-    "revision": "64bd0c45d0379497b248ebe2e3a287db"
+    "revision": "50e6fb673e622de34a4d61f584fe0ab4"
   },
   {
     "url": "index.html",
-    "revision": "1797331f56fc66c59881786708015801"
+    "revision": "0c17a94bb57d54d01d9a4aeb981f49ce"
   },
   {
     "url": "logo.png",
