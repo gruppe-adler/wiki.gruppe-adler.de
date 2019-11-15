@@ -115,6 +115,32 @@ Sobald Mods zum Repository hinzukommen oder rausfliegen sollte auf jeden Fall di
 
 ![create-addon-group](~@assets/gruppe-adler-modset/create-addon-group.jpg)
 
+
+
+### GM
+
+**GM wird immer mitgeladen - sofern nichts anderes im Einsatz-Thread steht**
+
+::: tip
+
+Für Besitzer des **DLC** :
+GM im Reiter "DLC" unter _Addons_ in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
+
+:::
+
+::: tip
+
+Für Nichtbesitzer des CDLC gibt es einen kostenlosen [**Compat-Mod** ]( https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269 )
+Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld: 
+`"-mod=s:\...\arma 3\arma3sync_MyMods\@GM;"`
+**Die Anführungszeichen sind wichtig!**
+
+
+
+![gm.PNG](https://i.imgur.com/SmAD9es.png) 
+
+:::
+
 ### Testconnect auf Server
 
 Ein kurzer Testconnect auf den Server, um zu überprüfen ob alles korrekt läuft, ist immer empfehlenswert. Auf unserem Standardserver ist die Adlerbase rund um die Uhr erreichbar und stets auf dem neusten Stand.
@@ -134,19 +160,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 
 
 
-## GM
-**GM wird immer mitgeladen - sofern nichts anderes im Einsatz-Thread steht**
 
-Für Nichtbesitzer des CDLC gibt es einen kostenlosen [**Compat-Mod** ]( https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269 )
-Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld: 
-`"-mod=s:\...\arma 3\arma3sync_MyMods\@GM;"`
-**Die Anführungszeichen sind wichtig!**
-
-
-![gm.PNG](https://i.imgur.com/SmAD9es.png) 
-
-Für Besitzer des **DLC** :
-GM im Reiter "DLC" unter _Addons_ in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
 
 
 
