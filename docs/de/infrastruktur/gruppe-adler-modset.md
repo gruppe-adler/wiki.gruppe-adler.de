@@ -124,11 +124,11 @@ Sobald Mods zum Repository hinzukommen oder rausfliegen sollte auf jeden Fall di
 ::: tip
 
 Für Besitzer des **DLC** :
-GM im Reiter "DLC" unter _Addons_ in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
+GM im Reiter "DLC" unter **Addons** in selber neu erstellte Addon Group rechts ziehen und mit dem jeweiligen Event-Repo zusätzlich anhaken.
 
 :::
 
-::: tip
+:::  warning 
 
 Für Nichtbesitzer des CDLC gibt es einen kostenlosen [**Compat-Mod** ]( https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269 )
 Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld: 
