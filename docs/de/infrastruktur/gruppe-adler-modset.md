@@ -180,7 +180,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [BackpackOnChest ](http://www.armaholic.com/page.php?id=28838) | 1.2.0          |           |
-| [CBA Community Base addons A3](https://github.com/CBATeam/CBA_A3/releases/tag/v3.12.0.190708) | v3.12.2.190909 |           |
+| [CBA Community Base addons A3](https://github.com/CBATeam/CBA_A3/releases/tag/v3.12.0.190708) | v3.13 |           |
 | [CUP Terrains Core](https://steamcommunity.com/workshop/filedetails/?id=583496184) | 1.13.0         |           |
 | [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.13.0         |           |
 | [cup_wheeledvehicles_suv ]()                                 | 1.0            |           |
