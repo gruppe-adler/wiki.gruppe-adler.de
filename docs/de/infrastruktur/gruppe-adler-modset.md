@@ -201,10 +201,10 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Prei Khmaoch Luong](http://steamcommunity.com/sharedfiles/filedetails/?id=950966660 ) | 0.8            |           |
 | [Project OPFOR](http://steamcommunity.com/sharedfiles/filedetails/?id=735566597 ) | 0.3.0          |           |
 | [Redd'n'Tank Vehicles](http://steamcommunity.com/sharedfiles/filedetails/?id=1128145626) | 1.11.157.03    |           |
-| [RHS Rus -RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103) | 0.4.9          |           |
-| [RHS USA - RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | 0.4.9          |           |
-| [RHS Ind - RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391) | 0.4.9          |           |
-| [RHS Ser - RHSSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231) | 0.4.9          |           |
+| [RHS Rus -RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103) | 0.5.0          |           |
+| [RHS USA - RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | 0.5.0          |           |
+| [RHS Ind - RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391) | 0.5.0          |           |
+| [RHS Ser - RHSSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231) | 0.5.0          |           |
 | [RDS A2 Civilian Pack](http://www.armaholic.com/page.php?id=26188) | 1.3.1          |           |
 | [Rosche Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1527410521) | 1.12           |           |
 | [Ruha Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262) | 0.11           |           |
@@ -214,7 +214,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Tembelan Island ](https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296) | 1.2            |           |
 | [Vinjesvingen ]()                                            | 1.21           |           |
 | [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.30           |           |
-| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.5.0          |           |
+| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.6.0          |           |
 
 ### Optionals
 
