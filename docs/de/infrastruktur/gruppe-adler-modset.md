@@ -206,7 +206,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [RHS Ind - RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391) | 0.5.0          |           |
 | [RHS Ser - RHSSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231) | 0.5.0          |           |
 | [RDS A2 Civilian Pack](http://www.armaholic.com/page.php?id=26188) | 1.3.1          |           |
-| [Rosche Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1527410521) | 1.12           |           |
+| [Rosche Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1527410521) | 2.0           |           |
 | [Ruha Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262) | 0.11           |           |
 | [SMM German Uniforms ]()                                     | 0.98           |           |
 | [Splendid Smoke](http://steamcommunity.com/sharedfiles/filedetails/?id=770418577&searchtext=splendid) | 1.1            |           |
