@@ -18,7 +18,7 @@ Das Gruppe Adler Design benutzt hauptsächlich verschiedene Grautöne, die nur p
 
 ## Logo
 Das Logo ist eine Parodie auf einen Bundesadler mit Kampfhelm, der gerade einen Facepalm ausführt und auf dem Schriftzug der Gruppe Adler hockt.
-Dateien abrufbar unter https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide
+Dateien abrufbar unter [Frontify](https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide)
 
 ## Typographie
 Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span><br />
