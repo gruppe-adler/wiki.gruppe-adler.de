@@ -18,12 +18,7 @@ Das Gruppe Adler Design benutzt hauptsächlich verschiedene Grautöne, die nur p
 
 ## Logo
 Das Logo ist eine Parodie auf einen Bundesadler mit Kampfhelm, der gerade einen Facepalm ausführt und auf dem Schriftzug der Gruppe Adler hockt.
-* [PNG Datei](https://company-89075.frontify.com/api/screen/download/sE2XoeugWSt8nC2DfjRCNsZZigdxgG78MdOYV9XxzGQ5OYxUaqyTOR2P7PojzhnSBC1pwER8FPlpvRTfDMz5Lw)
-* [PDF Dokument Referenzfarben](https://company-89075.frontify.com/api/attachment/download/kHUVnE4ywEi-VolEjLBa4WbzHISstxG_hteL6aCXkpVqxFsDwiNIc0lnct_-p8E4AIwRqSWaL2snAWJHPDLAgQ)
-* [PDF Dokument Schwarz/Weiss](https://company-89075.frontify.com/api/attachment/download/4JFpfvfjrzM_SrSbuZdh09ZZeScF12gSvNJtnJgHK9-KIMJ-SBJhcvh1AiLWHroJ0ofmnRpqi6BHehsNOf6JhQ)
-* [PAA-Datei für Arma](https://company-89075.frontify.com/api/attachment/download/nkkSxnWsCurDAOcnr-bFRHky2_X5tIoHeVTH_wrcc6SuEdmIL3Qx0FDZ3eCiIuzTBc9_uMuib7-afQ4tsswj9Q)
-
-Zusätzlich gibt es noch ein [Thumbnail](https://company-89075.frontify.com/api/screen/download/CIbanKhRSslvDohELS4KC0ayEdTo042HrvZUO9wiIjLetkJbXbawz3SCVIxxaFvlHniVwAfm3G0uouvgwibLDg) für Forenavatare und natürlich unsere [Squad.xml](https://company-89075.frontify.com/api/screen/download/M5D7ExtbnNWYGq5hfbd0mk5tEfQUJDRsWhdyxfwV97vECx74pjmXbrR8Nup9RM8RaK-pJjX3RULDoNG1EaA1Rw) in einfachem 1-Farbendruck, da der im Spiel dezenter ist und die Leuchtfarben nicht stören (z.B. Schnabel).
+Dateien abrufbar unter https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide
 
 ## Typographie
 Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span><br />
