@@ -1,4 +1,4 @@
-# ⚖️ Adler Standard Operating Procedures
+# ⚖️ Adler Standard Operating Procedures (ASOP)
 
 Die Gruppe Adler hat in vielen COOP- und TvT-OPs eine Reihe von standardisierten Vorgehensweisen etabliert. Der Großteil davon ist von realen Taktiken und Strategien inspiriert, allerdings werden diese an unsere Gruppe angepasst. Der Hintergedanke dabei ist, dass Arma als Spiel ein bestimmtes Maß an taktischem Vorgehen belohnt und wir das gerne annehmen. Allerdings werden viele Probleme und Situationen in Arma nicht simuliert, so dass vieles weggelassen werden kann. Vor allem, wenn es für den Spielspaß nicht unbedingt nötig ist. Die Adler Standard Operating Procedures (ASOP) dienen als Zusammenfassung und zentraler Sammelpunkt, um diese Vorgehensweisen und Ansichten zentral zu strukturieren. Damit sollen neue Spieler (und auch alte Hasen) einen Ort haben, an dem sie schnell und unkompliziert Informationen finden. Dabei sind die ASOP keine bindenden "Regeln", sondern dienen lediglich als Grundlage für das gemeinsame taktische Vorgehen im Spiel.
 

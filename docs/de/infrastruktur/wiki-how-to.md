@@ -429,7 +429,7 @@ Dieser Titel wird zum Beispiel für die Sidebar gebraucht. Alle übrigen Übersc
 
 
 ### Tabellen / MD Editor
-Ein guter Editor, der das Arbeiten insbesondere mit Tabellen deutlich erleichtert findet sich hier: Typora(https://typora.io/)
+Ein guter Editor, der das Arbeiten insbesondere mit Tabellen deutlich erleichtert findet sich hier: [Typora](https://typora.io/)
 
 <style>
 img {
