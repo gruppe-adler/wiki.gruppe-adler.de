@@ -171,11 +171,11 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 
 | Name                                                         | Version        | Anmerkung |
 | ------------------------------------------------------------ | -------------- | --------- |
-| [ACE3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.12.6         |           |
-| [ace_compat_rhs_afrf3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.12.6         |           |
-| [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.12.6         |           |
-| [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.12.6         |           |
-| [ace_optionals]()                                            | 3.12.6         |           |
+| [ACE3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0        |           |
+| [ace_compat_rhs_afrf3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
+| [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
+| [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
+| [ace_optionals]()                                            | 3.13.0   |           |
 | [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.4.2          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
@@ -193,8 +193,8 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.13.6         |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
-| [GlobMob Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1749842400) | 1.02           |           |
 | [JBAD Buildings](https://steamcommunity.com/workshop/filedetails/?id=520618345) | 0.7.0917       |           |
+| LAMBS Danger FSM | 2.0 | |
 | [Lythium Map ](https://steamcommunity.com/sharedfiles/filedetails/?id=909547724) | 1.09           |           |
 | [MBG Buildings 3](https://steamcommunity.com/workshop/filedetails/?id=962932583) | 1.0            |           |
 | [NIArsenal](http://www.armaholic.com/page.php?id=28329)      | 12             |           |
@@ -212,6 +212,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Splendid Smoke](http://steamcommunity.com/sharedfiles/filedetails/?id=770418577&searchtext=splendid) | 1.1            |           |
 | [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases/tag/1.0-PreRelease ) | 1.-1.0.325     |           |
 | [Tembelan Island ](https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296) | 1.2            |           |
+| virolahti - valtatie 7 | 1.01 | |
 | [Vinjesvingen ]()                                            | 1.21           |           |
 | [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.30           |           |
 | [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.6.0          |           |
