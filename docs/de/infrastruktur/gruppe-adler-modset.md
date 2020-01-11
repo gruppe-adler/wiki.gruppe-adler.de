@@ -176,7 +176,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
 | [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
 | [ace_optionals]()                                            | 3.13.0   |           |
-| [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.4.2          |           |
+| [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.5.0          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [BackpackOnChest ](http://www.armaholic.com/page.php?id=28838) | 1.2.0          |           |
@@ -185,7 +185,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.13.0         |           |
 | [cup_wheeledvehicles_suv ]()                                 | 1.0            |           |
 | [Dismount where you look](https://steamcommunity.com/sharedfiles/filedetails/?id=1841553455) | 1.03           |           |
-| [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.5.6          |           |
+| [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.6.0          |           |
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
@@ -214,8 +214,8 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Tembelan Island ](https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296) | 1.2            |           |
 | virolahti - valtatie 7 | 1.01 | |
 | [Vinjesvingen ]()                                            | 1.21           |           |
-| [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.30           |           |
-| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.6.0          |           |
+| [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.3.1          |           |
+| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.6.1          |           |
 
 ### Optionals
 
