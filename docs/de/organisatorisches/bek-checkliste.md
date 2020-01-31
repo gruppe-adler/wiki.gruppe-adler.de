@@ -12,6 +12,7 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ☑️ Spielbeginn eig. immer 20:00 (Außer etwas anderes steht im Forum)  
 ☑️ Anmeldungen zu Events übers Forum (genaueres nach dem Techcheck)  
 ☑️ Slotting: Wer zuerst kommt mahlt zu erst (dennoch gilt in einigen Ausnahmen _Das Recht des Adlers_)
+☑️ Alles wichtige steht im Forum!
 
 ### Spielweise
 ☑️ Kein Siezen oder Ränge auf dem Schlachtfeld  
