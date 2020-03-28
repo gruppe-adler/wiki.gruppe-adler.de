@@ -171,18 +171,19 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 
 | Name                                                         | Version        | Anmerkung |
 | ------------------------------------------------------------ | -------------- | --------- |
-| [ACE3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0        |           |
-| [ace_compat_rhs_afrf3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
-| [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
-| [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.0   |           |
-| [ace_optionals]()                                            | 3.13.0   |           |
-| [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.5.0          |           |
+| [ACE3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1        |           |
+| [ace_compat_rhs_afrf3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
+| [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
+| [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
+| [ace_optionals]()                                            | 3.13.1   |           |
+| [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.5.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [BackpackOnChest ](http://www.armaholic.com/page.php?id=28838) | 1.2.0          |           |
-| [CBA Community Base addons A3](https://github.com/CBATeam/CBA_A3/releases/tag/v3.12.0.190708) | v3.13 |           |
-| [CUP Terrains Core](https://steamcommunity.com/workshop/filedetails/?id=583496184) | 1.13.0         |           |
-| [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.13.0         |           |
+| [Cham](http://www.armaholic.com/page.php?id=35241) | 0.04 | |
+| [CBA Community Base addons A3](https://github.com/CBATeam/CBA_A3/releases/tag/v3.12.0.190708) | v3.14 |           |
+| [CUP Terrains Core](https://steamcommunity.com/workshop/filedetails/?id=583496184) | 1.15.0         |           |
+| [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.15.0         |           |
 | [cup_wheeledvehicles_suv ]()                                 | 1.0            |           |
 | [Dismount where you look](https://steamcommunity.com/sharedfiles/filedetails/?id=1841553455) | 1.03           |           |
 | [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.6.0          |           |
@@ -190,17 +191,16 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
 | [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9          |           |
-| [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.13.6         |           |
+| [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.15.3       |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
 | [JBAD Buildings](https://steamcommunity.com/workshop/filedetails/?id=520618345) | 0.7.0917       |           |
-| LAMBS Danger FSM | 2.0.2 | [LAMBS Danger FSM](https://steamcommunity.com/sharedfiles/filedetails/?id=1858075458)|
 | [Lythium Map ](https://steamcommunity.com/sharedfiles/filedetails/?id=909547724) | 1.09           |           |
 | [MBG Buildings 3](https://steamcommunity.com/workshop/filedetails/?id=962932583) | 1.0            |           |
 | [NIArsenal](http://www.armaholic.com/page.php?id=28329)      | 12             |           |
 | [Prei Khmaoch Luong](http://steamcommunity.com/sharedfiles/filedetails/?id=950966660 ) | 0.8            |           |
 | [Project OPFOR](http://steamcommunity.com/sharedfiles/filedetails/?id=735566597 ) | 0.3.0          |           |
-| [Redd'n'Tank Vehicles](http://steamcommunity.com/sharedfiles/filedetails/?id=1128145626) | 1.11.157.03    |           |
+| [Redd'n'Tank Vehicles](http://steamcommunity.com/sharedfiles/filedetails/?id=1128145626) | 1.12.162 |           |
 | [RHS Rus -RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103) | 0.5.0          |           |
 | [RHS USA - RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | 0.5.0          |           |
 | [RHS Ind - RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391) | 0.5.0          |           |
@@ -214,8 +214,8 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Tembelan Island ](https://steamcommunity.com/sharedfiles/filedetails/?id=1252091296) | 1.2            |           |
 | virolahti - valtatie 7 | 1.01 | |
 | [Vinjesvingen ]()                                            | 1.21           |           |
-| [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.3.1          |           |
-| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.6.1          |           |
+| [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.3.1.02       |           |
+| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.7.0          |           |
 
 ### Optionals
 
