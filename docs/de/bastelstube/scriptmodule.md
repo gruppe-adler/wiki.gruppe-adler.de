@@ -32,7 +32,7 @@ GRAD ListBuymenu ist ein simples, aber umfangreiches und leicht konfigurierbares
 
 ## GRAD Loadout
 [GitHub Release](https://github.com/gruppe-adler/grad-loadout/releases) | [Github Readme](https://github.com/gruppe-adler/grad-loadout/blob/master/README.md)  
-GRAD Loadout ist ein klassenbasiertes Loadoutsystem. Durch Vererbung lassen sich so Loadouts für viele verschiedene Einheiten übersichtlich und änderungsfreundlich organisieren. Dies funktioniert nur mit den einheiten von NATO, CSAT & AAF!
+GRAD Loadout ist ein klassenbasiertes Loadoutsystem. Durch Vererbung lassen sich so Loadouts für viele verschiedene Einheiten übersichtlich und änderungsfreundlich organisieren.
 
 ## GRAD MakeFire
 [GitHub Release](https://github.com/gruppe-adler/grad-makefire/releases) | [Github Readme](https://github.com/gruppe-adler/grad-makefire/blob/master/README.md)  
