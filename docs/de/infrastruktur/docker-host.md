@@ -52,8 +52,12 @@ Alle Docker Compose Konfigurationsdateien lassen sich unter `/etc/docker-configs
 ```docker ps -a```  
 ![list-containers](~@assets/docker-host/list-containers.png)
 
-### Eine Applikation starten
+### Eine Applikation (neu-)starten
 1. In jeweilges Verzeichnis wechseln
 ```cd /etc/docker-configs/foo```
 2. Applikation starten
 ```docker-compose up -d```
+
+### Alle unbenutzen Images löschen
+```docker rmi $(docker image ls -q)```  
+(Dieser Befehl versucht zwar alle Images zu löschen, kann aber Images, die aktuell in Benutzung sind nicht löschen 😅)
