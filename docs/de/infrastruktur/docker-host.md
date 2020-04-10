@@ -20,6 +20,10 @@ Alle Container die nun auch per http(s) erreichbar sein sollen, müssen nur noch
 
 ![container-structure](~@assets/docker-host/container-structure.svg)
 
+### Watchtower
+Um die Entwicklung zu vereinfachen und ein Continuous Deployment zu gewährleisten, wird [Watchtower](https://github.com/containrrr/watchtower) eingesetzt. Dieser Container prüft periodisch ob auf Docker Hub eine neuere Versionen eines verwendeten Images zu Verfügung steht. Falls eine neue Version gefunden wurde, lädt watchtower das neue Image und  updated den betroffenen Container komplett automatisch.  
+Bei uns ist es so eingestellt, dass nur Container, bei denen es explizit eingeschaltet wurde, von Watchtower geupdated werden. Dies erfolgt durch das setzen des `com.centurylinklabs.watchtower.enable=true` [label](https://docs.docker.com/engine/reference/commandline/run/#set-metadata-on-container--l---label---label-file). Mehr dazu lässt sich in der [watchtower Dokumentation](https://containrrr.github.io/watchtower/container-selection/) lesen.
+
 ## Docker Networks
 _soonTM_
 
