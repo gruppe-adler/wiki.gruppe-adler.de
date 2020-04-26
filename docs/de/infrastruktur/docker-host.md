@@ -4,7 +4,7 @@
 Die Gruppe Adler verfügt über einen Dedicated Server auf welchem zwei Virtuelle Maschinen laufen. Eine dieser VMs ist der _Docker Host_, auf welchem Services wie Blechadler, Homepage, CMS, Forum, API, Slotting und einige weitere Tools als jeweils ein/mehrere Docker Container laufen.
 
 ## Zugriff auf VM
-Zugriff auf die VM erfolgt per ssh. Falls du kein Zugriff hast wende dich bitte an DerZade.
+Genaueres zum Zugriff gibt es [hier](https://github.com/gruppe-adler/ips-n-stuff).
 
 ## Die wichtigsten Container
 Alle Applikationen (ein oder mehrere zusammenhörigen Container) sind grundsätzlich unabhängig von einander aufgebaut. Hierbei gibt es aber einige Ausnahmen:  
