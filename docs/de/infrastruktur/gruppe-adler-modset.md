@@ -171,12 +171,12 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 
 | Name                                                         | Version        | Anmerkung |
 | ------------------------------------------------------------ | -------------- | --------- |
-| [ACE3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1        |           |
-| [ace_compat_rhs_afrf3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
-| [ace_compat_rhs_gref3]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
-| [ace_compat_rhs_usf3 ]( https://armaworld.de/index.php?thread/492-ace3-release) | 3.13.1   |           |
-| [ace_optionals]()                                            | 3.13.1   |           |
-| [ACEX](http://www.armaholic.com/page.php?id=31252)           | 3.5.1          |           |
+| [ACE3]( https://github.com/acemod/ACE3/releases) | 3.13.2        |           |
+| [ace_compat_rhs_afrf3]( https://github.com/acemod/ACE3/releases) | 3.13.2   |           |
+| [ace_compat_rhs_gref3]( https://github.com/acemod/ACE3/releases) | 3.13.2   |           |
+| [ace_compat_rhs_usf3 ]( https://github.com/acemod/ACE3/releases) | 3.13.2   |           |
+| [ace_optionals]()                                            | 3.13.2   |           |
+| [ACEX](https://github.com/acemod/ACEX/releases)           | 3.5.2          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [Advanced Sling Loading](https://steamcommunity.com/sharedfiles/filedetails/?id=615007497) | 2.1.1          |           |
 | [BackpackOnChest ](http://www.armaholic.com/page.php?id=28838) | 1.2.0          |           |
@@ -190,7 +190,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
-| [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9          |           |
+| [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9.5          |           |
 | [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.15.3       |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
@@ -200,7 +200,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [NIArsenal](http://www.armaholic.com/page.php?id=28329)      | 12             |           |
 | [Prei Khmaoch Luong](http://steamcommunity.com/sharedfiles/filedetails/?id=950966660 ) | 0.8            |           |
 | [Project OPFOR](http://steamcommunity.com/sharedfiles/filedetails/?id=735566597 ) | 0.3.0          |           |
-| [Redd'n'Tank Vehicles](http://steamcommunity.com/sharedfiles/filedetails/?id=1128145626) | 1.12.162 |           |
+| [Redd'n'Tank Vehicles](http://steamcommunity.com/sharedfiles/filedetails/?id=1128145626) | 1.12.171 |           |
 | [RHS Rus -RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103) | 0.5.0          |           |
 | [RHS USA - RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117) | 0.5.0          |           |
 | [RHS Ind - RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391) | 0.5.0          |           |
