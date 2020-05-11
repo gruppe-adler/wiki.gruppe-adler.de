@@ -29,4 +29,5 @@ Neue Adler werden im allgemeinen an Hauptspieltagen eingeführt. Dazu gibt's in 
 * Forumsrechte
 * TS-Rechte
 * Discord-Gruppe
+* Zur GitHub Organisation hinzufügen
 * @gruppe-adler.de-Emailadresse anlegen
