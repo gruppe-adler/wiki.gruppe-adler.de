@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ce44c6a67e0c5584c0a1b43e12fc2dc0"
+    "revision": "7eef93128976e9efd788010775904d2f"
   },
   {
     "url": "adlerkopp.png",
@@ -298,8 +298,8 @@ self.__precacheManifest = [
     "revision": "242f64c7e721cccb7deaa0e802dbb63b"
   },
   {
-    "url": "assets/js/5.600dd6ff.js",
-    "revision": "1d4bc5942a2762248fd20e37c9be1491"
+    "url": "assets/js/5.e39d34f7.js",
+    "revision": "a93cfcd212d3a6708762580d3af25116"
   },
   {
     "url": "assets/js/6.dba61f68.js",
@@ -318,132 +318,132 @@ self.__precacheManifest = [
     "revision": "fcf2ef4d248d7c3df3b33dbac2070e65"
   },
   {
-    "url": "assets/js/app.afb256e8.js",
-    "revision": "ffac7b9c8e17c6dc00d16722beeef720"
+    "url": "assets/js/app.63fd8355.js",
+    "revision": "eea26596b7de5364dc386b9a3a5b907e"
   },
   {
     "url": "de/bastelstube/ace3medical.html",
-    "revision": "41df8143236e8789d2ae1e1d19f469ba"
+    "revision": "2a0f5cb478a21b667f8339d442e16654"
   },
   {
     "url": "de/bastelstube/cba-settings.html",
-    "revision": "6c5978e240d8e78104589e5745e35ae4"
+    "revision": "1df48b1c045ea1d71c85e1e97baa66ec"
   },
   {
     "url": "de/bastelstube/erste-hilfe-missionsbau.html",
-    "revision": "42f5d62781dcce3a2b4986c1007e38eb"
+    "revision": "0310fe1623e051f977a3c93aafdf33c1"
   },
   {
     "url": "de/bastelstube/FX.html",
-    "revision": "5fe9f57901d2625efebfe704f8adaf55"
+    "revision": "a53ced7be5017e6d20c2b41d2d5d1e4e"
   },
   {
     "url": "de/bastelstube/gruppe-adler-mod.html",
-    "revision": "b615ae2cf96d56a3bc3d824a2f6604bd"
+    "revision": "0f77bac8351dc6faa8d51aa1dcbda86a"
   },
   {
     "url": "de/bastelstube/index.html",
-    "revision": "1bad2c7294499f824d499fd1cc6a2662"
+    "revision": "688e39e1de6df9b51ef0b370ba244444"
   },
   {
     "url": "de/bastelstube/missionstemplates.html",
-    "revision": "fb258604c440fe7e67753c5c091d19ef"
+    "revision": "b4b52ea3393da28dcf5b3f52526d4185"
   },
   {
     "url": "de/bastelstube/scriptmodule.html",
-    "revision": "d16a657ef15b8a435e3dbd9f3e2a9c6f"
+    "revision": "0e6ed715ce0cfaeb81895f015b4a3c47"
   },
   {
     "url": "de/bastelstube/slotting-tool.html",
-    "revision": "8a5d062604dbe22b381b2435fea78fa5"
+    "revision": "3d4aa04d036c036e2c551b3869802025"
   },
   {
     "url": "de/bastelstube/symlinks.html",
-    "revision": "181b574860a8edf3ac1128be42323702"
+    "revision": "29938a365583c676d967aea24272d795"
   },
   {
     "url": "de/index.html",
-    "revision": "f274596f6036bc38121788e94dc2aa67"
+    "revision": "3b287cb397878407bd2a897391013dd0"
   },
   {
     "url": "de/infrastruktur/docker-host.html",
-    "revision": "ccd44e29a7e295caf989616c3433253f"
+    "revision": "0626fa8738d0bb914b136e71f08aec9a"
   },
   {
     "url": "de/infrastruktur/gruppe-adler-modset.html",
-    "revision": "cffdacfe19d03eebf66df8e302dbe404"
+    "revision": "3e3ca2b2c5cf8109753eca9d98b0399a"
   },
   {
     "url": "de/infrastruktur/index.html",
-    "revision": "11fe4732b7c99733873950b1a13d6149"
+    "revision": "53073f14acb9e573884f0f3c9a28f3cb"
   },
   {
     "url": "de/infrastruktur/styleguide-design.html",
-    "revision": "e40d36a43e7b9917a83e0c656fbd8dfa"
+    "revision": "7ed90332eb4bb31cfcc9fedddd8fd81e"
   },
   {
     "url": "de/infrastruktur/uebersicht.html",
-    "revision": "538ae0eb632d793782745e6379801595"
+    "revision": "d147e7ab62c8135df5803b0ea2533e6f"
   },
   {
     "url": "de/infrastruktur/wiki-how-to.html",
-    "revision": "2acfe12f075e668ef688a81601acdb94"
+    "revision": "de9532a3b45d5c82371e7b2047c782e5"
   },
   {
     "url": "de/organisatorisches/adlerung.html",
-    "revision": "7668a01fcd6ce0066dbc3ecab57d1bee"
+    "revision": "2e9aefa5c563807221e266ad5ed49abe"
   },
   {
     "url": "de/organisatorisches/bek-checkliste.html",
-    "revision": "b4be58810815b91368ec935452963cdd"
+    "revision": "20910bd7b560ec75108a8ec0abc6f47c"
   },
   {
     "url": "de/organisatorisches/gruppen.html",
-    "revision": "b2a554fc0ca6cc9f6c086111ea910eba"
+    "revision": "9f82844014b2d80c34855b63517415af"
   },
   {
     "url": "de/organisatorisches/index.html",
-    "revision": "47eb612d6b3b04cb8627c86c8715355e"
+    "revision": "9d29234026d7954e5f6be2fff8ea2572"
   },
   {
     "url": "de/taktik/ASOP.html",
-    "revision": "9f0c0cd65212dd38e9a5346c77ddbc2f"
+    "revision": "5188b5eba8f29e627bf827407bb302f7"
   },
   {
     "url": "de/taktik/ateffectiveness.html",
-    "revision": "1f681de0391a83042f45a8831b074296"
+    "revision": "206e0b54039566c875d0c8d01f3aff52"
   },
   {
     "url": "de/taktik/index.html",
-    "revision": "66482968d18f17883ee6c77132cbe87c"
+    "revision": "b8921f1d100b29d4aa40647bbcf598be"
   },
   {
     "url": "de/taktik/taktischeZeichen.html",
-    "revision": "9792568e39d616f4145a9c056335ad3a"
+    "revision": "ed21837c42f5950a921da6cc892b38e8"
   },
   {
     "url": "de/wiki-index.html",
-    "revision": "124339f87002eb7a1886853435dccf3c"
+    "revision": "1e66e29d21f2e5c3e4237508b2bbc2a7"
   },
   {
     "url": "en/index.html",
-    "revision": "41936625b9493ba2477d43ab3b9c0228"
+    "revision": "cc1e8d8f175a7a66ace6d0368db7ede7"
   },
   {
     "url": "en/infrastruktur/gruppe-adler-modset.html",
-    "revision": "5d6cd19730aafdb9307a3233696fbbb1"
+    "revision": "5a2d1c9e0090a7f6595f9fde7a90c34e"
   },
   {
     "url": "en/infrastruktur/index.html",
-    "revision": "b3f106cabaedc7fee46f7cebbcd04efc"
+    "revision": "c576a403093a205a0ab9fa015fac8136"
   },
   {
     "url": "en/wiki-index.html",
-    "revision": "af3ebbacad7540f9a3b8aef197d2799e"
+    "revision": "d0dd5b86edba59f273e3cd557fbd59b9"
   },
   {
     "url": "index.html",
-    "revision": "50edc102ebe881c9c4fec556b3454ecd"
+    "revision": "65cf76b37e744a831b98ad9657c6b815"
   },
   {
     "url": "logo.png",
