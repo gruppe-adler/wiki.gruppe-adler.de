@@ -66,7 +66,7 @@ Falls die Mods dennoch im Arma-Verzeichnis liegen sollen, sollte mindestens ein 
 ### Anlegen des Repository
 Ein neues Repository lässt sich im `Repository` Tab anlegen.  
 Hierzu - auf der rechten Seite - auf das blaue Kreuz klicken. Im neu geöffnetem Fenster das Folgende in das Feld `Public auto-config url` eintragen:  
-<span class="grad--color-fuehrung">`http://a3s.gruppe-adler.de/mods`</span>  
+<span class="grad--color-fuehrung">`http://a3s.gruppe-adler.de/mods/.a3s/autoconfig`</span>  
 Danach auf `Import` drücken. Die Verbindung war erfolgreich wenn über dem Eingabefeld <span class="grad--color-gastspieler">_Connection success!_</span> steht.
 
 ![new-repository](~@assets/gruppe-adler-modset/new-repository.jpg)
