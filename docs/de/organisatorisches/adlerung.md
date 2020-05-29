@@ -12,7 +12,7 @@ Falls sich für den Anwärter entschieden wird, wird dieser am folgenden Hauptsp
 * _Alle Stimmen_: Alle **Ja**, **Nein** und **Neutral** Stimmen
 
 ### Unterschied zw. Enthaltung und Neutral
-Eine Neutral Stimme bedeutet, dass ein Adler den Anwärter einschätzen kann, also mit ihm Erfahrungen gesammelt hat und es ihm nur egal ist, ob der Anwärter Adler wird.  
+Eine Neutral Stimme bedeutet, dass ein Adler den Anwärter einschätzen kann, also mit ihm Erfahrungen gesammelt hat, aber weder positiv noch negativ gegenüber dem Anwärter eingestellt sind.  
 Eine Enthaltung bedeutet, dass der Adler den Anwärter **nicht** einschätzen kann. Dies kann zum Beispiel bei Adlern, die eher inaktiv sind auftreten. Enthaltungen werden in keiner Rechnung berücksichtigt, damit sich eine generelle Inaktivität in der Gruppe Adler nicht negativ auf den Anwärter auswirken kann.
 
 ## Stimmabgabe
