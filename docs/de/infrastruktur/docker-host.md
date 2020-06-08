@@ -16,7 +16,6 @@ Alle Container die nun auch per http(s) erreichbar sein sollen, müssen nur noch
 2. Folgende Environment Variablen gesetzt haben (Hierbei natürlich `foo` durch korrekten Wert ersetzen):
     - `VIRTUAL_HOST=foo.gruppe-adler.de,www.foo.gruppe-adler.de`
     - `LETSENCRYPT_HOST=foo.gruppe-adler.de`
-    - `LETSENCRYPT_EMAIL=admin@gruppe-adler.com`
 
 ![container-structure](~@assets/docker-host/container-structure.svg)
 
