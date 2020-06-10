@@ -186,7 +186,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [CUP Terrains Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987) | 1.15.0         |           |
 | [cup_wheeledvehicles_suv ]()                                 | 1.0            |           |
 | [Dismount where you look](https://steamcommunity.com/sharedfiles/filedetails/?id=1841553455) | 1.03           |           |
-| [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.6.0          |           |
+| [DUI Squad Radar ](https://github.com/diwako/diwako_dui/)    | 1.7.0          |           |
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
@@ -215,7 +215,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | virolahti - valtatie 7 | 1.01 | |
 | [Vinjesvingen ]()                                            | 1.21           |           |
 | [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.3.1.02       |           |
-| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.7.0          |           |
+| [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.8.0          |           |
 
 ### Optionals
 
@@ -232,7 +232,8 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Suppress](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | 2.04    | Verändert FX, erlaubt Unterdrückung                          |
 | [Tao Folding Map ](http://forums.bistudio.com/showthread.php?148517-Tao-Folding-Map) | 2.70    | Fügt eine halbbildschirmgroße Karte hinzu                    |
 | [UISounds 2 ](https://steamcommunity.com/sharedfiles/filedetails/?id=790393813) | 2.0     | Fügt Inventar u.a. Sounds hinzu                              |
-
+| [BW MOD ]() | xx     | temporär                              |
+| [BW Kleiderkammer ]() | xx     | temporär                              |
 
 
 <style>
