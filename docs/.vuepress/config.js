@@ -2,7 +2,7 @@ const path = require('path');
 var fs = require('fs');
 
 module.exports = {
-    title: 'Gruppe Adler Wiki',
+    title: 'Wiki - Gruppe Adler',
     dest: './dist',
     base: '/wiki.gruppe-adler.de/',
     locales: {
