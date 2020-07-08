@@ -190,7 +190,7 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [FHQ Accessories pack](http://www.armaholic.com/page.php?id=20393) | 1.7.1          |           |
 | [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=333310405) | 0.8.4.15       |           |
 | [grad_slinghelmet ](https://github.com/DerZade/grad_slinghelmet/releases) | 1.2            |           |
-| [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.5.9.5          |           |
+| [Gruppe Adler Trenches](https://github.com/gruppe-adler/grad_trenches/releases) | 1.6.0.0          |           |
 | [Gruppe_Adler_Mod](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.15.3       |           |
 | [Gruppe_Adler_Additionals](https://github.com/gruppe-adler/gruppe_adler_mod/releases ) | 2.4            |           |
 | [GM Demo Vehicle](https://steamcommunity.com/sharedfiles/filedetails/?id=1284731930) | 1.37           |           |
@@ -216,6 +216,12 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Vinjesvingen ]()                                            | 1.21           |           |
 | [Vet Unflipping](https://steamcommunity.com/sharedfiles/filedetails/?id=1703187116) | 1.3.1.02       |           |
 | [ZEN ](https://github.com/zen-mod/ZEN/releases )             | 1.8.0          |           |
+| [SFP temporär]( )             | x.xx          |           |
+| [SFP JSRS]( )             | x.xx          |           |
+| [JSRS](https://steamcommunity.com/sharedfiles/filedetails/changelog/861133494)             | CE.20.0423B          |           |
+| [JSRS RHS comp]( )             | x.xx          |           |
+| [JSRS GM comp]( )             | x.xx          |           |
+| [Advanced Towing](steamcommunity.com/sharedfiles/filedetails/?id=639837898)             | v1.5          |           |
 
 ### Optionals
 
@@ -232,8 +238,6 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | [Suppress](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | 2.04    | Verändert FX, erlaubt Unterdrückung                          |
 | [Tao Folding Map ](http://forums.bistudio.com/showthread.php?148517-Tao-Folding-Map) | 2.70    | Fügt eine halbbildschirmgroße Karte hinzu                    |
 | [UISounds 2 ](https://steamcommunity.com/sharedfiles/filedetails/?id=790393813) | 2.0     | Fügt Inventar u.a. Sounds hinzu                              |
-| [BW MOD ]() | xx     | temporär                              |
-| [BW Kleiderkammer ]() | xx     | temporär                              |
 
 
 <style>
