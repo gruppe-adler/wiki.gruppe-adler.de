@@ -134,7 +134,7 @@ GM im Reiter "DLC" unter **Addons** in selber neu erstellte Addon Group rechts z
 Für Nichtbesitzer des CDLC gibt es einen kostenlosen [**Compat-Mod** ]( https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269 )
 Dafür muss folgender Startup Parameter in das unten gezeigte A3S Inputfeld: 
 
-`"-mod=s:\...\arma 3\arma3sync_MyMods\@GM;"`
+`"-mod=C:\deinPfadZuArma\deinModVerzeichnis\@GM;"`
 
 **Die Anführungszeichen sind wichtig!**
 
