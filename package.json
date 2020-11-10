@@ -21,7 +21,5 @@
     "sass-loader": "^7.1.0",
     "vuepress": "^1.2.0"
   },
-  "dependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  "dependencies": {}
 }
