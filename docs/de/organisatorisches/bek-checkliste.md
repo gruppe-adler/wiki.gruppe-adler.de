@@ -9,7 +9,8 @@ Dies sind die Punkte die im ersten Gespräch ge- / erklärt werden sollten:.
 ☑️ Spitzname festlegen (Leicht ausprechbar; In Forum, Spiel und TS gleich)   
 ☑️ Wann spielen wir? (Montags und teilweise Freitags)  
 ☑️ Was spielen wir? (Montags TvT / COOP Abwechselnd ...so gut es halt geht)  
-☑️ Spielbeginn eig. immer 20:00 (Außer etwas anderes steht im Forum)  
+☑️ Spielbeginn eig. immer 20:00 (Außer etwas anderes steht im Forum)    
+☑️ Modset eig. immer Gruppe Adler Main (Außer etwas anderes steht im Forum)  
 ☑️ Anmeldungen zu Events übers Forum (genaueres nach dem Techcheck)  
 ☑️ Slotting: Wer zuerst kommt mahlt zu erst (dennoch gilt in einigen Ausnahmen _Das Recht des Adlers_)  
 ☑️ Alles wichtige steht im Forum!
