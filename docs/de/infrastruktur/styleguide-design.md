@@ -21,13 +21,12 @@ Das Logo ist eine Parodie auf einen Bundesadler mit Kampfhelm, der gerade einen 
 Dateien abrufbar unter [Frontify](https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide)
 
 ## Typographie
-Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span><br />
-
-Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size:1.25em">Source Sans Pro.</span>
+Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span> ([Download](https://fonts.google.com/specimen/Oswald))  
+  
+Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size:1.25em">Source Sans Pro.</span> ([Download](https://fonts.google.com/specimen/Source+Sans+Pro))  
 
 <style>
-    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
-    @import url('https://fonts.googleapis.com/css?family=Oswald');
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Source+Sans+Pro&display=swap');
 </style>
 
 ## Videovorspann
