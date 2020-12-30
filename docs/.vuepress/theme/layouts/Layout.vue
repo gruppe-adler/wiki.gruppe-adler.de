@@ -1,6 +1,9 @@
 <template>
+<div>
+  <grad-navbar active-path="/wiki" sublinks-hidden></grad-navbar>
   <ParentLayout>
   </ParentLayout>
+</div>
 </template>
 
 <script>

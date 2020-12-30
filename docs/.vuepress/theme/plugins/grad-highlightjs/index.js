@@ -5,5 +5,3 @@ module.exports = {
     extendMarkdown: require('./extendMarkdown.js'),
     clientRootMixin: path.resolve(__dirname, './clientRootMixin.js')
 }
-
-

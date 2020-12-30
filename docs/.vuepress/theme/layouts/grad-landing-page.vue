@@ -1,5 +1,6 @@
 <template>
 <div :class="['theme-container', 'grad-landing-page', isSidebarOpen ? 'sidebar-open' : '']">
+    <grad-navbar active-path="/wiki" sublinks-hidden></grad-navbar>
     <Navbar 
         @toggle-sidebar="toggleSidebar"
     />
@@ -67,8 +68,8 @@ export default {
 </script>
 
 <style src="@parent-theme/styles/index.styl" lang="stylus"></style>
+<style src="../styles/theme.styl" lang="stylus"></style>
 <style lang="scss">
-
 .grad-landing-page {
     height: 100vh;
 

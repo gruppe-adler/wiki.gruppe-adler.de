@@ -3,7 +3,7 @@ module.exports = {
     plugins: [
         require('./plugins/grad-custom-containers/'),
         require('./plugins/grad-md-preview/'),
-        require('./plugins/grad-highlightjs/')
+        require('./plugins/grad-highlightjs/'),
+        require('./plugins/grad-register-navbar/')
     ]
 }
-  
