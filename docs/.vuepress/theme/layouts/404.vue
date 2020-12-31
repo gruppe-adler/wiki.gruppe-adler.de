@@ -1,6 +1,6 @@
 <template>
 <div class="theme-container">
-    <grad-navbar active-path="/wiki" sublinks-hidden></grad-navbar>
+    <grad-navbar active-path="/wiki" sublinks-hidden nav-style="z-index: 1000;"></grad-navbar>
     <div class="content">
         <img :src="$withBase('/logo.png')" />
         <div>

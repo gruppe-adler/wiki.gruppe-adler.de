@@ -1,6 +1,6 @@
 <template>
 <div :class="['theme-container', 'grad-landing-page', isSidebarOpen ? 'sidebar-open' : '']">
-    <grad-navbar active-path="/wiki" sublinks-hidden></grad-navbar>
+    <grad-navbar active-path="/wiki" sublinks-hidden nav-style="z-index: 1000;"></grad-navbar>
     <Navbar 
         @toggle-sidebar="toggleSidebar"
     />
