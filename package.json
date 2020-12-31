@@ -22,6 +22,6 @@
     "vuepress": "^1.7.1"
   },
   "dependencies": {
-    "@gruppe-adler/navbar-component": "^1.0.0"
+    "@gruppe-adler/navbar-component": "^1.0.1"
   }
 }
