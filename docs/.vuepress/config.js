@@ -4,7 +4,7 @@ var fs = require('fs');
 module.exports = {
     title: 'Wiki - Gruppe Adler',
     dest: './dist',
-    base: '/wiki.gruppe-adler.de/',
+    // base: '/wiki.gruppe-adler.de/',
     locales: {
         '/de/': {
             lang: 'de',
