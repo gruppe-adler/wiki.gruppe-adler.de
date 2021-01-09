@@ -18,6 +18,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
+        ['meta', { name: 'description', content: 'Hier dokumentieren wir alles, was keiner liest, aber nicht verloren gehen soll. Unter anderem findest du Anleitung zu Missionsbau, Taktik und Infrastruktur.' }],
     ],
     themeConfig: {
         repo: 'gruppe-adler/wiki.gruppe-adler.de',
