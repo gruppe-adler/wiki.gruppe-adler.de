@@ -32,3 +32,13 @@ body {
         color: #8F1167;
     }
 }
+
+.theme-default-content:not(.custom)>h1,
+.theme-default-content:not(.custom)>h2,
+.theme-default-content:not(.custom)>h3,
+.theme-default-content:not(.custom)>h4,
+.theme-default-content:not(.custom)>h5,
+.theme-default-content:not(.custom)>h6 {
+    margin-top: calc(-3.1rem - var(--grad-nav-height, 4.5rem));
+    padding-top: calc(4.6rem + var(--grad-nav-height, 4.5rem));
+}
