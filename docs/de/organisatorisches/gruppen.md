@@ -23,6 +23,9 @@ Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler 
 Stammspieler sind gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu **externen Events**, bei welchen wir noch Unterstützung brauchen, eingeladen werden. Außerdem können Sie eigenständig Missionen im öffentlichen Forum einstellen. 
 Bei längere Inaktivität kann der Stammspieler Status einem Spieler entzogen werden.
 
+### Minimale Vorraussetzungen
+Keine
+
 ### Stammspieler werden
 Ein Gastspieler wird zum Stammspieler, wenn er von einem Adler als solcher vorgeschlagen wird und drei weitere Adler zustimmen.  
 Stammspieler wird nur, wer sich auch benehmen kann, da diese uns evtl. auch auf externen Events vertreten. 
