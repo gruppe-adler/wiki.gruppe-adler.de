@@ -23,10 +23,6 @@ Alle Container die nun auch per http(s) erreichbar sein sollen, müssen nur noch
 Um die Entwicklung zu vereinfachen und ein Continuous Deployment zu gewährleisten, wird [Watchtower](https://github.com/containrrr/watchtower) eingesetzt. Dieser Container prüft periodisch ob auf Docker Hub eine neuere Versionen eines verwendeten Images zu Verfügung steht. Falls eine neue Version gefunden wurde, lädt watchtower das neue Image und  updated den betroffenen Container komplett automatisch.  
 Bei uns ist es so eingestellt, dass nur Container, bei denen es explizit eingeschaltet wurde, von Watchtower geupdated werden. Dies erfolgt durch das setzen des `com.centurylinklabs.watchtower.enable=true` [label](https://docs.docker.com/engine/reference/commandline/run/#set-metadata-on-container--l---label---label-file). Mehr dazu lässt sich in der [watchtower Dokumentation](https://containrrr.github.io/watchtower/container-selection/) lesen.
 
-## Docker Networks
-_soonTM_
-
-
 ## Docker Compose Files
 Alle Docker Compose Konfigurationsdateien lassen sich unter `/etc/docker-configs/` finden. Der gundlegende Aufbau ist wie folgt:
 ::: vue
@@ -50,6 +46,10 @@ Alle Docker Compose Konfigurationsdateien lassen sich unter `/etc/docker-configs
 ### Alle Container auflisten
 ```docker ps -a```  
 ![list-containers](~@assets/docker-host/list-containers.png)
+
+### Container Logs einsehen
+```docker logs foo```  
+_Hierbei natürlich foo durch den korrekten container namen ersetzten. Dieser kann in der Liste aller Container gefunden werden (siehe [Alle Container auflisten](#alle-container-auflisten))_
 
 ### Eine Applikation (neu-)starten
 1. In jeweilges Verzeichnis wechseln
