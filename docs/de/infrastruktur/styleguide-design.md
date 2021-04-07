@@ -30,5 +30,5 @@ Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size
 </style>
 
 ## Videovorspann
-* MP4 (1920x1080): [Videodatei .MP4](http://a3s.gruppe-adler.de/assets/Intro_GruppeAdler_FullHD_2017.mp4)
+* MP4 (1920x1080): [Videodatei .MP4](https://cdn.gruppe-adler.de/content/Intro_GruppeAdler_FullHD_2017.mp4)
 
