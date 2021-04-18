@@ -29,6 +29,6 @@ Für Fließtext benutzen wir <span style="font-family:Source Sans Pro; font-size
     @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Source+Sans+Pro&display=swap');
 </style>
 
-## Videovorspann
+## Intro
 * MP4 (1920x1080): [Videodatei .MP4](https://cdn.gruppe-adler.de/content/Intro_GruppeAdler_FullHD_2017.mp4)
 
