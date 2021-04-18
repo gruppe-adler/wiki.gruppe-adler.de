@@ -228,15 +228,12 @@ Im TS sollte nun, wenn man den eigenen Nutzer auswählt, rechts ein Abschnitt _T
 | Name                                                         | Version | Anmerkung                                                    |
 | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
 | [Blastcore edited standalone](http://steamcommunity.com/sharedfiles/filedetails/?id=767380317) | 1.7     | [⚠️](https://emojipedia.org/warning-sign/) ggf. Performance-intensiv, verändert FX |
-| [DynaSound2](http://www.armaholic.com/page.php?id=29810)     | 2.21.01 | Verändert Sounds, teilweise Reichweite der Sounds            |
 | [Enhanced Arma3 Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=809527168) | 1.2     | Zeigt Armor-Werte im Inventar                                |
 | [GRAD MinUI ](https://github.com/DerZade/grad_minui/releases) | v0.6.3  | [⚠️](https://emojipedia.org/warning-sign/) Entfernt große Teile des UI |
 | [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664) | 0.9     | [⚠️](https://emojipedia.org/warning-sign/) Performance-intensiv, verändert FX, **verändert Video Settings vom Spiel** |
-| [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) | 1.23    | Verändert Sounds, teilweise Reichweite der Sounds, Echos     |
 | [Head Range Plus - TrackIR Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=630737877) | v2.9.1  | Erlaubt größeren Spielraum für FreeLook                      |
 | [Immerse ](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | V 2.04  | Verändert FX, u.a. Camshake, Twitches bei Schüssen/Explosionen |
 | [Suppress](https://steamcommunity.com/sharedfiles/filedetails/?id=825174634) | 2.04    | Verändert FX, erlaubt Unterdrückung                          |
-| [Tao Folding Map ](http://forums.bistudio.com/showthread.php?148517-Tao-Folding-Map) | 2.70    | Fügt eine halbbildschirmgroße Karte hinzu                    |
 | [UISounds 2 ](https://steamcommunity.com/sharedfiles/filedetails/?id=790393813) | 2.0     | Fügt Inventar u.a. Sounds hinzu                              |
 
 
