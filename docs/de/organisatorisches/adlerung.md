@@ -25,7 +25,7 @@ Neue Adler werden im allgemeinen an Hauptspieltagen eingeführt. Dazu gibt's in 
 
 ## Technische Checkliste
 * Diskussionsthread in den Führungsbereich verschieben
-* Gastspieler-Channel löschen & neu erstellen
+* `#gastspieler`-Channel im Discord löschen & neu erstellen
 * Gruppe im Forum
 * Gruppe im TS
 * Gruppe im Discord
