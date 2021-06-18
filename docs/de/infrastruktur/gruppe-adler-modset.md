@@ -26,7 +26,7 @@ Unser Repository beinhalten insgesamt drei Events (oder auch im folgenden Modset
 ## Repository anlegen und konfigurieren
 
 ### Installation Arma3Sync
-Für das Herunterladen und die Synchronisation der Mods wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](http://www.armaholic.com/page.php?id=22199). Diese einfach herunterladen und installieren.
+Für das Herunterladen und die Synchronisation der Mods wird Arma3Sync benötigt. Die aktuelle Version ist [hier zu finden](https://hosted.anrop.se/arma3sync.exe). Diese einfach herunterladen und installieren.
 
 ### Anlegen eines neuen Profils
 Es ist zwar nicht unbedingt notwenig, aber empfehlenswert für jedes neues Repository ein neues Profil zu erstellen um Fehler vorzubeugen.  
