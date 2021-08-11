@@ -8,8 +8,10 @@ Das Gruppe Adler Design benutzt hauptsächlich verschiedene Grautöne, die nur p
 
 <style>
     .color-blob {
-        width: 1em;
-        height: 1em;
+        width: 2em;
+        height: 2em;
+        display: block;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
         background-color: currentColor;
         border-radius: 1em;
     }
