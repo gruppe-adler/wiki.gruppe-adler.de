@@ -6,12 +6,24 @@
 ## Farben
 Das Gruppe Adler Design benutzt hauptsächlich verschiedene Grautöne, die nur punktuell durch Farbakzente ergänzt werden.
 
+<style>
+    .color-blob {
+        width: 1em;
+        height: 1em;
+        background-color: currentColor;
+        border-radius: 1em;
+    }
+</style>
 
-| <span style="color: #66AA66">Gastspielergrün</span>  | <span style="color: #6CAACC">Anwärterblau</span> | <span style="color: #D18D1F">Adlergold</span> | <span style="color: #8F1167">Führungspurpur</span> |
-| ------------- | ------------- | ------------- | ------------- |
-| `#66AA66`  | `#6CAACC`  | `#D18D1F`  | `#8F1167`  |
-| `102, 170, 102` | `108, 170, 204`  | `209, 141, 31`  | `143, 17, 103`  |
+### Allgemeine Farben
 
+| | Name | HEX | RGB |
+| --- | ---- | --- | --- |
+| <span class="color-blob" style="color: #66AA66"></span> | Gastspielergrün | `#66AA66` | `102, 170, 102` |
+| <span class="color-blob" style="color: #6CAACC"></span> | Anwärterblau | `#6CAACC` | `108, 170, 204` |
+| <span class="color-blob" style="color: #D18D1F"></span> | Adlergold | `#D18D1F` | `209, 141, 31` |
+| <span class="color-blob" style="color: #8f1167"></span> | Führungspurpur | `#8f1167` | `143, 17, 103` |
+| <span class="color-blob" style="color: #010103"></span> | Adlerschwarz | `#010103` | `1, 1, 3` |
 
 > Die HEX- und RGB-Werte der **Grautöne** können im [Style Guide](https://app.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide#/farben) nachgesehen werden.
 
