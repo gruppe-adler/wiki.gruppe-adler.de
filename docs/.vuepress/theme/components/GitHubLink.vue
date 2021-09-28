@@ -24,7 +24,7 @@ export default {
                 docsDir = '',
             } = themeLocale.value;
 
-            const subLink = link.replace(/^\//, '').replaceAll(':branch', docsBranch).replaceAll(':dir', docsDir);
+            const subLink = link.replace(/^\//, '').replace(/:branch/gi, docsBranch).replace(/:dir/gi, docsDir);
             
             return `https://github.com/${docsRepo}/${subLink}`;
         });
