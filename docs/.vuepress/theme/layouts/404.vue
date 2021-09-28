@@ -1,26 +1,31 @@
 <template>
-<div class="theme-container">
-    <grad-navbar active-path="/wiki" sublinks-hidden nav-style="z-index: 1000;"></grad-navbar>
-    <div class="content">
-        <img :src="$withBase('/logo.png')" />
-        <div>
-            <h1>404</h1>
-            <blockquote>{{ getMsg() }}</blockquote>
-            <router-link to="/">Zurück zur Startseite.</router-link>
-        </div>
-    </div>
-</div>
+    <Layout>
+        <template #page>
+            <main class="page-404">
+                <img :src="$withBase('/images/logo_404.svg')" />
+                <h1>404</h1>
+                <blockquote>{{ getMsg() }}</blockquote>
+                <router-link to="/">Zurück zur Startseite.</router-link>
+            </main>
+        </template>
+    </Layout>
 </template>
 
 <script>
+import Layout from '@vuepress/theme-default/lib/client/layouts/Layout.vue'
+
 const msgs = [
-    `Du hast dich verlaufen.`,
-    `Wie bist du denn hier her gekommen?`,
-    `Dies ist nicht die Seite die du sehen wolltest.`,
-    `Du bist auf dem falschen Pfad unterwegs.`
+    'Du hast dich verlaufen.',
+    'Wie bist du denn hier her gekommen?',
+    'Dies ist nicht die Seite die du sehen wolltest.',
+    'Du bist auf dem falschen Pfad unterwegs.',
+    'XiviD ist Schuld.'
 ]
 
 export default {
+    components: {
+        Layout,
+    },
     methods: {
         getMsg () {
            return msgs[Math.floor(Math.random() * msgs.length)]
@@ -28,21 +33,49 @@ export default {
     }
 }
 </script>
-
-<style src="@parent-theme/styles/index.styl" lang="stylus"></style>
-<style src="../styles/theme.styl" lang="stylus"></style>
 <style lang="scss" scoped>
-.content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.page-404 {
     height: 100vh;
-    width: 100vw;
-    padding-top: 72px;
-    box-sizing: border-box;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    row-gap: 1rem;
+    column-gap: 2rem;
+    grid-template: 
+        "logo heading" .5fr
+        "logo quote" auto
+        "logo link" .5fr / auto auto;
 
     img {
-        max-height: 200px;
+        grid-area: logo;
+        height: 15rem;
+    }
+
+    h1 {
+        grid-area: heading;
+        align-self: flex-end;
+        margin: 0;
+    }
+
+    blockquote {
+        grid-area: quote;
+        margin: 0;
+    }
+
+    a {
+        align-self: flex-start;
+        grid-area: link;
+    }
+
+    
+    @media(max-width: 700px) {
+        justify-items: center;
+        grid-template: 
+            "logo" auto
+            "heading" auto
+            "quote" auto
+            "link" auto / auto;
     }
 }
 </style>

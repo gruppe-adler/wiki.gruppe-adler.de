@@ -4,22 +4,21 @@
     "type": "git",
     "url": "https://github.com/gruppe-adler/wiki.gruppe-adler.de.git"
   },
-  "version": "0.0.1",
-  "description": "Gruppe Adler Wiki built with vuepress",
-  "author": "DerZade for Gruppe Adler",
-  "license": "ISC",
+  "version": "1.0.0",
+  "description": "Gruppe Adler Wiki built with VuePress v2",
+  "author": "Gruppe Adler",
+  "private": true,
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-medium-zoom": "^1.7.1",
-    "@vuepress/plugin-pwa": "^1.7.1",
-    "@vuepress/plugin-search": "^1.7.1",
-    "markdown-it-highlightjs": "^3.3.0",
-    "sass": "^1.29.0",
-    "sass-loader": "^10.0.5",
-    "vuepress": "^1.7.1"
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.26",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.26",
+    "@vuepress/plugin-pwa-popup": "^2.0.0-beta.26",
+    "@vuepress/plugin-search": "^2.0.0-beta.26",
+    "emoji-regex": "^9.2.2",
+    "vuepress": "^2.0.0-beta.26"
   },
   "dependencies": {
     "@gruppe-adler/navbar-component": "^1.1.1"
