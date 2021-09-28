@@ -1,9 +1,4 @@
 # :question: Wiki How-To
-
-::: danger
-Dieser Guide ist noch WIP
-:::
-
 ::: danger
 Dieser Guide geht davon aus, dass du Mitglied in der Gruppe Adler GitHub Organisation bist.
 
@@ -35,7 +30,7 @@ Es kann ein paar Minuten dauern, bis Änderungen zu sehen sind!
 - Leerzeichen durch `-` ersetzten
 - Dateierweiterung ist `.md`
 
-Beispiele
+Beispiele:  
 Gruppe Adler Modset → `gruppe-adler-modset.md`  
 Wiki How-To → `wiki-how-to.md`
 
@@ -69,14 +64,100 @@ Es kann ein paar Minuten dauern, bis die neue Seite zu sehen ist!
 :::
 
 ## Bilder einbinden
-Du möchtest Bilder einbinden
+Um Bilder einzubinden gibt es zwei Möglichkeiten:
+Auf Imgur (oder vergleichbaren Plattformen) hochladen und dann einfach im Markdown verwenden oder Bilder über das Wiki hosten.
+Ersteres sollte eigentlich selbst erklärend sein. Letzteres wird im folgenden erklärt.
 
-1. Im `docs/assets/`-Verzeichnis ein Verzeichnis für deine Seite erstellen
-2. Hier deine Bilder hochladen
+### GitHub WebEditor öffnen
+1. Auf die <GradGitHubLink link="/">GitHub Seite des Wikis</GradGitHubLink> gehen
+2. Punkt (`.`) auf der Tastatur drücken
 
-## Aufbau der GitHub Repository
+### Bilder hochladen
+1. In das Verzeichnis `docs/assets/` navigieren.
+2. Falls es noch kein Verzeichnis für eure Seite gibt, einfach per Rechtsklick auf den `assets` Ordner ein neues erstellen
+3. Per Rechtsklick auf den erstellten Ordner Bilder hochladen
+
+### Aus Markdown auf Assets zugreifen
+Im WebEditor könnt ihr auch gleich eure Seite anpassen.
+
+Auf Dateien aus dem Assets-Ordner kann mit dem Prefix `~@assets/` zugegriffen werden.  
+Zum Beispiel: Euer Bild hat den Pfad `docs/assets/wiki-how-to/create-page.png` dann könnt ihr im Markdown folgendermaßen darauf zugreifen:
+
+```md
+![Screenshot aus GitHub](~@assets/wiki-how-to/create-page.png)
+```
+
+### Commit
+Sobald ihr mit euren Änderungen zufrieden seid, könnt ihr einfach auf der Linken Seite auf das Graph-Symbol klicken, oben eine Nachricht eingeben (ist komplett belibig) und dann per Klick auf den Haken bestätigen.
 
 ## Markdown
+Der [VuePress Markdown Guide](https://v2.vuepress.vuejs.org/guide/markdown.html#syntax-extensions) zeigt alle Features im genauen, aber im folgenden einmal das Wichtigste zusammengefasst:
+
+### Grundlagen
+Die Grundlagen sind in [diesem Guide von GitHub](https://guides.github.com/features/mastering-markdown/) erklärt.  
+_Hiervon wird alles unterstützt außer natürlich SHA / Issue Referenzen und Mentions._
+
+### Inhaltsverzeichnis
+
+Mit `[[toc]]` kann ein Inhaltsverzeichnis (Table of Contents) der aktuellen Seite einfgeügt werden.
+
+#### Markdown
+```markdown
+[[toc]]
+```
+
+#### Ausgabe
+[[toc]]
+
+### Zeilen in Codeblöcken hervorheben
+
+Es besteht die Möglichkeit Zeilen in Codeblöcken hervorzuheben.
+
+- Zeilenbereiche: `{5-8}`
+- Mehrere einzelne Zeilen: `{4,7,9}`
+- Kombiniert: `{4,7-13,16,23-27,40}`
+
+#### Markdown
+````markdown
+```sqf{1-3,7}
+params [
+    ["_setting", "", [""]]
+];
+
+private _setting = toLower _setting;
+
+systemChat _setting;
+```
+````
+
+#### Ausgabe
+```sqf{1-3,7}
+params [
+    ["_setting", "", [""]]
+];
+
+private _setting = toLower _setting;
+
+systemChat _setting;
+```
+
+### Zeilenummern für Codeblöcke
+
+Falls du für deinen Codeblock Zeilennummern brauchst, kannst du diese mit `:line-numbers` anschalten.
+
+#### Markdown
+````markdown
+```sqf:line-numbers
+private _setting = toLower _setting;
+systemChat player;
+```
+````
+
+#### Ausgabe
+```sqf:line-numbers
+private _setting = toLower _setting;
+systemChat player;
+```
 
 <!--  
 ## Einleitung
