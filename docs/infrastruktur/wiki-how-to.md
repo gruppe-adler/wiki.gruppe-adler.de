@@ -12,7 +12,7 @@ Seiten werden in **Markdown** verfasst (genauso wie auf GitHub, in unserem Forum
 
 
 ## Eine Seite bearbeiten
-Auf jeder Seite befindest sich ganz unten ein Link um die Seite direkt auf GitHub zu bearbeiten.
+Auf jeder Seite befindest sich ganz unten ein Link, um die Seite direkt auf GitHub zu bearbeiten.
 
 ![](~@assets/wiki-how-to/edit-link.png)
 
@@ -55,7 +55,7 @@ Unbedingt Anmerkungen zu Nomenklatur und Titel von oben beachten!
 - <GradGitHubLink link="/new/:branch/:dir/taktik">Seite erstellen: Taktik</GradGitHubLink>
 :::
 
-Eine neue Seite kann einfach auf GitHub erstellt werden werden. Im <GradGitHubLink link="/tree/:branch/:dir">docs-Verzeichnis</GradGitHubLink> einfach das Verzeichnis für die richtige Kategorie wählen und dann unter _"Add file"_ auf _"Create new file klicken"_.
+Eine neue Seite kann einfach auf GitHub erstellt werden. Im <GradGitHubLink link="/tree/:branch/:dir">docs-Verzeichnis</GradGitHubLink> einfach das Verzeichnis für die richtige Kategorie wählen und dann unter _"Add file"_ auf _"Create new file klicken"_.
 
 ![create-file](~@assets/wiki-how-to/create-page.png)
 
@@ -64,9 +64,9 @@ Es kann ein paar Minuten dauern, bis die neue Seite zu sehen ist!
 :::
 
 ## Bilder einbinden
-Um Bilder einzubinden gibt es zwei Möglichkeiten:
-Auf Imgur (oder vergleichbaren Plattformen) hochladen und dann einfach im Markdown verwenden oder Bilder über das Wiki hosten.
-Ersteres sollte eigentlich selbst erklärend sein. Letzteres wird im folgenden erklärt.
+Um Bilder einzubinden, gibt es zwei Möglichkeiten:  
+Auf Imgur (oder vergleichbaren Plattformen) hochladen und dann einfach im Markdown verwenden oder Bilder über das Wiki hosten.  
+Ersteres sollte eigentlich selbst erklärend sein. Letzteres wird im Folgenden erklärt.
 
 ### GitHub WebEditor öffnen
 1. Auf die <GradGitHubLink link="/">GitHub Seite des Wikis</GradGitHubLink> gehen
@@ -88,18 +88,18 @@ Zum Beispiel: Euer Bild hat den Pfad `docs/assets/wiki-how-to/create-page.png` d
 ```
 
 ### Commit
-Sobald ihr mit euren Änderungen zufrieden seid, könnt ihr einfach auf der Linken Seite auf das Graph-Symbol klicken, oben eine Nachricht eingeben (ist komplett belibig) und dann per Klick auf den Haken bestätigen.
+Sobald ihr mit euren Änderungen zufrieden seid, könnt ihr einfach auf der linken Seite auf das Graph-Symbol klicken, oben eine Nachricht eingeben (ist komplett beliebig) und dann per Klick auf den Haken bestätigen.
 
 ## Markdown
-Der [VuePress Markdown Guide](https://v2.vuepress.vuejs.org/guide/markdown.html#syntax-extensions) zeigt alle Features im genauen, aber im folgenden einmal das Wichtigste zusammengefasst:
+Der [VuePress Markdown Guide](https://v2.vuepress.vuejs.org/guide/markdown.html#syntax-extensions) zeigt alle Features im genauen, aber im Folgenden einmal das Wichtigste zusammengefasst:
 
 ### Grundlagen
 Die Grundlagen sind in [diesem Guide von GitHub](https://guides.github.com/features/mastering-markdown/) erklärt.  
-_Hiervon wird alles unterstützt außer natürlich SHA / Issue Referenzen und Mentions._
+_Hiervon wird alles unterstützt, außer natürlich SHA / Issue Referenzen und Mentions._
 
 ### Inhaltsverzeichnis
 
-Mit `[[toc]]` kann ein Inhaltsverzeichnis (Table of Contents) der aktuellen Seite einfgeügt werden.
+Mit `[[toc]]` kann ein Inhaltsverzeichnis (Table of Contents) der aktuellen Seite eingefügt werden.
 
 #### Markdown
 ```markdown
@@ -111,7 +111,7 @@ Mit `[[toc]]` kann ein Inhaltsverzeichnis (Table of Contents) der aktuellen Seit
 
 ### Zeilen in Codeblöcken hervorheben
 
-Es besteht die Möglichkeit Zeilen in Codeblöcken hervorzuheben.
+Es besteht die Möglichkeit, Zeilen in Codeblöcken hervorzuheben.
 
 - Zeilenbereiche: `{5-8}`
 - Mehrere einzelne Zeilen: `{4,7,9}`
