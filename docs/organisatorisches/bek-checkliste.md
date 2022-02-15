@@ -39,6 +39,7 @@ Punkte die neben dem offensichtlichen wie Grundlagen in ACE und TFAR angesproche
 ☑️ _Gruppe Adler_ Eintrag auf der Karte für alle Gruppe Adler Mod Features  
 ☑️ Adler-Base ist eigentlich immer Online und kann für Modset-Tests verwendet werden  
 ☑️ Granatenwurf auf "Doppel G"  
+☑️ Enhanced Movement auf Taste legen und testen
 
 ## Nach dem Techcheck
 ☑️ Wo finde ich Einsätze? (Öffentliches Forum -> Unsere Einsätze; Grüne Markierung für noch ausstehende Einsätze)  
