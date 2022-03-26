@@ -16,10 +16,6 @@ erhöht Bluttransfusionsrate und Aufweckchance bei CPR
 ### AXE
 ein neues Item, erlaubt das Fällen von Bäumen und Sträuchern, um Sichtachsen freizumachen
 
-### cinematicSpec
-Alternativer Spectator mit flüssiger Kamera und ohne andere Spieler zu hören.
-Dazu im ACE-Spectator-Modus `F2` drücken. Ausblenden des Punktes mit `L`. Maus-Rotations-Kontrolle übernehmen mit `*`. Mit Rechtsklick kommt man zurück in den normalen ACE-Spectator.
-
 ### dynGroups
 entfernt Icons für Bewusstlosigkeit und Tod im Dynamic Groups Menü, entfernt Randomisierung der Insignia, erlaubt eigene Auswahl von Insignia
 
