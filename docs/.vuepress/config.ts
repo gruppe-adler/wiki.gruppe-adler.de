@@ -1,7 +1,7 @@
 import { path, fs } from '@vuepress/utils';
 
 import type { SidebarItem } from '@vuepress/theme-default';
-import type { AppOptions, DefaultThemeOptions, WebpackBundlerOptions } from 'vuepress';
+import type { AppOptions, DefaultThemeOptions, ViteBundlerOptions } from 'vuepress';
 import type { PwaPopupPluginOptions } from '@vuepress/plugin-pwa-popup';
 import type { SearchPluginOptions } from '@vuepress/plugin-search';
 import type { GoogleAnalyticsPluginOptions } from '@vuepress/plugin-google-analytics';
@@ -13,12 +13,13 @@ const CATEGORIES: Array<[string, string]> = [
     ['Taktik','/taktik/']
 ];
 
-export default <Partial<AppOptions<DefaultThemeOptions, WebpackBundlerOptions>>>{
+export default <Partial<AppOptions<DefaultThemeOptions, ViteBundlerOptions>>>{
     title: 'Wiki - Gruppe Adler',
     description: 'Hier dokumentieren wir alles, was keiner liest, aber nicht verloren gehen soll. Unter anderem findest du Anleitung zu Missionsbau, Taktik und Infrastruktur.',
     lang: 'de',
     dest: './dist',
     source: '.',
+    bundler: '@vuepress/bundler-vite',
     head: [
         ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
         ['meta', { name: 'theme-color', content: '#000000' }],
