@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d5c08d0","path":"/bastelstube/symlinks-mit-a3s.html","title":"⛓️ Symlinks mit A3S","lang":"de","frontmatter":{},"headers":[{"level":2,"title":"Ausgangslage","slug":"ausgangslage","link":"#ausgangslage","children":[]},{"level":2,"title":"Durchführung","slug":"durchfuhrung","link":"#durchfuhrung","children":[]}]}');export{e as data};

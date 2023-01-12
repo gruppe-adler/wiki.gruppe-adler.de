@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-efd68e82","path":"/bastelstube/missionstemplates.html","title":"📐Missionstemplates","lang":"de","frontmatter":{},"headers":[{"level":2,"title":"Coop Template","slug":"coop-template","link":"#coop-template","children":[]},{"level":2,"title":"TvT Template","slug":"tvt-template","link":"#tvt-template","children":[]}]}');export{e as data};
