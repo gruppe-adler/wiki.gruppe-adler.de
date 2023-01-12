@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8fb7c052","path":"/taktik/at-effectiveness.html","title":"💥 AT Effektivität","lang":"de","frontmatter":{},"headers":[{"level":2,"title":"Legende","slug":"legende","link":"#legende","children":[]},{"level":2,"title":"RHS US AT Werfer","slug":"rhs-us-at-werfer","link":"#rhs-us-at-werfer","children":[]}]}');export{e as data};
