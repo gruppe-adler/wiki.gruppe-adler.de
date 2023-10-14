@@ -79,6 +79,14 @@ PrintFormat("Proxy: %1", rplComp.IsProxy());
 ```
 <img width="435" alt="Screenshot 2023-10-14 121225" src="https://github.com/gruppe-adler/wiki.gruppe-adler.de/assets/50139270/2a803322-05b7-4499-aca6-66f4b332c74d">
 
+### ... more in general
+```c#
+PrintFormat("Server: %1", Replication.IsServer());
+PrintFormat("Client: %1", Replication.IsClient());
+```
+<img width="347" alt="Screenshot 2023-10-14 142207" src="https://github.com/gruppe-adler/wiki.gruppe-adler.de/assets/50139270/5639a767-2900-46e2-a984-ec0a6093c943">
+
+
 ## Find entities
 ```c#
 // Give your entity a name in in the object properties (It's something like a variable name)
