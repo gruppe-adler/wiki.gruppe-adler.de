@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,d as o,b as t}from"./app.4d52ee10.js";const c={},s={id:"arma-reforger",tabindex:"-1"},n=t("a",{class:"header-anchor",href:"#arma-reforger","aria-hidden":"true"},"#",-1);function _(d,f){return r(),a("h1",s,[n,o(" Arma Reforger")])}var i=e(c,[["render",_]]);export{i as default};

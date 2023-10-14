@@ -1,0 +1,1 @@
+const e={key:"v-3332cecb",path:"/bastelstube/arma-reforger.html",title:"Arma Reforger",lang:"de",frontmatter:{},excerpt:"",headers:[],filePathRelative:"bastelstube/arma-reforger.md",git:{updatedTime:1697272455e3,contributors:[{name:"y0014984",email:"50139270+y0014984@users.noreply.github.com",commits:1}]}};export{e as data};
