@@ -98,6 +98,8 @@ IEntity entity = GetGame().GetWorld().FindEntityByName("MyEntity");
 ## Spectator
 See GRAD Spectator for implementation details: https://github.com/gruppe-adler/GRAD-Spectator
 ```c#
+// Execute locally
+
 // Get players entity position
 vector pos = GetGame().GetPlayerController().GetControlledEntity().GetOrigin();
 
