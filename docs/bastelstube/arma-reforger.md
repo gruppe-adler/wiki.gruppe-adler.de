@@ -95,3 +95,23 @@ IEntity entity = GetGame().GetWorld().FindEntityByName("MyEntity");
 ```
 <img width="343" alt="Screenshot 2023-10-14 120009" src="https://github.com/gruppe-adler/wiki.gruppe-adler.de/assets/50139270/8eebe4a3-df52-4b6b-b742-d31493a02e46">
 
+## Spectator
+See GRAD Spectator for implementation details: https://github.com/gruppe-adler/GRAD-Spectator
+```c#
+// Get players entity position
+vector pos = GetGame().GetPlayerController().GetControlledEntity().GetOrigin();
+
+// Change position to be above and behind the entity
+pos[2] = pos[2] - 4;
+pos[1] = pos[1] + 3;
+		
+// Enable specator by spawning the spectator entity at the given position
+EntitySpawnParams params = new EntitySpawnParams();
+params.Transform[3] = pos;
+Resource r = Resource.Load("{E1FF38EC8894C5F3}Prefabs/Editor/Camera/ManualCameraSpectate.et");
+IEntity spectator = GetGame().SpawnEntityPrefab(r, GetGame().GetWorld(), params);
+
+// Disable specator by deleting spectator entity
+SCR_EntityHelper.DeleteEntityAndChildren(spectator);
+```
+
