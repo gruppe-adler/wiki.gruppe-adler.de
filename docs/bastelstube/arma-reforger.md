@@ -117,3 +117,10 @@ IEntity spectator = GetGame().SpawnEntityPrefab(r, GetGame().GetWorld(), params)
 SCR_EntityHelper.DeleteEntityAndChildren(spectator);
 ```
 
+## Teleport
+```c#
+IEntity target = GetGame().GetWorld().FindEntityByName("SpawnPoint");
+
+GetGame().GetPlayerController().GetControlledEntity().SetOrigin(target.GetOrigin());
+```
+
