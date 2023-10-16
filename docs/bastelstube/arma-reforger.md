@@ -124,3 +124,12 @@ IEntity target = GetGame().GetWorld().FindEntityByName("SpawnPoint");
 GetGame().GetPlayerController().GetControlledEntity().SetOrigin(target.GetOrigin());
 ```
 
+## Scheduled execution
+```c#
+int delay = 250; // milliseconds
+bool repeat = false;
+string parameter1 = "Hello ";
+string parameter2 = "World!";
+
+GetGame().GetCallqueue().CallLater(FunctionWithoutBraces, delay, repeat, parameter1, parameter2);
+```
