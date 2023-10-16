@@ -121,7 +121,11 @@ SCR_EntityHelper.DeleteEntityAndChildren(spectator);
 ```c#
 IEntity target = GetGame().GetWorld().FindEntityByName("SpawnPoint");
 
+// This will not work very well in MP when executed on server
 GetGame().GetPlayerController().GetControlledEntity().SetOrigin(target.GetOrigin());
+
+// execute locally on players machine; works in MP
+SCR_Global.TeleportLocalPlayer(target.GetOrigin(), SCR_EPlayerTeleportedReason.DEFAULT);
 ```
 
 ## Scheduled execution
