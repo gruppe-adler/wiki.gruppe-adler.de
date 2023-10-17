@@ -143,3 +143,18 @@ GetGame().GetCallqueue().CallLater(FunctionWithoutBraces, delay, repeat, paramet
 SCR_Global.IsEditMode();
 // returns true if currentlich in Workbench Mode and not in-game
 ```
+
+## Check if Game Master is controlling an entity (possessing)
+```c#
+// This is a given entity; This is dummy code
+IEntity entity;
+
+int playerId = GetGame().GetPlayerManager().GetPlayerIdFromControlledEntity(entity);
+SCR_PlayerController playerController =  SCR_PlayerController.Cast(GetGame().GetPlayerManager().GetPlayerController(playerId));
+if (!playerController)
+	return;
+
+// Possessing means that the game master is controlling an AI character
+// The game master also has (optionally) it's own character; If he controls his own unit, it's not possessing
+Print(string.Format("isPossessing: %1", playerController.IsPossessing()), LogLevel.NORMAL);
+```
