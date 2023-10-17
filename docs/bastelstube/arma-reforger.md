@@ -137,3 +137,9 @@ string parameter2 = "World!";
 
 GetGame().GetCallqueue().CallLater(FunctionWithoutBraces, delay, repeat, parameter1, parameter2);
 ```
+
+## Check for Workbench Mode
+```c#
+SCR_Global.IsEditMode();
+// returns true if currentlich in Workbench Mode and not in-game
+```
