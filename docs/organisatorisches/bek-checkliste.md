@@ -49,4 +49,4 @@ Punkte die neben dem offensichtlichen wie Grundlagen in ACE und TFAR angesproche
 ➡️ GS Status im Forum vergeben  
 ➡️ GS Status im Discord vergeben  
 ➡️ Begrüßung im Vorstellungsthread  
-➡️ Meiungsthread erstellen  
+➡️ Meinungsthread erstellen  
