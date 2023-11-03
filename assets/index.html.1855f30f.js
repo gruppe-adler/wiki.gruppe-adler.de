@@ -1,0 +1,1 @@
+const a={key:"v-0c8d2a9a",path:"/organisatorisches/",title:"\u{1F5C4}\uFE0F Organisatorisches",lang:"de",frontmatter:{},excerpt:"",headers:[],filePathRelative:"organisatorisches/README.md",git:{updatedTime:1699042647e3,contributors:[{name:"Bernhard Mayr",email:"76476468+b-mayr-1984@users.noreply.github.com",commits:1}]}};export{a as data};
