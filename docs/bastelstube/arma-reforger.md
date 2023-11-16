@@ -158,3 +158,22 @@ if (!playerController)
 // The game master also has (optionally) it's own character; If he controls his own unit, it's not possessing
 Print(string.Format("isPossessing: %1", playerController.IsPossessing()), LogLevel.NORMAL);
 ```
+
+## Accessing Map Markers
+```c#
+SCR_MapMarkerManagerComponent mapMarkerManagerComp = SCR_MapMarkerManagerComponent.GetInstance();
+
+array<ref SCR_MapMarkerBase> staticMarkers = mapMarkerManagerComp.GetStaticMarkers();
+
+foreach (SCR_MapMarkerBase staticMarker : staticMarkers)
+{
+	// other interesting types are PLACED_MILITARY or SQUAD_LEADER which is a dynamic marker
+	if (staticMarker.GetType() == SCR_EMapMarkerType.PLACED_CUSTOM)
+	{
+		int markerPos[2];
+		staticMarker.GetWorldPos(markerPos);
+		string markerText = staticMarker.GetCustomText();
+		Print(string.Format("Custom Marker '%1' is at pos %2", markerText, markerPos));
+	}
+}
+```
