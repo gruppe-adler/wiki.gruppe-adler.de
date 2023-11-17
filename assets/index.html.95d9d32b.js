@@ -1,1 +1,0 @@
-const t={key:"v-504b8cae",path:"/infrastruktur/",title:"\u2699\uFE0F Infrastruktur",lang:"de",frontmatter:{},excerpt:"",headers:[],filePathRelative:"infrastruktur/README.md",git:{updatedTime:1700143549e3,contributors:[{name:"y0014984",email:"50139270+y0014984@users.noreply.github.com",commits:1}]}};export{t as data};
