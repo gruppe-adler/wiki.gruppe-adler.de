@@ -127,7 +127,7 @@ GetGame().GetPlayerController().GetControlledEntity().SetOrigin(target.GetOrigin
 // execute locally on players machine; works in MP
 SCR_Global.TeleportLocalPlayer(target.GetOrigin(), SCR_EPlayerTeleportedReason.DEFAULT);
 
-// execute on server
+// alternative syntax
 SCR_Global.TeleportPlayer(playerId, target.GetOrigin(), SCR_EPlayerTeleportedReason.DEFAULT);
 ```
 
