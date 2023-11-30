@@ -180,3 +180,10 @@ foreach (SCR_MapMarkerBase staticMarker : staticMarkers)
 	}
 }
 ```
+
+
+## Get Terrain Level on Position 
+// Arma3 eq:  GetPosATL // GetPos
+```c#
+float wy = GetWorld().GetSurfaceY(x, z);
+```
