@@ -187,3 +187,15 @@ foreach (SCR_MapMarkerBase staticMarker : staticMarkers)
 ```c#
 float wy = GetWorld().GetSurfaceY(x, z);
 ```
+
+## Attaching Stuff to other Stuff
+// Arma3 eq: attachTo
+```c#
+//!Add Entity to hierarchy. Pivot is pivot index, or -1 for center of parent.
+// The child has to have the hierarchy component. Only one requires hierarchy component.
+
+proto external int AddChild(notnull IEntity child, TNodeId pivot, EAddChildFlags flags = EAddChildFlags.AUTO_TRANSFORM);
+
+proto external void RemoveChild(notnull IEntity child, bool keepTransform = false);
+
+```
