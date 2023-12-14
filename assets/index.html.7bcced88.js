@@ -1,0 +1,1 @@
+const t={key:"v-504b8cae",path:"/infrastruktur/",title:"\u2699\uFE0F Infrastruktur",lang:"de",frontmatter:{},excerpt:"",headers:[],filePathRelative:"infrastruktur/README.md",git:{updatedTime:1702550174e3,contributors:[{name:"gelir95",email:"felix.ulrich95@googlemail.com",commits:1}]}};export{t as data};
