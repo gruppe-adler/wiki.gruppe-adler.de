@@ -1,6 +1,6 @@
 # :rainbow: Styleguide Design
 
-> Diese Seite beinhaltet eine Zusammenfassung des [Design Style Guides](https://app.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide) der Gruppe Adler. Diese Vorgaben dienen der Einheitlichkeit unseres Contents und sollten, wenn möglich, weitestgehend eingehalten werden, damit der Wiedererkennungswert unseres Contents gewährleistet ist.
+> Diese Seite beinhaltet eine Zusammenfassung des [Design Style Guides](https://company-89075.frontify.com/d/TGzpvq9Hw4EM) der Gruppe Adler. Diese Vorgaben dienen der Einheitlichkeit unseres Contents und sollten, wenn möglich, weitestgehend eingehalten werden, damit der Wiedererkennungswert unseres Contents gewährleistet ist.
 
 
 ## Farben
@@ -27,12 +27,12 @@ Das Gruppe Adler Design benutzt hauptsächlich verschiedene Grautöne, die nur p
 | <span class="color-blob" style="color: #8f1167"></span> | Führungspurpur | `#8f1167` | `143, 17, 103` |
 | <span class="color-blob" style="color: #010103"></span> | Adlerschwarz | `#010103` | `1, 1, 3` |
 
-> Die HEX- und RGB-Werte der **Grautöne** können im [Style Guide](https://app.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide#/farben) nachgesehen werden.
+> Die HEX- und RGB-Werte der **Grautöne** können im [Style Guide](https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide?#/-/farben) nachgesehen werden.
 
 
 ## Logo
 Das Logo ist eine Parodie auf einen Bundesadler mit Kampfhelm, der gerade einen Facepalm ausführt und auf dem Schriftzug der Gruppe Adler hockt.
-Dateien abrufbar unter [Frontify](https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide)
+Dateien abrufbar unter [Frontify](https://company-89075.frontify.com/d/TGzpvq9Hw4EM/gruppe-adler-style-guide?#/-/logo)
 
 ## Typographie
 Für Überschriften benutzen wir <span style="font-family:Oswald; font-size:1.25em">Oswald.</span> ([Download](https://fonts.google.com/specimen/Oswald))  
