@@ -1,1 +1,0 @@
-const t={key:"v-0df885de",path:"/taktik/",title:"\u{1F9ED} Taktik",lang:"de",frontmatter:{},excerpt:"",headers:[],filePathRelative:"taktik/README.md",git:{updatedTime:1719073692e3,contributors:[{name:"DerZade",email:"DerZade@gmail.com",commits:1}]}};export{t as data};
