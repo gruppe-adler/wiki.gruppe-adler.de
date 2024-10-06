@@ -1,10 +1,13 @@
+@use 'sass:color';
+
 @font-face {
     font-family: 'Oswald';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
     src: url(./fonts/oswald_v36_latin.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC,
+        U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 @font-face {
@@ -13,33 +16,40 @@
     font-weight: 400;
     font-display: swap;
     src: url(./fonts/sourcesanspro_v14_latin.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC,
+        U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 body {
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-h1, h2, h3 {
-    font-family: "Oswald", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+h1,
+h2,
+h3 {
+    font-family: 'Oswald', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-:root, html.dark {
+:root,
+html.dark {
     // brand colors
-    --c-brand: #D18F1F;
-    --c-brand-light: #{lighten(#D18F1F, 10%)};
-    --c-tip: #66AA66;
-    --c-warning: #D18D1F;
-    --c-warning-title: #D18F1F;
-    --c-danger: #CC3B32;
+    --c-brand: #d18f1f;
+    --c-brand-light: #{color.adjust(#d18f1f, $lightness: 10%)};
+    --c-tip: #66aa66;
+    --c-warning: #d18d1f;
+    --c-warning-title: #d18f1f;
+    --c-danger: #cc3b32;
 }
 
 // Tweaks for GA Navbar
 $grad_nav_height: 72px;
-:root, html.dark {
+
+:root,
+html.dark {
     --navbar-height: calc(3.6rem + #{$grad_nav_height});
 }
-header.navbar {
+
+header.vp-navbar {
     top: $grad_nav_height;
     --navbar-height: 3.6rem;
 }
@@ -47,5 +57,5 @@ header.navbar {
 // PWA Popup
 .pwa-popup {
     --pwa-popup-border-color: var(--c-border);
-    --pwa-popup-shadow: 0 4px 16px rgba(0,0,0,0.3);
+    --pwa-popup-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
 }

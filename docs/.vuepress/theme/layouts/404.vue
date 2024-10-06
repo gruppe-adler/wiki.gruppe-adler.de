@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import Layout from '@vuepress/theme-default/lib/client/layouts/Layout.vue'
+import Layout from '@vuepress/theme-default/lib/client/layouts/Layout.vue';
 
 const msgs = [
     'Du hast dich verlaufen.',
@@ -20,18 +20,18 @@ const msgs = [
     'Dies ist nicht die Seite die du sehen wolltest.',
     'Du bist auf dem falschen Pfad unterwegs.',
     'XiviD ist Schuld.'
-]
+];
 
 export default {
     components: {
-        Layout,
+        Layout
     },
     methods: {
-        getMsg () {
-           return msgs[Math.floor(Math.random() * msgs.length)]
+        getMsg() {
+            return msgs[Math.floor(Math.random() * msgs.length)];
         }
     }
-}
+};
 </script>
 <style lang="scss" scoped>
 .page-404 {
@@ -42,10 +42,10 @@ export default {
     align-items: center;
     row-gap: 1rem;
     column-gap: 2rem;
-    grid-template: 
-        "logo heading" .5fr
-        "logo quote" auto
-        "logo link" .5fr / auto auto;
+    grid-template:
+        'logo heading' 0.5fr
+        'logo quote' auto
+        'logo link' 0.5fr / auto auto;
 
     img {
         grid-area: logo;
@@ -68,14 +68,13 @@ export default {
         grid-area: link;
     }
 
-    
-    @media(max-width: 700px) {
+    @media (max-width: 700px) {
         justify-items: center;
-        grid-template: 
-            "logo" auto
-            "heading" auto
-            "quote" auto
-            "link" auto / auto;
+        grid-template:
+            'logo' auto
+            'heading' auto
+            'quote' auto
+            'link' auto / auto;
     }
 }
 </style>

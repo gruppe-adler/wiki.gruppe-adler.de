@@ -3,10 +3,10 @@
         <template #page>
             <main class="page grad-landing-page">
                 <h1>
-                    <img :src="$withBase('/images/adlerkopp.png')" />
+                    <img :src="withBase('/images/adlerkopp.png')" />
                     <span>Gruppe Adler Wiki</span>
                 </h1>
-                <SearchBox style="grid-column: 1 / 3;"/>
+                <SearchBox style="grid-column: 1 / 3" />
                 <router-link to="wiki-index">Index</router-link>
                 <router-link to="/infrastruktur/wiki-how-to">Wiki How-To</router-link>
             </main>
@@ -15,9 +15,10 @@
 </template>
 
 <script>
-import Layout from '@vuepress/theme-default/lib/client/layouts/Layout.vue'
+import { withBase } from 'vuepress/client';
+import Layout from '@vuepress/theme-default/lib/client/layouts/Layout.vue';
 
-export default { components: { Layout } }
+export default { components: { Layout }, methods: { withBase } };
 </script>
 <style lang="scss">
 .grad-landing-page {
@@ -30,38 +31,35 @@ export default { components: { Layout } }
     column-gap: 3rem;
     row-gap: 1rem;
 
-    grid-template: 
-        "heading heading" auto
-        "search search" auto
-        "index how-to" auto / .5fr .5fr;
+    grid-template:
+        'heading heading' auto
+        'search search' auto
+        'index how-to' auto / 0.5fr 0.5fr;
 
     > h1 {
         display: flex;
         align-items: center;
-        column-gap: .25em;
+        column-gap: 0.25em;
         margin: 0;
         grid-area: heading;
-        
 
         img {
             height: 1.5em;
         }
-
     }
 
     > a {
         color: var(--c-text-lighter);
 
         &:first-of-type {
-            grid-area:  index;
+            grid-area: index;
             justify-self: flex-end;
         }
         &:last-child {
-            grid-area:  how-to;
+            grid-area: how-to;
             justify-self: flex-start;
         }
     }
-
 
     --search-input-width: min(40rem, calc(100vw - 2rem));
     --search-result-width: var(--search-input-width);
@@ -83,6 +81,10 @@ export default { components: { Layout } }
                 cursor: text;
                 width: var(--search-input-width);
                 border-color: var(--search-border-color);
+
+                &:focus {
+                    width: var(--search-input-width);
+                }
             }
         }
 

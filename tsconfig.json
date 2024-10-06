@@ -1,0 +1,8 @@
+{
+    "include": ["./docs/.vuepress/**/*.ts", "./docs/.vuepress/**/*.vue"],
+    "compilerOptions": {
+        "module": "esnext",
+        "moduleResolution": "Node",
+        "types": ["vuepress/client-types"]
+    }
+}
